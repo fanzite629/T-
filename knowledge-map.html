@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>电位分析法 · 章节结构图</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root { --bg: #0B1A2E; --panel: #0F2138; --line: #1D3554; --text: #EAF2FB; --muted: #8EA3BC; --dim: #5D7390;
+          --cyan: #3DD5F3; --gold: #F7C548; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; background: #050c18; overflow: hidden;
+    font-family: "Noto Sans SC", "PingFang SC", "Microsoft YaHei", "WenQuanYi Zen Hei", sans-serif; color: var(--text); }
+  #fit { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; }
+  #canvas { width: 1920px; height: 1080px; flex: none; transform-origin: center; position: relative; padding: 48px 60px;
+    background: radial-gradient(ellipse at 50% 40%, #0E2240, #06101F); }
+  header { display: flex; align-items: flex-end; justify-content: space-between; }
+  .kicker { color: var(--muted); font-size: 22px; }
+  h1 { margin: 6px 0 0; font-size: 46px; }
+  h1 em { font-style: normal; color: var(--gold); }
+  .core { margin-top: 18px; padding: 16px 24px; border: 1.6px solid var(--gold); border-radius: 14px;
+    background: rgba(247,197,72,.06); display: flex; gap: 36px; align-items: center; font-size: 22px; }
+  .core b { color: var(--gold); font-weight: 700; font-size: 26px; }
+  .core .chain { color: var(--text); }
+  .core .chain span { color: var(--cyan); }
+  .grid { margin-top: 26px; display: grid; grid-template-columns: repeat(4, 1fr); gap: 34px 46px; position: relative; }
+  .card { position: relative; background: var(--panel); border: 1.6px solid var(--line); border-radius: 16px; padding: 18px 22px 16px; height: 345px; }
+  .card h2 { margin: 0; font-size: 24px; display: flex; align-items: center; gap: 10px; }
+  .card h2 .no { font-size: 17px; color: #06101F; background: var(--cyan); border-radius: 6px; padding: 1px 8px; font-weight: 700; }
+  .card .pg { color: var(--dim); font-size: 15px; margin-top: 4px; }
+  .card ul { margin: 12px 0 0; padding-left: 20px; font-size: 19px; line-height: 1.55; }
+  .card li::marker { color: var(--cyan); }
+  .card .f { color: var(--gold); }
+  .tags { position: absolute; right: 16px; bottom: 14px; display: flex; gap: 6px; }
+  .tag { width: 28px; height: 28px; border-radius: 50%; border: 1.6px solid var(--cyan); color: var(--cyan);
+    font-size: 15px; display: grid; place-items: center; font-weight: 700; }
+  footer { position: absolute; left: 60px; right: 60px; bottom: 26px; display: flex; justify-content: space-between; color: var(--muted); font-size: 16px; }
+  footer .legend { display: flex; gap: 18px; align-items: center; }
+  sub, sup { font-size: .68em; }
+</style>
+</head>
+<body>
+<div id="fit"><div id="canvas">
+  <header>
+    <div>
+      <div class="kicker">现代分析仪器及应用 · 第 4 章 · 章节知识结构图</div>
+      <h1>电位分析法：<em>零电流下测电动势</em>，由能斯特方程求离子活度</h1>
+    </div>
+  </header>
+  <div class="core">
+    <b>主线</b>
+    <div class="chain">两电极组成原电池 <span>→</span> 零电流测电动势 E <span>→</span> E 与 lg a 呈线性（能斯特方程） <span>→</span> 用标准校准 K′ <span>→</span> 得到 pH / 离子浓度</div>
+  </div>
+
+  <div class="grid">
+    <div class="card">
+      <div class="tags"><div class="tag">1</div></div>
+      <h2><span class="no">4-1</span>电分析化学概要</h2>
+      <div class="pg">课件 P3–15</div>
+      <ul>
+        <li>电分析化学：据电学、电化学性质测组成与含量</li>
+        <li>分类：电位 / 电导 / 库仑 / 伏安分析等</li>
+        <li>原电池 ⇄ 电解池；电动势 <span class="f">E = φ<sub>正</sub> − φ<sub>负</sub></span></li>
+        <li>活度 <span class="f">a = γc</span>（有效浓度）</li>
+      </ul>
+    </div>
+    <div class="card">
+      <div class="tags"><div class="tag">1</div><div class="tag">2</div></div>
+      <h2><span class="no">4-2</span>电位分析法原理</h2>
+      <div class="pg">课件 P16–19</div>
+      <ul>
+        <li>实质：零电流下测两电极间电位差</li>
+        <li>依据：能斯特方程<br><span class="f">E = E<sup>Θ</sup> + (RT/nF) ln(a<sub>Ox</sub>/a<sub>Red</sub>)</span></li>
+        <li>直接电位法：指示电极把活度转成电位</li>
+      </ul>
+    </div>
+    <div class="card">
+      <div class="tags"><div class="tag">3</div><div class="tag">4</div></div>
+      <h2><span class="no">4-3</span>电位法测定溶液 pH</h2>
+      <div class="pg">课件 P20–35</div>
+      <ul>
+        <li>指示：玻璃电极；参比：甘汞 / Ag-AgCl</li>
+        <li>膜电位、不对称电位、液接电位（盐桥减小）</li>
+        <li><span class="f">E = K′ + (2.303RT/F) pH</span>，25 ℃ 斜率 59.16 mV</li>
+        <li>K′ 无法确定 → 标准缓冲液定位后读 pH</li>
+      </ul>
+    </div>
+    <div class="card">
+      <div class="tags"><div class="tag">2</div><div class="tag">5</div></div>
+      <h2><span class="no">4-4</span>离子选择性电极与膜电位</h2>
+      <div class="pg">课件 P40–47</div>
+      <ul>
+        <li>结构类同玻璃电极，敏感膜不同</li>
+        <li>膜电位 = 扩散电位 + 道南电位</li>
+        <li><span class="f">E<sub>M</sub> = K ± (2.303RT/nF) lg a</span>（阳 +，阴 −）</li>
+        <li>离子交换与扩散，非电子得失</li>
+      </ul>
+    </div>
+    <div class="card">
+      <div class="tags"><div class="tag">5</div></div>
+      <h2><span class="no">4-5</span>离子选择性电极的选择性</h2>
+      <div class="pg">课件 P48–52</div>
+      <ul>
+        <li>共存离子也会产生响应（如 pH &gt; 9 钠误差）</li>
+        <li>选择性系数 K<sub>i,j</sub>：越小，干扰越小</li>
+        <li><span class="f">相对误差 = K<sub>i,j</sub>·a<sub>j</sub><sup>n<sub>i</sub>/n<sub>j</sub></sup> / a<sub>i</sub> × 100%</span></li>
+      </ul>
+    </div>
+    <div class="card">
+      <div class="tags"><div class="tag">5</div></div>
+      <h2><span class="no">4-6</span>电极种类和性能</h2>
+      <div class="pg">课件 P53–57</div>
+      <ul>
+        <li>原电极（晶体膜、非晶体膜）、敏化电极（气敏、酶）</li>
+        <li>F<sup>−</sup> 电极：LaF<sub>3</sub> 单晶掺 EuF<sub>3</sub></li>
+        <li>pH 5–7 使用，OH<sup>−</sup> 为主要干扰</li>
+        <li>1 ~ 10<sup>−6</sup> mol/L 符合能斯特公式</li>
+      </ul>
+    </div>
+    <div class="card">
+      <div class="tags"><div class="tag">5</div></div>
+      <h2><span class="no">4-7</span>测定离子活（浓）度方法</h2>
+      <div class="pg">课件 P58–66</div>
+      <ul>
+        <li>直接比较法</li>
+        <li>标准曲线法：TISAB 稳定离子强度</li>
+        <li>标准加入法：c<sub>s</sub> ≈ 100c<sub>x</sub>，V<sub>s</sub> ≈ V<sub>0</sub>/100<br><span class="f">c<sub>x</sub> = Δc (10<sup>ΔE/S</sup> − 1)<sup>−1</sup></span></li>
+        <li>格氏作图法（连续标准加入）</li>
+      </ul>
+    </div>
+    <div class="card">
+      <div class="tags"><div class="tag">5</div></div>
+      <h2><span class="no">4-8</span>影响测定的因素</h2>
+      <div class="pg">课件 P67–70</div>
+      <ul>
+        <li>温度（斜率、截距）；电动势测量误差</li>
+        <li>干扰离子；溶液 pH；被测离子浓度</li>
+        <li>响应时间；迟滞效应</li>
+        <li>一价离子：ΔE = 1 mV ≈ 4% 浓度误差</li>
+      </ul>
+    </div>
+  </div>
+  <footer>
+    <div class="legend"><span>圆圈数字 = 对应一分钟动画中的分支：</span>
+      <span>① 测什么</span><span>② 为什么能测</span><span>③ 用什么测</span><span>④ 怎样测 pH</span><span>⑤ 其他离子 · 测准</span></div>
+    <div>依据第 4 章课件（PDF 页序）整理</div>
+  </footer>
+</div></div>
+<script>
+  const fit = () => { const s = Math.min(innerWidth / 1920, innerHeight / 1080); document.getElementById('canvas').style.transform = `scale(${s})`; };
+  addEventListener('resize', fit); fit();
+</script>
+</body>
+</html>

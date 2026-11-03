@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>电位分析法 · 一分钟</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="src/styles.css">
+</head>
+<body>
+<div id="player">
+  <div id="stageWrap">
+    <svg id="stage" viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg" role="img"
+         aria-label="电位分析法一分钟动态思维导图"></svg>
+    <button id="bigPlay" aria-label="播放">▶</button>
+  </div>
+
+  <div id="controls">
+    <div id="timeline">
+      <div id="segRow"></div>
+      <input id="scrub" type="range" min="0" max="60" step="0.01" value="0" aria-label="时间轴">
+    </div>
+    <div id="btnRow">
+      <button id="btnPlay" title="播放 / 暂停（空格）">▶ 播放</button>
+      <button id="btnReplay" title="重新播放（R）">↺ 重播</button>
+      <span id="time">00.0 / 60.0 s</span>
+      <span class="sep"></span>
+      <button id="btnMode" title="自动：连续播放 60 秒；手动：点击分支只播放该段">模式：自动</button>
+      <button id="btnCap" class="on" title="字幕开关（C）">字幕</button>
+      <button id="btnNotes" class="on" title="说明文字开关（N）">说明文字</button>
+      <button id="btnMap" title="跳到全图总结（0）">全图</button>
+      <button id="btnFs" title="全屏（F）">⛶ 全屏</button>
+    </div>
+    <div id="hint">空格 播放/暂停 · ←/→ 跳 1 秒 · 1–5 跳分支 · 0 全图 · C 字幕 · N 说明 · F 全屏 · H 隐藏控制栏</div>
+  </div>
+</div>
+<script src="src/data.js"></script>
+<script src="src/app.js"></script>
+</body>
+</html>
