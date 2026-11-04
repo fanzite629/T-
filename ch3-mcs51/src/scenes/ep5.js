@@ -63,12 +63,12 @@ scene('jumps', '无条件跳转 AJMP、LJMP、SJMP 与偏移量', (g, L, Ee, F) 
   arrow(dg, 960, 700, 500, 700, C.violet, 5); T(dg, 520, 680, 'rel < 0：向小地址', { size: 28, fill: C.violet });
   arrow(dg, 960, 780, 1420, 780, C.green, 5); T(dg, 1010, 830, 'rel > 0：向大地址', { size: 28, fill: C.green });
   const p2 = G(g, { in: L(4) });
-  const M = mem(p2, 140, 240, [['8000H', 'MAIN: MOV A,#01H'], ['8002H', 'ADD A,#02H'], ['…', '…'], ['8006H', 'SJMP MAIN/DIR'], ['8008H', 'MOV A,@R0'], ['…', '…'], ['800FH', 'DIR: MOV A,R2']],
+  const M = mem(p2, 220, 240, [['8000H', 'MAIN: MOV A,#01H'], ['8002H', 'ADD A,#02H'], ['…', '…'], ['8006H', 'SJMP MAIN/DIR'], ['8008H', 'MOV A,@R0'], ['…', '…'], ['800FH', 'DIR: MOV A,R2']],
     { w: 420, h: 66, gap: 12, aw: 130, size: 26, old: false });
   M.focus(L(4), Ee(4), '8006H', C.gold);
   const ptr = G(p2, { in: L(6) });
-  pointer(ptr, 280, M.yOf('8008H'), 'PC', []);
-  T(ptr, 760, M.yOf('8008H') + 9, '← PC 当前值 = 8008H', { size: 28, fill: C.gold });
+  pointer(ptr, 200, M.yOf('8008H'), 'PC', []);
+  T(ptr, 220, M.yOf('800FH') + 80, 'PC 当前值 = 8008H（SJMP 的下一条指令）', { size: 28, fill: C.gold });
   const fg = G(p2, { in: L(5) });
   card(fg, 1060, 240, 800, 120, { fill: 'rgba(247,197,72,.1)', stroke: C.gold });
   T(fg, 1460, 315, 'e = 目的地址 − PC 当前值（补码）', { size: 34, anchor: 'middle', fill: C.gold, weight: 700, maxw: 760 });
@@ -76,11 +76,11 @@ scene('jumps', '无条件跳转 AJMP、LJMP、SJMP 与偏移量', (g, L, Ee, F) 
   card(m1, 1060, 400, 800, 170, { fill: C.panel2, stroke: C.violet });
   T(m1, 1090, 455, '→ MAIN：8000H − 8008H = −8', { size: 32, mono: true, maxw: 740 });
   T(m1, 1090, 525, '−8 的补码 = F8H', { size: 36, mono: true, fill: C.violet, weight: 700 });
-  D(path(m1, `M690 ${M.yOf('8006H')} C 860 ${M.yOf('8006H')}, 860 ${M.yOf('8000H')}, 690 ${M.yOf('8000H')}`, C.violet, 4), L(7) + 0.5, 0.8);
+  D(path(m1, `M770 ${M.yOf('8006H')} C 940 ${M.yOf('8006H')}, 940 ${M.yOf('8000H')}, 770 ${M.yOf('8000H')}`, C.violet, 4), L(7) + 0.5, 0.8);
   const m2 = G(p2, { in: L(8) });
   card(m2, 1060, 600, 800, 120, { fill: C.panel2, stroke: C.green });
   T(m2, 1090, 675, '→ DIR：800FH − 8008H = 07H', { size: 32, mono: true, fill: C.green, weight: 700, maxw: 740 });
-  D(path(m2, `M690 ${M.yOf('8006H') + 10} C 930 ${M.yOf('8006H')}, 930 ${M.yOf('800FH')}, 690 ${M.yOf('800FH')}`, C.green, 4), L(8) + 0.5, 0.8);
+  D(path(m2, `M770 ${M.yOf('8006H') + 10} C 1010 ${M.yOf('8006H')}, 1010 ${M.yOf('800FH')}, 770 ${M.yOf('800FH')}`, C.green, 4), L(8) + 0.5, 0.8);
   note(p2, 1060, 750, 800, ['目的地址 − 下一条指令的地址'], 'key', L(9), { size: 30 });
 });
 
@@ -235,7 +235,7 @@ scene('ex2', '综合举例 2：统计 20H 中 1 的个数', (g, L, Ee, F) => {
   const K = code(g, 60, 210, [['      MOV A,20H', ''], ['      MOV R1,#08H', ';计数判断 8 次'], ['      MOV R0,#00H', ';1 的个数清 0'], ['LOOP: RLC A', ''], ['      JNC ZERO', ';C=0 跳'], ['      INC R0', ';C=1 计数'],
     ['ZERO: DJNZ R1,LOOP', ''], ['STOP: SJMP STOP', ';暂停']], { w: 820, cw: 300, lh: 60, size: 28, reveal: 'all' });
   K.step(L(1), 0).step(F(1, 0.35), 1).step(F(1, 0.7), 2).step(L(2), 3).step(F(2, 0.4), 4).step(F(2, 0.75), 5).step(L(3), 6).step(F(3, 0.7), 7).off(L(4));
-  demo(g, 960, 220, L(4));
+  demo(g, 960, 196, L(4));
   const M = mem(G(g, { in: L(4) }), 940, 300, [['20H', '0B5H']], { w: 160, h: 60, aw: 80, old: false });
   const B = bits(G(g, { in: L(4) }), 1060, 450, '--------', { w: 70, h: 66, gap: 6, carry: '-', cname: 'C', name: 'A' });
   const R = regs(G(g, { in: L(4) }), 1240, 300, [['R1', '--'], ['R0', '--']], { w: 140, h: 60, gx: 30 });
