@@ -101,7 +101,7 @@ scene('rotex', '移位举例：从 E2H 开始逐条执行', (g, L, Ee, F) => {
   const K = code(g, 60, 220, [['CLR C', ';C=0'], ['MOV A,#0E2H', ';11100010  E2H'], ['RL A', ';11000101  C5H'], ['RLC A', ';10001010  C=1'], ['RR A', ';01000101  45H'],
     ['RRC A', ';10100010  C=1'], ['SWAP A', ';00101010  2AH']], { w: 760, cw: 380, lh: 66, size: 30 });
   K.step(F(1, 0.05), 0).step(F(1, 0.5), 1).step(L(2), 2).step(L(3), 3).step(L(4), 4).step(L(5), 5).step(L(6), 6).off(L(7));
-  const B = bits(g, 960, 330, '--------', { w: 82, h: 82, gap: 8, carry: '-', cname: 'C', hex: '--' });
+  const B = bits(g, 940, 330, '--------', { w: 76, h: 80, gap: 6, carry: '-', cname: 'C', hex: '--' });
   B.setC(F(1, 0.2), 0);
   B.set(F(1, 0.75), '11100010', 'E2H');
   const steps = [
@@ -140,8 +140,8 @@ scene('dualops', '3.4.2 双操作数逻辑运算 ANL、ORL、XRL', (g, L, Ee, F)
   const K = code(p2, 60, 210, [['MOV A,#46H', ';01000110'], ['MOV 40H,#59H', ';01011001'], ['ANL A,#37H', ';A=06H'], ['ORL 40H,A', ';(40H)=5FH'], ['ORL A,40H', ';A=5FH'], ['XRL A,#55H', ';A=0AH']],
     { w: 760, cw: 300, lh: 64, size: 30 });
   K.step(F(3, 0.1), 0).step(F(3, 0.55), 1).step(L(4), 2).step(L(5), 3).step(L(6), 4).step(L(7), 5).off(L(8));
-  const R = regs(p2, 120, 680, [['A', '--']], { w: 200, h: 80 });
-  const M = mem(p2, 380, 640, [['40H', '--']], { w: 200, h: 80, aw: 80, title: '片内 RAM' });
+  const R = regs(p2, 120, 720, [['A', '--']], { w: 200, h: 80 });
+  const M = mem(p2, 380, 720, [['40H', '--']], { w: 200, h: 80, aw: 80, title: '片内 RAM' });
   R.set(F(3, 0.3), 'A', '46H'); M.set(F(3, 0.8), '40H', '59H');
   const ops = [
     [4, 0x46, 0x37, 0x46 & 0x37, 'AND', 'A', '#37H', 'A'],
@@ -256,7 +256,7 @@ scene('bitlogic', '3.4.3 位逻辑操作指令', (g, L, Ee, F) => {
   Cc.set(F(5, 0.7), 'C', '1').set(F(6, 0.7), 'C', '1').set(F(7, 0.5), 'C', '0').set(F(8, 0.85), 'C', '0');
   B24.cells[3].focus(L(8) + 1, Ee(9), C.red);
   const wg = G(p2, { in: L(8) + 1 });
-  T(wg, 1010, 470, '↑ 位地址 24H = 字节 24H 的 D4 = 0', { size: 26, fill: C.red });
+  T(wg, 1010, 450, '↑ 位地址 24H = 字节 24H 的 D4 = 0', { size: 26, fill: C.red });
   note(p2, 60, 830, 900, ['同样写 24H：MOV 24H,#02H 是{g|字节地址}；', 'ORL C,24H 是{g|位地址}'], 'key', L(9), { size: 26, out: L(10) - 0.2 });
   const ng = G(p2, { in: L(10) });
   card(ng, 1010, 700, 850, 210, { fill: 'rgba(6,14,28,.95)', stroke: C.cyan });

@@ -95,12 +95,13 @@ scene('ranges', '溢出判断：三种编码的范围与补码圆环', (g, L, Ee
   el('circle', { cx, cy, r, fill: 'rgba(91,140,255,.18)', stroke: C.blue, 'stroke-width': 3 }, wg);
   // value v in [-128,127] → angle; 0 at bottom, increasing clockwise toward the right side? choose: positive on right
   const ang = v => Math.PI / 2 - (v / 128) * Math.PI; // 0 → bottom(90deg in svg y-down: sin=1), 128 → top
-  const pos = (v, rr) => [cx + rr * Math.cos(ang(v)) * -1, cy + rr * Math.sin(ang(v))];
+  const pos = (v, rr) => [cx + rr * Math.cos(ang(v)), cy + rr * Math.sin(ang(v))];
   [[0, '0'], [1, '1'], [-1, '−1'], [64, '64'], [-64, '−64'], [127, '127'], [-127, '−127'], [-128, '−128']].forEach(([v, s]) => {
     const [x, y] = pos(v === -128 ? 128 : v, r + 40);
     const [x1, y1] = pos(v === -128 ? 128 : v, r - 12), [x2, y2] = pos(v === -128 ? 128 : v, r + 12);
     el('path', { d: `M${x1} ${y1} L${x2} ${y2}`, stroke: C.text, 'stroke-width': 2 }, wg);
-    T(wg, x + (v === 127 ? 30 : v === -127 ? -30 : 0), y + 9 + (v === -128 ? -8 : 0), s, { size: 26, anchor: 'middle', mono: true, fill: v === -128 || v === 127 ? C.gold : C.text });
+    const off = { 0: [0, 26], 1: [40, 10], [-1]: [-40, 10], 127: [52, 4], [-127]: [-56, 4], [-128]: [0, -26], 64: [12, 0], [-64]: [-12, 0] }[v];
+    T(wg, x + off[0], y + 9 + off[1], s, { size: 26, anchor: 'middle', mono: true, fill: v === -128 || v === 127 ? C.gold : C.text });
   });
   T(wg, cx + 120, cy + 10, '正数 →', { size: 26, fill: C.green });
   T(wg, cx - 220, cy + 10, '← 负数', { size: 26, fill: C.violet });
@@ -194,9 +195,9 @@ scene('add', '3.5.1 加法指令 ADD、ADDC 与标志变化', (g, L, Ee, F) => {
 /* ---------------- INC (P64) ---------------- */
 scene('inc', '自增 1 指令 INC', (g, L, Ee, F) => {
   T(G(g, { in: L(0) }), 80, 250, 'INC A ; (A)+1 → A        INC R0 ; (R0)+1 → R0', { size: 32, mono: true, fill: C.cyan, maxw: 1760 });
-  note(g, 80, 290, 1760, ['INC 指令{g|不影响} PSW 中的标志位'], 'key', L(1), { size: 30 });
+  note(g, 80, 280, 1760, ['INC 指令{g|不影响} PSW 中的标志位'], 'key', L(1), { size: 30 });
   const dg = G(g, { in: L(3) });
-  pill(dg, 80, 440, 400, 46, '演示数据（课件未给出）', { size: 22, stroke: C.violet, fill: C.violet, bg: 'rgba(167,139,250,.1)' });
+  pill(dg, 760, 410, 400, 46, '演示数据（课件未给出）', { size: 22, stroke: C.violet, fill: C.violet, bg: 'rgba(167,139,250,.1)' });
   const pane = (x, ins, tin, a2, cy2, ac2) => {
     const pg = G(g, { in: tin });
     card(pg, x, 510, 860, 300, { fill: C.panel2 });
@@ -204,7 +205,7 @@ scene('inc', '自增 1 指令 INC', (g, L, Ee, F) => {
     const R = regs(pg, x + 60, 650, [['A', 'FFH'], ['CY', '原值'], ['AC', '原值']], { w: 180, h: 70, gx: 40 });
     return R;
   };
-  T(G(g, { in: L(2) }), 80, 420, '分别运行：A 都加 1，但 PSW 不同', { size: 30 });
+  T(G(g, { in: L(2) }), 80, 445, '分别运行：A 都加 1，但 PSW 不同', { size: 30 });
   const R1 = pane(80, 'INC A', L(2), '00H');
   const R2 = pane(980, 'ADD A,#01H', L(2));
   R1.set(L(3) + 3, 'A', '00H');
@@ -272,10 +273,10 @@ scene('da', '3.5.3 十进制加法调整 DA A', (g, L, Ee, F) => {
   const sz = 44, xr = 700;
   const eg = G(p1, { in: L(1) });
   T(eg, 60, 310, '例 1：96 + 89 = 185', { size: 32, weight: 700 });
-  column(eg, xr, 400, [{ s: '10010110', in: L(2), note: '96' }, { s: '+ 10001001', in: L(2) + 0.6, note: '89' }, { line: true, in: L(2) + 1.2 },
+  column(eg, xr, 380, [{ s: '10010110', in: L(2), note: '96' }, { s: '+ 10001001', in: L(2) + 0.6, note: '89' }, { line: true, in: L(2) + 1.2 },
     { s: '1 00011111', in: L(2) + 1.5, fill: C.red, note: '1111 不是十进制数字！' }, { s: '+ 01100110', in: L(5) + 1, note: '加 66H', nfill: C.green }, { line: true, in: L(6) },
-    { s: '1 10000101', in: L(6) + 0.5, fill: C.green, note: 'CY=1，A=85H → 185' }], { size: sz, lw: 330, nw: 420 });
-  vline(eg, xr, sz, 4, 350, 720, C.red);
+    { s: '1 10000101', in: L(6) + 0.5, fill: C.green, note: 'CY=1，A=85H → 185' }], { size: 40, lh: 56, lw: 300, nw: 420 });
+  vline(eg, xr, 40, 4, 340, 720, C.red);
   const rg = G(p1, { in: L(3) });
   card(rg, 1240, 280, 620, 420, { fill: C.panel2, stroke: C.gold });
   T(rg, 1265, 335, '调整原则', { size: 32, fill: C.gold, weight: 700 });
@@ -286,7 +287,7 @@ scene('da', '3.5.3 十进制加法调整 DA A', (g, L, Ee, F) => {
   T(r2, 1265, 575, '④ AC = 1 且 CY = 1 → 加 66H', { size: 26, maxw: 580 });
   T(G(rg, { in: L(5) }), 1265, 650, '本例：低 4 位 > 9，CY=1 → +66H', { size: 26, fill: C.green, maxw: 580 });
   const p2 = G(g, { in: L(7), out: L(9) - 0.2 });
-  card(p2, 60, 740, 1800, 180, { fill: 'rgba(6,14,28,.97)', stroke: C.cyan });
+  card(p2, 60, 745, 1800, 180, { fill: 'rgba(6,14,28,.97)', stroke: C.cyan });
   T(p2, 90, 795, '例 2：19 + 58 = 77   MOV A,#19H / ADD A,#58H / DA A / MOV 50H,A', { size: 28, mono: true, maxw: 1740 });
   T(p2, 90, 850, '00011001 + 01011000 = 01110001 (71H)，AC=1', { size: 28, mono: true, fill: C.text, maxw: 1740 });
   T(G(p2, { in: L(8) }), 90, 900, '+ 00000110 → 01110111 (77H)，(50H) = 77H', { size: 28, mono: true, fill: C.green, maxw: 1740 });

@@ -115,7 +115,7 @@ scene('mov2', 'MOV 注意（1）（2）：SFR 名称与地址', (g, L, Ee, F) =>
   T(c2b, 85, 615, '写入数据丢失，读出数据不定', { size: 28, fill: C.red });
   // SFR map 80H..FFH
   const mg = G(g, { in: L(3) });
-  const x0 = 960, y0 = 250, cw = 54, ch = 44;
+  const x0 = 960, y0 = 250, cw = 50, ch = 44;
   T(mg, x0 + 8 * cw + 40, y0 - 22, '80H~FFH 地址分布（标准 8051 的 21 个 SFR，补充）', { size: 22, anchor: 'middle', fill: C.muted, maxw: 900 });
   for (let c = 0; c < 16; c++) T(mg, x0 + 60 + c * cw + cw / 2, y0 + 10, c.toString(16).toUpperCase(), { size: 18, anchor: 'middle', fill: C.muted, mono: true });
   const div8 = [];
@@ -160,8 +160,8 @@ scene('mov3', 'MOV 注意（3）：@Ri、# 与位传送', (g, L, Ee, F) => {
   R.set(F(3, 0.75), 'A', '30H');
   const ag = G(p1, { in: L(3) + 1 });
   D(path(ag, 'M1325 360 C 1390 360, 1400 395, 1555 395', C.cyan, 4), L(3) + 1, 0.8);
-  note(p1, 80, 560, 1760, ['R0 中的 40H 不是被操作的数，而是被操作数所在的{g|地址}'], 'key', L(4), { size: 30 });
-  note(p1, 80, 720, 1760, ['Ri 只能是 R0 或 R1；@R2~@R7 无效！'], 'warn', L(5), { size: 30, tag: '⚠ 注意' });
+  note(p1, 80, 610, 1760, ['R0 中的 40H 不是被操作的数，而是被操作数所在的{g|地址}'], 'key', L(4), { size: 30 });
+  note(p1, 80, 770, 1760, ['Ri 只能是 R0 或 R1；@R2~@R7 无效！'], 'warn', L(5), { size: 30, tag: '⚠ 注意' });
   const p2 = G(g, { in: L(6) });
   const tb = table(p2, 80, 220, [380, 640, 380, 360], [
     ['指令', '操作', '源操作数', '结果单元'],
@@ -242,10 +242,10 @@ scene('stack1', '2. 栈操作指令 PUSH、POP', (g, L, Ee, F) => {
   const K = code(pg, 60, 210, [['MOV SP,#60H', ';建立堆栈'], ['MOV DPTR,#8056H', ';DPH=80H,DPL=56H'], ['PUSH DPH', ';入栈存'], ['PUSH DPL', ';入栈存'],
     ['MOV DPTR,#2000H', ';修改数据指针'], ['……', ''], ['POP DPL', ';恢复 DPL'], ['POP DPH', ';恢复 DPH']], { w: 860, cw: 380, lh: 58, size: 28 });
   K.step(L(4), 0).step(L(5), 1).step(L(6), 2).step(L(7), 3).step(L(8), 4).step(L(9), 5).step(F(9, 0.3), 6).step(L(10), 7).off(L(12));
-  const R = regs(pg, 1000, 280, [['SP', '--'], ['DPH', '--'], ['DPL', '--']], { w: 150, h: 70, gx: 30 });
-  const M = mem(pg, 1460, 260, [['63H', '--'], ['62H', '--'], ['61H', '--'], ['60H', '--']], { w: 180, h: 70, gap: 10, aw: 90, title: '片内 RAM（堆栈区）' });
+  const R = regs(pg, 990, 280, [['SP', '--'], ['DPH', '--'], ['DPL', '--']], { w: 140, h: 70, gx: 20 });
+  const M = mem(pg, 1480, 260, [['63H', '--'], ['62H', '--'], ['61H', '--'], ['60H', '--']], { w: 180, h: 70, gap: 10, aw: 80, title: '片内 RAM（堆栈区）' });
   const ptr = G(pg, { in: L(4) });
-  pointer(ptr, 1560, M.yOf('60H'), 'SP', [[L(4), M.yOf('60H')], [L(6) + 1.0, M.yOf('61H')], [L(7) + 1.0, M.yOf('62H')], [F(9, 0.75), M.yOf('61H')], [F(10, 0.7), M.yOf('60H')]]);
+  pointer(ptr, 1748, M.yOf('60H'), 'SP', [[L(4), M.yOf('60H')], [L(6) + 1.0, M.yOf('61H')], [L(7) + 1.0, M.yOf('62H')], [F(9, 0.75), M.yOf('61H')], [F(10, 0.7), M.yOf('60H')]], { side: 'right' });
   R.set(L(4) + 1.5, 'SP', '60H');
   R.set(L(5) + 2, 'DPH', '80H').set(L(5) + 3, 'DPL', '56H');
   R.set(L(6) + 1.0, 'SP', '61H'); M.set(L(6) + 3, '61H', '80H'); R.focus(L(6) + 2.5, Ee(6), 'DPH', C.cyan);
@@ -254,8 +254,7 @@ scene('stack1', '2. 栈操作指令 PUSH、POP', (g, L, Ee, F) => {
   M.focus(F(9, 0.4), F(9, 0.75), '62H', C.cyan); R.set(F(9, 0.6), 'DPL', '56H'); R.set(F(9, 0.75), 'SP', '61H');
   M.focus(L(10), F(10, 0.6), '61H', C.cyan); R.set(F(10, 0.4), 'DPH', '80H'); R.set(F(10, 0.7), 'SP', '60H');
   const kg = G(pg, { in: L(11) });
-  T(kg, 1720, M.yOf('62H') + 8, '数据仍在', { size: 22, fill: C.muted });
-  T(kg, 1720, M.yOf('61H') + 8, '（未清除）', { size: 22, fill: C.muted });
+  T(kg, 1480, M.yOf('60H') + 70, '弹出后 61H、62H 数据仍在（未清除）', { size: 22, fill: C.muted });
   const rg = G(pg, { in: L(12) });
   card(rg, 1000, 650, 840, 200, { fill: 'rgba(247,197,72,.08)', stroke: C.gold });
   T(rg, 1030, 715, 'PUSH：SP {g|先加 1}，后压入', { size: 36, weight: 700, maxw: 780 });
@@ -286,10 +285,10 @@ scene('stack2', '使用栈操作指令注意', (g, L, Ee, F) => {
   T(xg, 1440, 515, 'DPTR = 5680H ≠ 8056H ✗', { size: 30, fill: C.red, weight: 700, mono: true });
   const sg = G(g, { in: L(5) });
   const M = mem(sg, 1100, 260, [['63H', ''], ['62H', '56H'], ['61H', '80H'], ['60H', '']], { w: 180, h: 66, gap: 10, aw: 90, old: false });
-  pointer(sg, 1200, M.yOf('62H'), 'SP', []);
+  pointer(sg, 1378, M.yOf('62H'), 'SP', [], { side: 'right' });
   const tg = G(sg, { in: L(6) });
-  T(tg, 1390, M.yOf('62H') + 9, '← 栈顶（最后压入）', { size: 26, fill: C.gold });
-  T(tg, 1390, M.yOf('60H') + 9, '← 栈底一端', { size: 26, fill: C.muted });
+  T(tg, 1540, M.yOf('62H') + 9, '← 栈顶（最后压入）', { size: 26, fill: C.gold });
+  T(tg, 1540, M.yOf('60H') + 9, '← 栈底一端', { size: 26, fill: C.muted });
   note(g, 1000, 600, 840, ['课件 P33⑤ 写“SP 指在栈底”，与 P32 示意图', '不一致；按 PUSH/POP 规则，SP 指向{g|栈顶}'], 'warn', L(7), { size: 26 });
   const og = G(g, { in: L(10) });
   card(og, 80, 800, 1760, 110, { fill: 'rgba(6,14,28,.95)', stroke: C.cyan });
@@ -315,17 +314,17 @@ scene('xch', '3. 交换指令 XCH、XCHD、SWAP', (g, L, Ee, F) => {
   T(e2, 945, 260, '例 2  低半字节交换 XCHD', { size: 30, fill: C.cyan, weight: 700 });
   T(e2, 945, 310, 'MOV A,#12H  MOV R1,#50H  MOV 50H,#34H', { size: 24, mono: true, maxw: 890 });
   T(e2, 945, 355, 'XCHD A,@R1      (R1)=50H', { size: 30, mono: true, fill: C.gold, weight: 700 });
-  T(e2, 1065, 420, '(A)', { size: 24, anchor: 'middle', fill: C.cyan, mono: true });
-  T(e2, 1545, 420, '(50H)', { size: 24, anchor: 'middle', fill: C.cyan, mono: true });
+  T(e2, 975, 492, '(A)', { size: 24, anchor: 'end', fill: C.cyan, mono: true });
+  T(e2, 1645, 492, '(50H)', { size: 24, anchor: 'start', fill: C.cyan, mono: true });
   const aH = cell(e2, 985, 440, 80, 80, '1', { old: false }), aL = cell(e2, 1070, 440, 80, 80, '2', { old: false, fill: 'rgba(247,197,72,.14)' });
   const mH = cell(e2, 1465, 440, 80, 80, '3', { old: false }), mL = cell(e2, 1550, 440, 80, 80, '4', { old: false, fill: 'rgba(247,197,72,.14)' });
   const x2 = G(e2, { in: L(4) + 1 });
-  D(path(x2, 'M1110 530 C 1200 600, 1500 600, 1590 530', C.gold, 4), L(4) + 1, 0.8);
+  D(path(x2, 'M1110 525 C 1200 580, 1500 580, 1590 525', C.gold, 4), L(4) + 1, 0.8);
   D(path(x2, 'M1590 435 C 1500 380, 1200 380, 1110 435', C.gold, 4), L(4) + 1, 0.8);
   aL.set(L(4) + 2.2, '4'); mL.set(L(4) + 2.2, '2');
   const r2 = G(e2, { in: L(5) });
-  T(r2, 1065, 580, '(A)=14H', { size: 28, anchor: 'middle', fill: C.green, mono: true, weight: 700 });
-  T(r2, 1545, 580, '(50H)=32H', { size: 28, anchor: 'middle', fill: C.green, mono: true, weight: 700 });
+  T(r2, 1065, 598, '(A)=14H', { size: 28, anchor: 'middle', fill: C.green, mono: true, weight: 700 });
+  T(r2, 1545, 598, '(50H)=32H', { size: 28, anchor: 'middle', fill: C.green, mono: true, weight: 700 });
   note(p1, 60, 650, 1800, ['目的操作数只能是 A；XCH 的源可以是 Rn、direct、@Ri、SFR（也称累加器 A 传送指令）'], 'key', L(6), { size: 28 });
   note(p1, 60, 790, 1800, ['XCHD 的源操作数只能是 @Ri（XCHD A,@R0 / XCHD A,@R1）'], 'add', L(7), { size: 28 });
   const p2 = G(g, { in: L(8) });

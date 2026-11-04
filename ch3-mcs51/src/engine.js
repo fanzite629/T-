@@ -339,8 +339,9 @@ function column(parent, x, y, rows, o = {}) {
 function pointer(parent, x, y0, label, events, o = {}) {
   const g = el('g', {}, parent);
   const col = o.color || C.gold;
-  const a = arrow(g, x - 110, 0, x - 8, 0, col, 4);
-  const tx = T(g, x - 120, 9, label, { size: 26, anchor: 'end', fill: col, weight: 700, mono: true });
+  const right = o.side === 'right';
+  const a = right ? arrow(g, x + 110, 0, x + 8, 0, col, 4) : arrow(g, x - 110, 0, x - 8, 0, col, 4);
+  const tx = T(g, right ? x + 120 : x - 120, 9, label, { size: 26, anchor: right ? 'start' : 'end', fill: col, weight: 700, mono: true });
   U.push(t => {
     let yy = y0, from = y0, te = -1e9;
     for (const [tt, v] of events) if (t >= tt) { from = yy; yy = v; te = tt; }
