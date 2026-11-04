@@ -1,0 +1,441 @@
+{
+  "id": "CH02-S06",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "28c92e2a7cf8a1d8fd1e25968b17beabb5e949730fa64b8a621e9137fd6df51c",
+  "text": "P三的第二功能按四对记：零、一位负责串行接收和发送；二、三位接外部中断零和一；四、五位接计数输入 T零和 T一；六、七位是片外数据写、读控制。\n图上的低有效横线要保留，表示信号拉低时有效；中断具体触发方式后面学习。扩展外存时，P零、P二和部分 P三已承担总线任务，普通输入输出资源就会被占用。",
+  "duration": 38.088,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.25,
+      "text": "P"
+    },
+    {
+      "start": 0.358833,
+      "duration": 0.25,
+      "text": "三"
+    },
+    {
+      "start": 0.608833,
+      "duration": 0.117666,
+      "text": "的"
+    },
+    {
+      "start": 0.755875,
+      "duration": 0.323541,
+      "text": "第二"
+    },
+    {
+      "start": 1.094125,
+      "duration": 0.573541,
+      "text": "功能"
+    },
+    {
+      "start": 1.785291,
+      "duration": 0.235291,
+      "text": "按"
+    },
+    {
+      "start": 2.020583,
+      "duration": 0.25,
+      "text": "四"
+    },
+    {
+      "start": 2.270583,
+      "duration": 0.220583,
+      "text": "对"
+    },
+    {
+      "start": 2.505875,
+      "duration": 0.294125,
+      "text": "记"
+    },
+    {
+      "start": 3.226458,
+      "duration": 0.33825,
+      "text": "零"
+    },
+    {
+      "start": 3.844125,
+      "duration": 0.16175,
+      "text": "一"
+    },
+    {
+      "start": 4.005875,
+      "duration": 0.220583,
+      "text": "位"
+    },
+    {
+      "start": 4.255875,
+      "duration": 0.352958,
+      "text": "负责"
+    },
+    {
+      "start": 4.623541,
+      "duration": 0.5,
+      "text": "串行"
+    },
+    {
+      "start": 5.13825,
+      "duration": 0.485291,
+      "text": "接收"
+    },
+    {
+      "start": 5.652958,
+      "duration": 0.16175,
+      "text": "和"
+    },
+    {
+      "start": 5.829416,
+      "duration": 0.558833,
+      "text": "发送"
+    },
+    {
+      "start": 6.873541,
+      "duration": 0.323541,
+      "text": "二"
+    },
+    {
+      "start": 7.579416,
+      "duration": 0.25,
+      "text": "三"
+    },
+    {
+      "start": 7.829416,
+      "duration": 0.235291,
+      "text": "位"
+    },
+    {
+      "start": 8.094125,
+      "duration": 0.514708,
+      "text": "接外部"
+    },
+    {
+      "start": 8.623541,
+      "duration": 0.470583,
+      "text": "中断"
+    },
+    {
+      "start": 9.123541,
+      "duration": 0.25,
+      "text": "零"
+    },
+    {
+      "start": 9.38825,
+      "duration": 0.25,
+      "text": "和"
+    },
+    {
+      "start": 9.63825,
+      "duration": 0.33825,
+      "text": "一"
+    },
+    {
+      "start": 10.373541,
+      "duration": 0.382333,
+      "text": "四"
+    },
+    {
+      "start": 11.044125,
+      "duration": 0.176458,
+      "text": "五"
+    },
+    {
+      "start": 11.220583,
+      "duration": 0.235291,
+      "text": "位"
+    },
+    {
+      "start": 11.485291,
+      "duration": 0.382333,
+      "text": "接计"
+    },
+    {
+      "start": 11.867666,
+      "duration": 0.323541,
+      "text": "数"
+    },
+    {
+      "start": 12.205875,
+      "duration": 0.455875,
+      "text": "输入"
+    },
+    {
+      "start": 12.691166,
+      "duration": 0.220583,
+      "text": "T"
+    },
+    {
+      "start": 12.91175,
+      "duration": 0.41175,
+      "text": "零和"
+    },
+    {
+      "start": 13.33825,
+      "duration": 0.308791,
+      "text": "T"
+    },
+    {
+      "start": 13.647041,
+      "duration": 0.279416,
+      "text": "一"
+    },
+    {
+      "start": 14.382333,
+      "duration": 0.294125,
+      "text": "六"
+    },
+    {
+      "start": 15.0,
+      "duration": 0.279416,
+      "text": "七"
+    },
+    {
+      "start": 15.279416,
+      "duration": 0.323541,
+      "text": "位"
+    },
+    {
+      "start": 15.705875,
+      "duration": 0.220583,
+      "text": "是"
+    },
+    {
+      "start": 15.926458,
+      "duration": 0.397041,
+      "text": "片外"
+    },
+    {
+      "start": 16.33825,
+      "duration": 0.426458,
+      "text": "数据"
+    },
+    {
+      "start": 16.779416,
+      "duration": 0.352958,
+      "text": "写"
+    },
+    {
+      "start": 17.382333,
+      "duration": 0.220583,
+      "text": "读"
+    },
+    {
+      "start": 17.617666,
+      "duration": 0.58825,
+      "text": "控制"
+    },
+    {
+      "start": 18.882333,
+      "duration": 0.235291,
+      "text": "图"
+    },
+    {
+      "start": 19.117666,
+      "duration": 0.235291,
+      "text": "上"
+    },
+    {
+      "start": 19.352958,
+      "duration": 0.132333,
+      "text": "的"
+    },
+    {
+      "start": 19.514708,
+      "duration": 0.132333,
+      "text": "低"
+    },
+    {
+      "start": 19.647041,
+      "duration": 0.470583,
+      "text": "有效"
+    },
+    {
+      "start": 20.132333,
+      "duration": 0.426458,
+      "text": "横线"
+    },
+    {
+      "start": 20.58825,
+      "duration": 0.16175,
+      "text": "要"
+    },
+    {
+      "start": 20.764708,
+      "duration": 0.602958,
+      "text": "保留"
+    },
+    {
+      "start": 21.691166,
+      "duration": 0.441166,
+      "text": "表示"
+    },
+    {
+      "start": 22.16175,
+      "duration": 0.441166,
+      "text": "信号"
+    },
+    {
+      "start": 22.617666,
+      "duration": 0.397041,
+      "text": "拉低"
+    },
+    {
+      "start": 23.014708,
+      "duration": 0.191166,
+      "text": "时"
+    },
+    {
+      "start": 23.220583,
+      "duration": 0.602958,
+      "text": "有效"
+    },
+    {
+      "start": 24.264708,
+      "duration": 0.514708,
+      "text": "中断"
+    },
+    {
+      "start": 24.808833,
+      "duration": 0.33825,
+      "text": "具体"
+    },
+    {
+      "start": 25.16175,
+      "duration": 0.455875,
+      "text": "触发"
+    },
+    {
+      "start": 25.632333,
+      "duration": 0.455875,
+      "text": "方式"
+    },
+    {
+      "start": 26.117666,
+      "duration": 0.397041,
+      "text": "后面"
+    },
+    {
+      "start": 26.529416,
+      "duration": 0.676458,
+      "text": "学习"
+    },
+    {
+      "start": 27.882333,
+      "duration": 0.41175,
+      "text": "扩展"
+    },
+    {
+      "start": 28.308833,
+      "duration": 0.5,
+      "text": "外存"
+    },
+    {
+      "start": 28.808833,
+      "duration": 0.382333,
+      "text": "时"
+    },
+    {
+      "start": 29.529416,
+      "duration": 0.308833,
+      "text": "P"
+    },
+    {
+      "start": 29.83825,
+      "duration": 0.367666,
+      "text": "零"
+    },
+    {
+      "start": 30.41175,
+      "duration": 0.264708,
+      "text": "P"
+    },
+    {
+      "start": 30.676458,
+      "duration": 0.308833,
+      "text": "二"
+    },
+    {
+      "start": 31.102958,
+      "duration": 0.220583,
+      "text": "和"
+    },
+    {
+      "start": 31.33825,
+      "duration": 0.485291,
+      "text": "部分"
+    },
+    {
+      "start": 31.83825,
+      "duration": 0.220583,
+      "text": "P"
+    },
+    {
+      "start": 32.058833,
+      "duration": 0.264708,
+      "text": "三"
+    },
+    {
+      "start": 32.323541,
+      "duration": 0.147041,
+      "text": "已"
+    },
+    {
+      "start": 32.485291,
+      "duration": 0.455875,
+      "text": "承担"
+    },
+    {
+      "start": 32.970583,
+      "duration": 0.426458,
+      "text": "总线"
+    },
+    {
+      "start": 33.41175,
+      "duration": 0.5,
+      "text": "任务"
+    },
+    {
+      "start": 34.352958,
+      "duration": 0.426458,
+      "text": "普通"
+    },
+    {
+      "start": 34.794125,
+      "duration": 0.367666,
+      "text": "输入"
+    },
+    {
+      "start": 35.176458,
+      "duration": 0.367666,
+      "text": "输出"
+    },
+    {
+      "start": 35.558833,
+      "duration": 0.647041,
+      "text": "资源"
+    },
+    {
+      "start": 36.323541,
+      "duration": 0.191166,
+      "text": "就"
+    },
+    {
+      "start": 36.514708,
+      "duration": 0.147041,
+      "text": "会"
+    },
+    {
+      "start": 36.676458,
+      "duration": 0.147041,
+      "text": "被"
+    },
+    {
+      "start": 36.83825,
+      "duration": 0.573541,
+      "text": "占用"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

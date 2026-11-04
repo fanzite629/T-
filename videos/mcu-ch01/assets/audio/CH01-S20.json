@@ -1,0 +1,396 @@
+{
+  "id": "CH01-S20",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "e811a42c6e411752d4af77e7461e86b57c99c289f86263b517d2962d8e3ea311",
+  "text": "练习先用方法，再看答案。一零一一零一点一零的位权相加是四十五点五；逆向转换会回到同一个值，小数末尾的零可以省略。\n连续低位全是一的数，等于二的相应次幂减一。例如 F F是二百五十五，F F F F是六万五千五百三十五。十六进制一零零零则是二的十二次幂，等于四千零九十六。其余题的完整答案分两屏展示，可暂停逐项核对。",
+  "duration": 39.648,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.455875,
+      "text": "练习"
+    },
+    {
+      "start": 0.594125,
+      "duration": 0.235291,
+      "text": "先"
+    },
+    {
+      "start": 0.829416,
+      "duration": 0.205875,
+      "text": "用"
+    },
+    {
+      "start": 1.05,
+      "duration": 0.529416,
+      "text": "方法"
+    },
+    {
+      "start": 1.829416,
+      "duration": 0.176458,
+      "text": "再"
+    },
+    {
+      "start": 2.005875,
+      "duration": 0.205875,
+      "text": "看"
+    },
+    {
+      "start": 2.226458,
+      "duration": 0.455875,
+      "text": "答案"
+    },
+    {
+      "start": 3.367666,
+      "duration": 0.397041,
+      "text": "一零"
+    },
+    {
+      "start": 3.779416,
+      "duration": 0.426458,
+      "text": "一一"
+    },
+    {
+      "start": 4.220583,
+      "duration": 0.382333,
+      "text": "零一"
+    },
+    {
+      "start": 4.602958,
+      "duration": 0.25,
+      "text": "点"
+    },
+    {
+      "start": 4.867666,
+      "duration": 0.367625,
+      "text": "一零"
+    },
+    {
+      "start": 5.235291,
+      "duration": 0.102958,
+      "text": "的"
+    },
+    {
+      "start": 5.352958,
+      "duration": 0.676458,
+      "text": "位权"
+    },
+    {
+      "start": 6.132333,
+      "duration": 0.470583,
+      "text": "相加"
+    },
+    {
+      "start": 6.617666,
+      "duration": 0.235291,
+      "text": "是"
+    },
+    {
+      "start": 6.882333,
+      "duration": 1.132333,
+      "text": "四十五点五"
+    },
+    {
+      "start": 8.5,
+      "duration": 0.382333,
+      "text": "逆向"
+    },
+    {
+      "start": 8.897041,
+      "duration": 0.632333,
+      "text": "转换"
+    },
+    {
+      "start": 9.558833,
+      "duration": 0.16175,
+      "text": "会"
+    },
+    {
+      "start": 9.735291,
+      "duration": 0.352958,
+      "text": "回到"
+    },
+    {
+      "start": 10.117666,
+      "duration": 0.25,
+      "text": "同"
+    },
+    {
+      "start": 10.382333,
+      "duration": 0.264708,
+      "text": "一个"
+    },
+    {
+      "start": 10.647041,
+      "duration": 0.367666,
+      "text": "值"
+    },
+    {
+      "start": 11.279416,
+      "duration": 0.529416,
+      "text": "小数"
+    },
+    {
+      "start": 11.823541,
+      "duration": 0.397041,
+      "text": "末尾"
+    },
+    {
+      "start": 12.220583,
+      "duration": 0.102958,
+      "text": "的"
+    },
+    {
+      "start": 12.352958,
+      "duration": 0.294083,
+      "text": "零"
+    },
+    {
+      "start": 12.647041,
+      "duration": 0.323541,
+      "text": "可以"
+    },
+    {
+      "start": 12.985291,
+      "duration": 0.632333,
+      "text": "省略"
+    },
+    {
+      "start": 14.294125,
+      "duration": 0.455875,
+      "text": "连续"
+    },
+    {
+      "start": 14.764708,
+      "duration": 0.455875,
+      "text": "低位"
+    },
+    {
+      "start": 15.25,
+      "duration": 0.25,
+      "text": "全"
+    },
+    {
+      "start": 15.5,
+      "duration": 0.16175,
+      "text": "是"
+    },
+    {
+      "start": 15.676458,
+      "duration": 0.220583,
+      "text": "一"
+    },
+    {
+      "start": 15.897041,
+      "duration": 0.132333,
+      "text": "的"
+    },
+    {
+      "start": 16.029416,
+      "duration": 0.33825,
+      "text": "数"
+    },
+    {
+      "start": 16.691166,
+      "duration": 0.323541,
+      "text": "等于"
+    },
+    {
+      "start": 17.029416,
+      "duration": 0.220583,
+      "text": "二"
+    },
+    {
+      "start": 17.25,
+      "duration": 0.132333,
+      "text": "的"
+    },
+    {
+      "start": 17.41175,
+      "duration": 0.426458,
+      "text": "相应"
+    },
+    {
+      "start": 17.852958,
+      "duration": 0.41175,
+      "text": "次幂"
+    },
+    {
+      "start": 18.279416,
+      "duration": 0.602958,
+      "text": "减一"
+    },
+    {
+      "start": 19.558833,
+      "duration": 0.58825,
+      "text": "例如"
+    },
+    {
+      "start": 20.25,
+      "duration": 0.308833,
+      "text": "F"
+    },
+    {
+      "start": 20.573541,
+      "duration": 0.382333,
+      "text": "F"
+    },
+    {
+      "start": 20.970583,
+      "duration": 0.25,
+      "text": "是"
+    },
+    {
+      "start": 21.25,
+      "duration": 1.044125,
+      "text": "二百五十五"
+    },
+    {
+      "start": 22.602958,
+      "duration": 0.308833,
+      "text": "F"
+    },
+    {
+      "start": 22.926458,
+      "duration": 0.279416,
+      "text": "F"
+    },
+    {
+      "start": 23.220583,
+      "duration": 0.264708,
+      "text": "F"
+    },
+    {
+      "start": 23.5,
+      "duration": 0.426458,
+      "text": "F"
+    },
+    {
+      "start": 23.941166,
+      "duration": 0.279416,
+      "text": "是"
+    },
+    {
+      "start": 24.25,
+      "duration": 2.029416,
+      "text": "六万五千五百三十五"
+    },
+    {
+      "start": 26.955875,
+      "duration": 1.073541,
+      "text": "十六进制"
+    },
+    {
+      "start": 28.058833,
+      "duration": 0.970583,
+      "text": "一零零零"
+    },
+    {
+      "start": 29.147041,
+      "duration": 0.235291,
+      "text": "则"
+    },
+    {
+      "start": 29.382333,
+      "duration": 0.176458,
+      "text": "是"
+    },
+    {
+      "start": 29.58825,
+      "duration": 0.205875,
+      "text": "二"
+    },
+    {
+      "start": 29.794125,
+      "duration": 0.117666,
+      "text": "的"
+    },
+    {
+      "start": 29.941166,
+      "duration": 0.58825,
+      "text": "十二次"
+    },
+    {
+      "start": 30.529416,
+      "duration": 0.308833,
+      "text": "幂"
+    },
+    {
+      "start": 31.176458,
+      "duration": 0.426458,
+      "text": "等于"
+    },
+    {
+      "start": 31.632333,
+      "duration": 1.470583,
+      "text": "四千零九十六"
+    },
+    {
+      "start": 33.779416,
+      "duration": 0.41175,
+      "text": "其余"
+    },
+    {
+      "start": 34.191166,
+      "duration": 0.191166,
+      "text": "题"
+    },
+    {
+      "start": 34.382333,
+      "duration": 0.102958,
+      "text": "的"
+    },
+    {
+      "start": 34.514708,
+      "duration": 0.41175,
+      "text": "完整"
+    },
+    {
+      "start": 34.941166,
+      "duration": 0.558833,
+      "text": "答案"
+    },
+    {
+      "start": 35.602958,
+      "duration": 0.205875,
+      "text": "分"
+    },
+    {
+      "start": 35.823541,
+      "duration": 0.426458,
+      "text": "两屏"
+    },
+    {
+      "start": 36.264708,
+      "duration": 0.647041,
+      "text": "展示"
+    },
+    {
+      "start": 37.235291,
+      "duration": 0.205875,
+      "text": "可"
+    },
+    {
+      "start": 37.441166,
+      "duration": 0.235291,
+      "text": "暂"
+    },
+    {
+      "start": 37.691166,
+      "duration": 0.41175,
+      "text": "停逐"
+    },
+    {
+      "start": 38.102958,
+      "duration": 0.25,
+      "text": "项"
+    },
+    {
+      "start": 38.367666,
+      "duration": 0.58825,
+      "text": "核对"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

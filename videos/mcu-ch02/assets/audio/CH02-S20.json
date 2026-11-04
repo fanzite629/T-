@@ -1,0 +1,471 @@
+{
+  "id": "CH02-S20",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "e0fbca4293174e838e913664ae5b1691a8a25bffeb44e1ae8d9e8b55ca36d6d8",
+  "text": "运行存储器分静态和动态：静态型不需周期刷新，动态型需要刷新，两者都需供电保持数据。课件二一六四 A是六十四 K乘一比特，总量相当于八 K字节，不能写成六十四 K字节。\n非易失程序存储技术也不同：掩膜只读在制造时确定，一次可编程只能写一次；可擦除可编程型用紫外擦除，电可擦除型用电擦除，闪存通常按块擦除。具体芯片采用哪一种，要以型号资料为准。",
+  "duration": 43.872,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.602958,
+      "text": "运行"
+    },
+    {
+      "start": 0.726458,
+      "duration": 0.705875,
+      "text": "存储器"
+    },
+    {
+      "start": 1.432333,
+      "duration": 0.235291,
+      "text": "分"
+    },
+    {
+      "start": 1.682333,
+      "duration": 0.455875,
+      "text": "静态"
+    },
+    {
+      "start": 2.167666,
+      "duration": 0.16175,
+      "text": "和"
+    },
+    {
+      "start": 2.344125,
+      "duration": 0.58825,
+      "text": "动态"
+    },
+    {
+      "start": 3.373541,
+      "duration": 0.470583,
+      "text": "静态"
+    },
+    {
+      "start": 3.844125,
+      "duration": 0.382333,
+      "text": "型"
+    },
+    {
+      "start": 4.255875,
+      "duration": 0.147041,
+      "text": "不"
+    },
+    {
+      "start": 4.402958,
+      "duration": 0.220583,
+      "text": "需"
+    },
+    {
+      "start": 4.63825,
+      "duration": 0.367666,
+      "text": "周期"
+    },
+    {
+      "start": 5.020583,
+      "duration": 0.617666,
+      "text": "刷新"
+    },
+    {
+      "start": 5.976458,
+      "duration": 0.441166,
+      "text": "动态"
+    },
+    {
+      "start": 6.417666,
+      "duration": 0.352958,
+      "text": "型"
+    },
+    {
+      "start": 6.8,
+      "duration": 0.323541,
+      "text": "需要"
+    },
+    {
+      "start": 7.13825,
+      "duration": 0.632333,
+      "text": "刷新"
+    },
+    {
+      "start": 8.058833,
+      "duration": 0.573541,
+      "text": "两者"
+    },
+    {
+      "start": 8.647041,
+      "duration": 0.191166,
+      "text": "都"
+    },
+    {
+      "start": 8.83825,
+      "duration": 0.176458,
+      "text": "需"
+    },
+    {
+      "start": 9.029416,
+      "duration": 0.485291,
+      "text": "供电"
+    },
+    {
+      "start": 9.544125,
+      "duration": 0.367666,
+      "text": "保持"
+    },
+    {
+      "start": 9.926458,
+      "duration": 0.602958,
+      "text": "数据"
+    },
+    {
+      "start": 11.205875,
+      "duration": 0.514708,
+      "text": "课件"
+    },
+    {
+      "start": 11.75,
+      "duration": 0.970583,
+      "text": "二一六四"
+    },
+    {
+      "start": 12.83825,
+      "duration": 0.3235,
+      "text": "A"
+    },
+    {
+      "start": 13.16175,
+      "duration": 0.235291,
+      "text": "是"
+    },
+    {
+      "start": 13.41175,
+      "duration": 0.602958,
+      "text": "六十四"
+    },
+    {
+      "start": 14.014708,
+      "duration": 0.352958,
+      "text": "K"
+    },
+    {
+      "start": 14.485291,
+      "duration": 0.25,
+      "text": "乘"
+    },
+    {
+      "start": 14.735291,
+      "duration": 0.147041,
+      "text": "一"
+    },
+    {
+      "start": 14.897041,
+      "duration": 0.529416,
+      "text": "比特"
+    },
+    {
+      "start": 15.83825,
+      "duration": 0.529416,
+      "text": "总量"
+    },
+    {
+      "start": 16.397041,
+      "duration": 0.617666,
+      "text": "相当于"
+    },
+    {
+      "start": 17.044125,
+      "duration": 0.205875,
+      "text": "八"
+    },
+    {
+      "start": 17.25,
+      "duration": 0.220583,
+      "text": "K"
+    },
+    {
+      "start": 17.485291,
+      "duration": 0.529416,
+      "text": "字节"
+    },
+    {
+      "start": 18.33825,
+      "duration": 0.294125,
+      "text": "不能"
+    },
+    {
+      "start": 18.647041,
+      "duration": 0.220583,
+      "text": "写"
+    },
+    {
+      "start": 18.867666,
+      "duration": 0.294125,
+      "text": "成"
+    },
+    {
+      "start": 19.191166,
+      "duration": 0.558833,
+      "text": "六十四"
+    },
+    {
+      "start": 19.75,
+      "duration": 0.220583,
+      "text": "K"
+    },
+    {
+      "start": 19.985291,
+      "duration": 0.558833,
+      "text": "字节"
+    },
+    {
+      "start": 21.220583,
+      "duration": 0.602958,
+      "text": "非易失"
+    },
+    {
+      "start": 21.83825,
+      "duration": 0.514708,
+      "text": "程序"
+    },
+    {
+      "start": 22.382333,
+      "duration": 0.441166,
+      "text": "存储"
+    },
+    {
+      "start": 22.83825,
+      "duration": 0.367666,
+      "text": "技术"
+    },
+    {
+      "start": 23.235291,
+      "duration": 0.132333,
+      "text": "也"
+    },
+    {
+      "start": 23.382333,
+      "duration": 0.544125,
+      "text": "不同"
+    },
+    {
+      "start": 24.294125,
+      "duration": 0.25,
+      "text": "掩"
+    },
+    {
+      "start": 24.544125,
+      "duration": 0.279416,
+      "text": "膜"
+    },
+    {
+      "start": 24.852958,
+      "duration": 0.205875,
+      "text": "只"
+    },
+    {
+      "start": 25.058833,
+      "duration": 0.25,
+      "text": "读"
+    },
+    {
+      "start": 25.323541,
+      "duration": 0.205875,
+      "text": "在"
+    },
+    {
+      "start": 25.558833,
+      "duration": 0.41175,
+      "text": "制造"
+    },
+    {
+      "start": 25.970583,
+      "duration": 0.191166,
+      "text": "时"
+    },
+    {
+      "start": 26.176458,
+      "duration": 0.544125,
+      "text": "确定"
+    },
+    {
+      "start": 27.073541,
+      "duration": 0.33825,
+      "text": "一次"
+    },
+    {
+      "start": 27.426458,
+      "duration": 0.191166,
+      "text": "可"
+    },
+    {
+      "start": 27.617666,
+      "duration": 0.66175,
+      "text": "编程"
+    },
+    {
+      "start": 28.397041,
+      "duration": 0.367666,
+      "text": "只能"
+    },
+    {
+      "start": 28.779416,
+      "duration": 0.25,
+      "text": "写"
+    },
+    {
+      "start": 29.029416,
+      "duration": 0.529416,
+      "text": "一次"
+    },
+    {
+      "start": 29.735291,
+      "duration": 0.205875,
+      "text": "可"
+    },
+    {
+      "start": 29.941166,
+      "duration": 0.647041,
+      "text": "擦除"
+    },
+    {
+      "start": 30.617666,
+      "duration": 0.191166,
+      "text": "可"
+    },
+    {
+      "start": 30.823541,
+      "duration": 0.455875,
+      "text": "编程"
+    },
+    {
+      "start": 31.279416,
+      "duration": 0.352958,
+      "text": "型"
+    },
+    {
+      "start": 31.66175,
+      "duration": 0.235291,
+      "text": "用"
+    },
+    {
+      "start": 31.91175,
+      "duration": 0.367666,
+      "text": "紫外"
+    },
+    {
+      "start": 32.294125,
+      "duration": 0.676458,
+      "text": "擦除"
+    },
+    {
+      "start": 33.382333,
+      "duration": 0.220583,
+      "text": "电"
+    },
+    {
+      "start": 33.617666,
+      "duration": 0.191166,
+      "text": "可"
+    },
+    {
+      "start": 33.808833,
+      "duration": 0.441166,
+      "text": "擦除"
+    },
+    {
+      "start": 34.25,
+      "duration": 0.382333,
+      "text": "型"
+    },
+    {
+      "start": 34.735291,
+      "duration": 0.426458,
+      "text": "用电"
+    },
+    {
+      "start": 35.176458,
+      "duration": 0.66175,
+      "text": "擦除"
+    },
+    {
+      "start": 36.147041,
+      "duration": 0.529416,
+      "text": "闪存"
+    },
+    {
+      "start": 36.705875,
+      "duration": 0.5,
+      "text": "通常"
+    },
+    {
+      "start": 37.235291,
+      "duration": 0.176458,
+      "text": "按"
+    },
+    {
+      "start": 37.41175,
+      "duration": 0.205875,
+      "text": "块"
+    },
+    {
+      "start": 37.632333,
+      "duration": 0.691166,
+      "text": "擦除"
+    },
+    {
+      "start": 38.985291,
+      "duration": 0.426458,
+      "text": "具体"
+    },
+    {
+      "start": 39.426458,
+      "duration": 0.529416,
+      "text": "芯片"
+    },
+    {
+      "start": 39.985291,
+      "duration": 0.367666,
+      "text": "采用"
+    },
+    {
+      "start": 40.367666,
+      "duration": 0.235291,
+      "text": "哪"
+    },
+    {
+      "start": 40.602958,
+      "duration": 0.485291,
+      "text": "一种"
+    },
+    {
+      "start": 41.382333,
+      "duration": 0.205875,
+      "text": "要"
+    },
+    {
+      "start": 41.58825,
+      "duration": 0.132333,
+      "text": "以"
+    },
+    {
+      "start": 41.75,
+      "duration": 0.455875,
+      "text": "型号"
+    },
+    {
+      "start": 42.220583,
+      "duration": 0.426458,
+      "text": "资料"
+    },
+    {
+      "start": 42.66175,
+      "duration": 0.205875,
+      "text": "为"
+    },
+    {
+      "start": 42.867666,
+      "duration": 0.323541,
+      "text": "准"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

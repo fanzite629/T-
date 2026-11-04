@@ -1,0 +1,476 @@
+{
+  "id": "CH02-S16",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "f8c1bab392ff0686ceaa270f481952db7af56b30cae652b6b4a545a304d3383a",
+  "text": "比较两道普通加法。F F加一，低八位变零，最高位有进位，所以 C Y为一；按补码解释是负一加一等于零，没有有符号溢出，O V为零。\n七 F加一得到八零，没有最高位进位，C Y为零；但正一百二十七加一超出八位补码范围，所以 O V为一。两题 A C都为一，P分别为零和一。结论是同一结果要按不同数值解释判断，进位和溢出不能互相代替。",
+  "duration": 42.0,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.367666,
+      "text": "比较"
+    },
+    {
+      "start": 0.491166,
+      "duration": 0.470583,
+      "text": "两道"
+    },
+    {
+      "start": 0.991166,
+      "duration": 0.426458,
+      "text": "普通"
+    },
+    {
+      "start": 1.432333,
+      "duration": 0.573541,
+      "text": "加法"
+    },
+    {
+      "start": 2.691166,
+      "duration": 0.308833,
+      "text": "F"
+    },
+    {
+      "start": 3.014708,
+      "duration": 0.279416,
+      "text": "F"
+    },
+    {
+      "start": 3.308833,
+      "duration": 0.264708,
+      "text": "加"
+    },
+    {
+      "start": 3.58825,
+      "duration": 0.308833,
+      "text": "一"
+    },
+    {
+      "start": 4.176458,
+      "duration": 0.205875,
+      "text": "低"
+    },
+    {
+      "start": 4.397041,
+      "duration": 0.205875,
+      "text": "八"
+    },
+    {
+      "start": 4.602958,
+      "duration": 0.191166,
+      "text": "位"
+    },
+    {
+      "start": 4.808833,
+      "duration": 0.235291,
+      "text": "变"
+    },
+    {
+      "start": 5.044125,
+      "duration": 0.33825,
+      "text": "零"
+    },
+    {
+      "start": 5.676458,
+      "duration": 0.426458,
+      "text": "最高"
+    },
+    {
+      "start": 6.102958,
+      "duration": 0.176458,
+      "text": "位"
+    },
+    {
+      "start": 6.308833,
+      "duration": 0.16175,
+      "text": "有"
+    },
+    {
+      "start": 6.470583,
+      "duration": 0.558833,
+      "text": "进位"
+    },
+    {
+      "start": 7.41175,
+      "duration": 0.573541,
+      "text": "所以"
+    },
+    {
+      "start": 8.08825,
+      "duration": 0.279416,
+      "text": "C"
+    },
+    {
+      "start": 8.367666,
+      "duration": 0.264708,
+      "text": "Y"
+    },
+    {
+      "start": 8.647041,
+      "duration": 0.294125,
+      "text": "为"
+    },
+    {
+      "start": 8.941166,
+      "duration": 0.308833,
+      "text": "一"
+    },
+    {
+      "start": 9.632333,
+      "duration": 0.25,
+      "text": "按"
+    },
+    {
+      "start": 9.897041,
+      "duration": 0.308833,
+      "text": "补码"
+    },
+    {
+      "start": 10.220583,
+      "duration": 0.397041,
+      "text": "解释"
+    },
+    {
+      "start": 10.632333,
+      "duration": 0.367666,
+      "text": "是"
+    },
+    {
+      "start": 11.102958,
+      "duration": 0.382333,
+      "text": "负一"
+    },
+    {
+      "start": 11.5,
+      "duration": 0.264708,
+      "text": "加"
+    },
+    {
+      "start": 11.764708,
+      "duration": 0.235291,
+      "text": "一"
+    },
+    {
+      "start": 12.029416,
+      "duration": 0.33825,
+      "text": "等于"
+    },
+    {
+      "start": 12.367666,
+      "duration": 0.397041,
+      "text": "零"
+    },
+    {
+      "start": 13.044125,
+      "duration": 0.323541,
+      "text": "没有"
+    },
+    {
+      "start": 13.382333,
+      "duration": 0.191166,
+      "text": "有"
+    },
+    {
+      "start": 13.58825,
+      "duration": 0.397041,
+      "text": "符号"
+    },
+    {
+      "start": 14.0,
+      "duration": 0.573541,
+      "text": "溢出"
+    },
+    {
+      "start": 14.867666,
+      "duration": 0.235291,
+      "text": "O"
+    },
+    {
+      "start": 15.102958,
+      "duration": 0.191166,
+      "text": "V"
+    },
+    {
+      "start": 15.308833,
+      "duration": 0.25,
+      "text": "为"
+    },
+    {
+      "start": 15.558833,
+      "duration": 0.367666,
+      "text": "零"
+    },
+    {
+      "start": 16.58825,
+      "duration": 0.3235,
+      "text": "七"
+    },
+    {
+      "start": 16.91175,
+      "duration": 0.323541,
+      "text": "F"
+    },
+    {
+      "start": 17.25,
+      "duration": 0.279416,
+      "text": "加"
+    },
+    {
+      "start": 17.529416,
+      "duration": 0.25,
+      "text": "一"
+    },
+    {
+      "start": 17.808833,
+      "duration": 0.323541,
+      "text": "得到"
+    },
+    {
+      "start": 18.147041,
+      "duration": 0.632333,
+      "text": "八零"
+    },
+    {
+      "start": 19.058833,
+      "duration": 0.294125,
+      "text": "没有"
+    },
+    {
+      "start": 19.367666,
+      "duration": 0.617666,
+      "text": "最高位"
+    },
+    {
+      "start": 20.0,
+      "duration": 0.529416,
+      "text": "进位"
+    },
+    {
+      "start": 20.83825,
+      "duration": 0.264708,
+      "text": "C"
+    },
+    {
+      "start": 21.102958,
+      "duration": 0.264708,
+      "text": "Y"
+    },
+    {
+      "start": 21.382333,
+      "duration": 0.264708,
+      "text": "为"
+    },
+    {
+      "start": 21.647041,
+      "duration": 0.382333,
+      "text": "零"
+    },
+    {
+      "start": 22.485291,
+      "duration": 0.25,
+      "text": "但"
+    },
+    {
+      "start": 22.735291,
+      "duration": 0.220583,
+      "text": "正"
+    },
+    {
+      "start": 22.985291,
+      "duration": 0.647041,
+      "text": "一百二十"
+    },
+    {
+      "start": 23.632333,
+      "duration": 0.720583,
+      "text": "七加一"
+    },
+    {
+      "start": 24.470583,
+      "duration": 0.514708,
+      "text": "超出"
+    },
+    {
+      "start": 25.014708,
+      "duration": 0.220583,
+      "text": "八"
+    },
+    {
+      "start": 25.235291,
+      "duration": 0.191166,
+      "text": "位"
+    },
+    {
+      "start": 25.441166,
+      "duration": 0.33825,
+      "text": "补码"
+    },
+    {
+      "start": 25.794125,
+      "duration": 0.544125,
+      "text": "范围"
+    },
+    {
+      "start": 26.58825,
+      "duration": 0.617666,
+      "text": "所以"
+    },
+    {
+      "start": 27.323541,
+      "duration": 0.220583,
+      "text": "O"
+    },
+    {
+      "start": 27.544125,
+      "duration": 0.191166,
+      "text": "V"
+    },
+    {
+      "start": 27.735291,
+      "duration": 0.279416,
+      "text": "为"
+    },
+    {
+      "start": 28.014708,
+      "duration": 0.323541,
+      "text": "一"
+    },
+    {
+      "start": 29.0,
+      "duration": 0.308833,
+      "text": "两"
+    },
+    {
+      "start": 29.308833,
+      "duration": 0.397041,
+      "text": "题"
+    },
+    {
+      "start": 29.823541,
+      "duration": 0.235291,
+      "text": "A"
+    },
+    {
+      "start": 30.058833,
+      "duration": 0.323541,
+      "text": "C"
+    },
+    {
+      "start": 30.397041,
+      "duration": 0.191166,
+      "text": "都"
+    },
+    {
+      "start": 30.58825,
+      "duration": 0.220583,
+      "text": "为"
+    },
+    {
+      "start": 30.823541,
+      "duration": 0.294125,
+      "text": "一"
+    },
+    {
+      "start": 31.426458,
+      "duration": 0.323541,
+      "text": "P"
+    },
+    {
+      "start": 31.764708,
+      "duration": 0.382333,
+      "text": "分别"
+    },
+    {
+      "start": 32.147041,
+      "duration": 0.205875,
+      "text": "为"
+    },
+    {
+      "start": 32.382333,
+      "duration": 0.75,
+      "text": "零和一"
+    },
+    {
+      "start": 33.808833,
+      "duration": 0.455875,
+      "text": "结论"
+    },
+    {
+      "start": 34.279416,
+      "duration": 0.382333,
+      "text": "是"
+    },
+    {
+      "start": 34.779416,
+      "duration": 0.455875,
+      "text": "同一"
+    },
+    {
+      "start": 35.25,
+      "duration": 0.617666,
+      "text": "结果"
+    },
+    {
+      "start": 35.970583,
+      "duration": 0.205875,
+      "text": "要"
+    },
+    {
+      "start": 36.176458,
+      "duration": 0.220583,
+      "text": "按"
+    },
+    {
+      "start": 36.426458,
+      "duration": 0.352958,
+      "text": "不同"
+    },
+    {
+      "start": 36.794125,
+      "duration": 0.455875,
+      "text": "数值"
+    },
+    {
+      "start": 37.279416,
+      "duration": 0.382333,
+      "text": "解释"
+    },
+    {
+      "start": 37.676458,
+      "duration": 0.558833,
+      "text": "判断"
+    },
+    {
+      "start": 38.66175,
+      "duration": 0.367666,
+      "text": "进位"
+    },
+    {
+      "start": 39.058833,
+      "duration": 0.117666,
+      "text": "和"
+    },
+    {
+      "start": 39.191166,
+      "duration": 0.602958,
+      "text": "溢出"
+    },
+    {
+      "start": 39.91175,
+      "duration": 0.323541,
+      "text": "不能"
+    },
+    {
+      "start": 40.25,
+      "duration": 0.470583,
+      "text": "互相"
+    },
+    {
+      "start": 40.735291,
+      "duration": 0.573541,
+      "text": "代替"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

@@ -1,0 +1,446 @@
+{
+  "id": "CH02-S14",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "dd745c180bdcfd7be5a361181e7a4968cb10e22c3b5628cde1ca0720b0b08194",
+  "text": "堆栈像后放先取的一摞物品。入栈先把 S P加一，再写数据；出栈先取栈顶，再把 S P减一。复位 S P为零七，所以先后压入一二、三四，会写到零八、零九；弹出顺序是三四、一二。\n栈占用内部运行存储器。零八又是寄存器组一的起点，如果两者同时使用就会冲突。初始化时要规划栈的位置和增长空间，不能认为堆栈是额外提供的无限存储。",
+  "duration": 41.712,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.220583,
+      "text": "堆"
+    },
+    {
+      "start": 0.329416,
+      "duration": 0.485291,
+      "text": "栈像"
+    },
+    {
+      "start": 0.814708,
+      "duration": 0.382333,
+      "text": "后"
+    },
+    {
+      "start": 1.3,
+      "duration": 0.235291,
+      "text": "放"
+    },
+    {
+      "start": 1.535291,
+      "duration": 0.235291,
+      "text": "先"
+    },
+    {
+      "start": 1.785291,
+      "duration": 0.191166,
+      "text": "取"
+    },
+    {
+      "start": 1.976458,
+      "duration": 0.08825,
+      "text": "的"
+    },
+    {
+      "start": 2.079416,
+      "duration": 0.16175,
+      "text": "一"
+    },
+    {
+      "start": 2.241166,
+      "duration": 0.191166,
+      "text": "摞"
+    },
+    {
+      "start": 2.432333,
+      "duration": 0.617666,
+      "text": "物品"
+    },
+    {
+      "start": 3.720583,
+      "duration": 0.617666,
+      "text": "入栈"
+    },
+    {
+      "start": 4.441166,
+      "duration": 0.294125,
+      "text": "先"
+    },
+    {
+      "start": 4.735291,
+      "duration": 0.235291,
+      "text": "把"
+    },
+    {
+      "start": 5.0,
+      "duration": 0.294125,
+      "text": "S"
+    },
+    {
+      "start": 5.294125,
+      "duration": 0.220583,
+      "text": "P"
+    },
+    {
+      "start": 5.529416,
+      "duration": 0.25,
+      "text": "加"
+    },
+    {
+      "start": 5.779416,
+      "duration": 0.323541,
+      "text": "一"
+    },
+    {
+      "start": 6.33825,
+      "duration": 0.205875,
+      "text": "再"
+    },
+    {
+      "start": 6.544125,
+      "duration": 0.176458,
+      "text": "写"
+    },
+    {
+      "start": 6.735291,
+      "duration": 0.573541,
+      "text": "数据"
+    },
+    {
+      "start": 7.691166,
+      "duration": 0.470583,
+      "text": "出栈"
+    },
+    {
+      "start": 8.16175,
+      "duration": 0.235291,
+      "text": "先"
+    },
+    {
+      "start": 8.41175,
+      "duration": 0.191166,
+      "text": "取"
+    },
+    {
+      "start": 8.602958,
+      "duration": 0.573541,
+      "text": "栈顶"
+    },
+    {
+      "start": 9.441166,
+      "duration": 0.205875,
+      "text": "再"
+    },
+    {
+      "start": 9.647041,
+      "duration": 0.235291,
+      "text": "把"
+    },
+    {
+      "start": 9.91175,
+      "duration": 0.294125,
+      "text": "S"
+    },
+    {
+      "start": 10.205875,
+      "duration": 0.25,
+      "text": "P"
+    },
+    {
+      "start": 10.470583,
+      "duration": 0.58825,
+      "text": "减一"
+    },
+    {
+      "start": 11.735291,
+      "duration": 0.617666,
+      "text": "复位"
+    },
+    {
+      "start": 12.455875,
+      "duration": 0.294125,
+      "text": "S"
+    },
+    {
+      "start": 12.75,
+      "duration": 0.235291,
+      "text": "P"
+    },
+    {
+      "start": 12.985291,
+      "duration": 0.176458,
+      "text": "为"
+    },
+    {
+      "start": 13.176458,
+      "duration": 0.617666,
+      "text": "零七"
+    },
+    {
+      "start": 14.176458,
+      "duration": 0.352958,
+      "text": "所以"
+    },
+    {
+      "start": 14.558833,
+      "duration": 0.41175,
+      "text": "先后"
+    },
+    {
+      "start": 14.985291,
+      "duration": 0.382333,
+      "text": "压入"
+    },
+    {
+      "start": 15.397041,
+      "duration": 0.441166,
+      "text": "一二"
+    },
+    {
+      "start": 16.117666,
+      "duration": 0.647041,
+      "text": "三四"
+    },
+    {
+      "start": 17.117666,
+      "duration": 0.176458,
+      "text": "会"
+    },
+    {
+      "start": 17.294125,
+      "duration": 0.367666,
+      "text": "写到"
+    },
+    {
+      "start": 17.691166,
+      "duration": 0.485291,
+      "text": "零八"
+    },
+    {
+      "start": 18.441166,
+      "duration": 0.558833,
+      "text": "零九"
+    },
+    {
+      "start": 19.397041,
+      "duration": 0.382333,
+      "text": "弹出"
+    },
+    {
+      "start": 19.794125,
+      "duration": 0.441166,
+      "text": "顺序"
+    },
+    {
+      "start": 20.25,
+      "duration": 0.147041,
+      "text": "是"
+    },
+    {
+      "start": 20.41175,
+      "duration": 0.66175,
+      "text": "三四"
+    },
+    {
+      "start": 21.33825,
+      "duration": 0.470583,
+      "text": "一二"
+    },
+    {
+      "start": 22.470583,
+      "duration": 0.264708,
+      "text": "栈"
+    },
+    {
+      "start": 22.735291,
+      "duration": 0.382333,
+      "text": "占用"
+    },
+    {
+      "start": 23.132333,
+      "duration": 0.602958,
+      "text": "内部"
+    },
+    {
+      "start": 23.83825,
+      "duration": 0.485291,
+      "text": "运行"
+    },
+    {
+      "start": 24.33825,
+      "duration": 0.867666,
+      "text": "存储器"
+    },
+    {
+      "start": 25.882333,
+      "duration": 0.558833,
+      "text": "零八"
+    },
+    {
+      "start": 26.470583,
+      "duration": 0.382333,
+      "text": "又是"
+    },
+    {
+      "start": 26.867666,
+      "duration": 0.617666,
+      "text": "寄存器"
+    },
+    {
+      "start": 27.514708,
+      "duration": 0.205875,
+      "text": "组"
+    },
+    {
+      "start": 27.720583,
+      "duration": 0.191166,
+      "text": "一"
+    },
+    {
+      "start": 27.91175,
+      "duration": 0.117666,
+      "text": "的"
+    },
+    {
+      "start": 28.044125,
+      "duration": 0.602958,
+      "text": "起点"
+    },
+    {
+      "start": 29.073541,
+      "duration": 0.279416,
+      "text": "如果"
+    },
+    {
+      "start": 29.367666,
+      "duration": 0.529416,
+      "text": "两者"
+    },
+    {
+      "start": 29.926458,
+      "duration": 0.455875,
+      "text": "同时"
+    },
+    {
+      "start": 30.397041,
+      "duration": 0.544125,
+      "text": "使用"
+    },
+    {
+      "start": 31.044125,
+      "duration": 0.176458,
+      "text": "就"
+    },
+    {
+      "start": 31.220583,
+      "duration": 0.147041,
+      "text": "会"
+    },
+    {
+      "start": 31.382333,
+      "duration": 0.647041,
+      "text": "冲突"
+    },
+    {
+      "start": 32.705875,
+      "duration": 0.705875,
+      "text": "初始化"
+    },
+    {
+      "start": 33.41175,
+      "duration": 0.441166,
+      "text": "时"
+    },
+    {
+      "start": 33.970583,
+      "duration": 0.220583,
+      "text": "要"
+    },
+    {
+      "start": 34.205875,
+      "duration": 0.455875,
+      "text": "规划"
+    },
+    {
+      "start": 34.691166,
+      "duration": 0.191166,
+      "text": "栈"
+    },
+    {
+      "start": 34.882333,
+      "duration": 0.102958,
+      "text": "的"
+    },
+    {
+      "start": 35.0,
+      "duration": 0.514708,
+      "text": "位置"
+    },
+    {
+      "start": 35.544125,
+      "duration": 0.16175,
+      "text": "和"
+    },
+    {
+      "start": 35.720583,
+      "duration": 0.426458,
+      "text": "增长"
+    },
+    {
+      "start": 36.16175,
+      "duration": 0.58825,
+      "text": "空间"
+    },
+    {
+      "start": 37.176458,
+      "duration": 0.294125,
+      "text": "不能"
+    },
+    {
+      "start": 37.485291,
+      "duration": 0.58825,
+      "text": "认为"
+    },
+    {
+      "start": 38.191166,
+      "duration": 0.235291,
+      "text": "堆"
+    },
+    {
+      "start": 38.426458,
+      "duration": 0.235291,
+      "text": "栈"
+    },
+    {
+      "start": 38.691166,
+      "duration": 0.191166,
+      "text": "是"
+    },
+    {
+      "start": 38.897041,
+      "duration": 0.441166,
+      "text": "额外"
+    },
+    {
+      "start": 39.352958,
+      "duration": 0.41175,
+      "text": "提供"
+    },
+    {
+      "start": 39.764708,
+      "duration": 0.117666,
+      "text": "的"
+    },
+    {
+      "start": 39.91175,
+      "duration": 0.455875,
+      "text": "无限"
+    },
+    {
+      "start": 40.382333,
+      "duration": 0.647041,
+      "text": "存储"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

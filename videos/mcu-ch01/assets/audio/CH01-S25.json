@@ -1,0 +1,456 @@
+{
+  "id": "CH01-S25",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "ee6b519b78ae8c36e4ca6e1b20ca983e8a1848c06179b5f1e01339118e943892",
+  "text": "存储器可按用途和介质分类，课件的磁、光及半导体器件放在分类树中。分析容量时抓住三个概念：地址选哪个单元，单元数表示有多少位置，单元位数表示每处能放多少比特。\n像旅店的房间号、房间总数和每间床位，三者不同。两根地址线能给四种组合；一般地，n根地址线可区分二的 n次方个单元。总比特容量再乘每单元位数，不能只数数据线。",
+  "duration": 41.616,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.897041,
+      "text": "存储器"
+    },
+    {
+      "start": 1.035291,
+      "duration": 0.205875,
+      "text": "可"
+    },
+    {
+      "start": 1.241166,
+      "duration": 0.205875,
+      "text": "按"
+    },
+    {
+      "start": 1.476458,
+      "duration": 0.58825,
+      "text": "用途"
+    },
+    {
+      "start": 2.094125,
+      "duration": 0.16175,
+      "text": "和"
+    },
+    {
+      "start": 2.270583,
+      "duration": 0.382333,
+      "text": "介质"
+    },
+    {
+      "start": 2.667666,
+      "duration": 0.544125,
+      "text": "分类"
+    },
+    {
+      "start": 3.594125,
+      "duration": 0.455875,
+      "text": "课件"
+    },
+    {
+      "start": 4.05,
+      "duration": 0.117666,
+      "text": "的"
+    },
+    {
+      "start": 4.182333,
+      "duration": 0.426458,
+      "text": "磁"
+    },
+    {
+      "start": 4.844125,
+      "duration": 0.426458,
+      "text": "光及"
+    },
+    {
+      "start": 5.285291,
+      "duration": 0.602958,
+      "text": "半导体"
+    },
+    {
+      "start": 5.902958,
+      "duration": 0.558833,
+      "text": "器件"
+    },
+    {
+      "start": 6.564708,
+      "duration": 0.235291,
+      "text": "放"
+    },
+    {
+      "start": 6.8,
+      "duration": 0.191166,
+      "text": "在"
+    },
+    {
+      "start": 7.020583,
+      "duration": 0.426458,
+      "text": "分类"
+    },
+    {
+      "start": 7.447041,
+      "duration": 0.264708,
+      "text": "树"
+    },
+    {
+      "start": 7.71175,
+      "duration": 0.308833,
+      "text": "中"
+    },
+    {
+      "start": 8.691166,
+      "duration": 0.455875,
+      "text": "分析"
+    },
+    {
+      "start": 9.16175,
+      "duration": 0.455875,
+      "text": "容量"
+    },
+    {
+      "start": 9.617666,
+      "duration": 0.426458,
+      "text": "时"
+    },
+    {
+      "start": 10.16175,
+      "duration": 0.426458,
+      "text": "抓住"
+    },
+    {
+      "start": 10.617666,
+      "duration": 0.264666,
+      "text": "三"
+    },
+    {
+      "start": 10.882333,
+      "duration": 0.102958,
+      "text": "个"
+    },
+    {
+      "start": 11.0,
+      "duration": 0.544125,
+      "text": "概念"
+    },
+    {
+      "start": 11.985291,
+      "duration": 0.41175,
+      "text": "地址"
+    },
+    {
+      "start": 12.41175,
+      "duration": 0.25,
+      "text": "选"
+    },
+    {
+      "start": 12.676458,
+      "duration": 0.294125,
+      "text": "哪个"
+    },
+    {
+      "start": 12.985291,
+      "duration": 0.602958,
+      "text": "单元"
+    },
+    {
+      "start": 13.91175,
+      "duration": 0.691166,
+      "text": "单元数"
+    },
+    {
+      "start": 14.617666,
+      "duration": 0.367666,
+      "text": "表示"
+    },
+    {
+      "start": 15.014708,
+      "duration": 0.16175,
+      "text": "有"
+    },
+    {
+      "start": 15.191166,
+      "duration": 0.426458,
+      "text": "多少"
+    },
+    {
+      "start": 15.632333,
+      "duration": 0.544125,
+      "text": "位置"
+    },
+    {
+      "start": 16.455875,
+      "duration": 0.426458,
+      "text": "单元"
+    },
+    {
+      "start": 16.897041,
+      "duration": 0.367666,
+      "text": "位数"
+    },
+    {
+      "start": 17.279416,
+      "duration": 0.66175,
+      "text": "表示"
+    },
+    {
+      "start": 18.058833,
+      "duration": 0.235291,
+      "text": "每"
+    },
+    {
+      "start": 18.294125,
+      "duration": 0.279416,
+      "text": "处"
+    },
+    {
+      "start": 18.58825,
+      "duration": 0.191166,
+      "text": "能"
+    },
+    {
+      "start": 18.779416,
+      "duration": 0.205875,
+      "text": "放"
+    },
+    {
+      "start": 19.014708,
+      "duration": 0.41175,
+      "text": "多少"
+    },
+    {
+      "start": 19.441166,
+      "duration": 0.544125,
+      "text": "比特"
+    },
+    {
+      "start": 20.66175,
+      "duration": 0.323541,
+      "text": "像"
+    },
+    {
+      "start": 21.014708,
+      "duration": 0.352958,
+      "text": "旅店"
+    },
+    {
+      "start": 21.367666,
+      "duration": 0.08825,
+      "text": "的"
+    },
+    {
+      "start": 21.470583,
+      "duration": 0.455875,
+      "text": "房间"
+    },
+    {
+      "start": 21.926458,
+      "duration": 0.382333,
+      "text": "号"
+    },
+    {
+      "start": 22.558833,
+      "duration": 0.455875,
+      "text": "房间"
+    },
+    {
+      "start": 23.029416,
+      "duration": 0.632333,
+      "text": "总数"
+    },
+    {
+      "start": 23.779416,
+      "duration": 0.176458,
+      "text": "和"
+    },
+    {
+      "start": 23.970583,
+      "duration": 0.470583,
+      "text": "每间"
+    },
+    {
+      "start": 24.455875,
+      "duration": 0.617666,
+      "text": "床位"
+    },
+    {
+      "start": 25.397041,
+      "duration": 0.470583,
+      "text": "三者"
+    },
+    {
+      "start": 25.882333,
+      "duration": 0.544125,
+      "text": "不同"
+    },
+    {
+      "start": 27.102958,
+      "duration": 0.441166,
+      "text": "两根"
+    },
+    {
+      "start": 27.558833,
+      "duration": 0.397041,
+      "text": "地址"
+    },
+    {
+      "start": 27.955875,
+      "duration": 0.397041,
+      "text": "线"
+    },
+    {
+      "start": 28.470583,
+      "duration": 0.176458,
+      "text": "能"
+    },
+    {
+      "start": 28.647041,
+      "duration": 0.176458,
+      "text": "给"
+    },
+    {
+      "start": 28.852958,
+      "duration": 0.235291,
+      "text": "四"
+    },
+    {
+      "start": 29.08825,
+      "duration": 0.220583,
+      "text": "种"
+    },
+    {
+      "start": 29.323541,
+      "duration": 0.602958,
+      "text": "组合"
+    },
+    {
+      "start": 30.352958,
+      "duration": 0.426458,
+      "text": "一般"
+    },
+    {
+      "start": 30.779416,
+      "duration": 0.294125,
+      "text": "地"
+    },
+    {
+      "start": 31.397041,
+      "duration": 0.235291,
+      "text": "n"
+    },
+    {
+      "start": 31.632333,
+      "duration": 0.191166,
+      "text": "根"
+    },
+    {
+      "start": 31.83825,
+      "duration": 0.397041,
+      "text": "地址"
+    },
+    {
+      "start": 32.235291,
+      "duration": 0.397041,
+      "text": "线"
+    },
+    {
+      "start": 32.75,
+      "duration": 0.220583,
+      "text": "可"
+    },
+    {
+      "start": 32.985291,
+      "duration": 0.397041,
+      "text": "区分"
+    },
+    {
+      "start": 33.41175,
+      "duration": 0.220583,
+      "text": "二"
+    },
+    {
+      "start": 33.632333,
+      "duration": 0.176458,
+      "text": "的"
+    },
+    {
+      "start": 33.83825,
+      "duration": 0.235291,
+      "text": "n"
+    },
+    {
+      "start": 34.073541,
+      "duration": 0.25,
+      "text": "次"
+    },
+    {
+      "start": 34.33825,
+      "duration": 0.220583,
+      "text": "方"
+    },
+    {
+      "start": 34.558833,
+      "duration": 0.08825,
+      "text": "个"
+    },
+    {
+      "start": 34.66175,
+      "duration": 0.602958,
+      "text": "单元"
+    },
+    {
+      "start": 35.941166,
+      "duration": 0.66175,
+      "text": "总比特"
+    },
+    {
+      "start": 36.617666,
+      "duration": 0.602958,
+      "text": "容量"
+    },
+    {
+      "start": 37.33825,
+      "duration": 0.220583,
+      "text": "再"
+    },
+    {
+      "start": 37.558833,
+      "duration": 0.191166,
+      "text": "乘"
+    },
+    {
+      "start": 37.779416,
+      "duration": 0.191166,
+      "text": "每"
+    },
+    {
+      "start": 37.970583,
+      "duration": 0.41175,
+      "text": "单元"
+    },
+    {
+      "start": 38.397041,
+      "duration": 0.632333,
+      "text": "位数"
+    },
+    {
+      "start": 39.323541,
+      "duration": 0.367666,
+      "text": "不能"
+    },
+    {
+      "start": 39.705875,
+      "duration": 0.220583,
+      "text": "只"
+    },
+    {
+      "start": 39.926458,
+      "duration": 0.235291,
+      "text": "数"
+    },
+    {
+      "start": 40.16175,
+      "duration": 0.779416,
+      "text": "数据线"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

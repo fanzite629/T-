@@ -1,0 +1,411 @@
+{
+  "id": "CH01-S09",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "f26f69b914637c7b72f6ecb9ca405131e7e2a9811cfc8951bd2eb32545c638c3",
+  "text": "课件列出基本、增强、低功耗、专用、超八位和片内闪存六类。基本型如八零五一；典型五二增强器件有二百五十六字节运行存储、三个十六位定时器，片内程序容量要看型号。\n低功耗关心能耗，专用型优化特定接口，超八位是课件的历史分类称呼，闪存便于更新程序。这些标签可以重叠。选型要问：程序和数据放得下吗，接口与定时器够吗，工作条件合适吗？",
+  "duration": 42.96,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.455875,
+      "text": "课件"
+    },
+    {
+      "start": 0.579416,
+      "duration": 0.367666,
+      "text": "列出"
+    },
+    {
+      "start": 0.976458,
+      "duration": 0.544125,
+      "text": "基本"
+    },
+    {
+      "start": 1.770583,
+      "duration": 0.720583,
+      "text": "增强"
+    },
+    {
+      "start": 2.697041,
+      "duration": 0.779416,
+      "text": "低功耗"
+    },
+    {
+      "start": 3.741166,
+      "duration": 0.58825,
+      "text": "专用"
+    },
+    {
+      "start": 4.63825,
+      "duration": 0.264708,
+      "text": "超"
+    },
+    {
+      "start": 4.902958,
+      "duration": 0.25,
+      "text": "八"
+    },
+    {
+      "start": 5.152958,
+      "duration": 0.33825,
+      "text": "位"
+    },
+    {
+      "start": 5.608833,
+      "duration": 0.176458,
+      "text": "和"
+    },
+    {
+      "start": 5.8,
+      "duration": 0.455875,
+      "text": "片内"
+    },
+    {
+      "start": 6.270583,
+      "duration": 0.5,
+      "text": "闪存"
+    },
+    {
+      "start": 6.785291,
+      "duration": 0.544125,
+      "text": "六类"
+    },
+    {
+      "start": 8.014708,
+      "duration": 0.720583,
+      "text": "基本型"
+    },
+    {
+      "start": 8.764708,
+      "duration": 0.279416,
+      "text": "如"
+    },
+    {
+      "start": 9.073541,
+      "duration": 0.955875,
+      "text": "八零五一"
+    },
+    {
+      "start": 10.470583,
+      "duration": 0.470583,
+      "text": "典型"
+    },
+    {
+      "start": 10.970583,
+      "duration": 0.352958,
+      "text": "五二"
+    },
+    {
+      "start": 11.33825,
+      "duration": 0.441166,
+      "text": "增强"
+    },
+    {
+      "start": 11.794125,
+      "duration": 0.573541,
+      "text": "器件"
+    },
+    {
+      "start": 12.485291,
+      "duration": 0.25,
+      "text": "有"
+    },
+    {
+      "start": 12.75,
+      "duration": 0.941166,
+      "text": "二百五十六"
+    },
+    {
+      "start": 13.705875,
+      "duration": 0.426458,
+      "text": "字节"
+    },
+    {
+      "start": 14.16175,
+      "duration": 0.41175,
+      "text": "运行"
+    },
+    {
+      "start": 14.58825,
+      "duration": 0.632333,
+      "text": "存储"
+    },
+    {
+      "start": 15.573541,
+      "duration": 0.33825,
+      "text": "三个"
+    },
+    {
+      "start": 15.926458,
+      "duration": 0.441166,
+      "text": "十六"
+    },
+    {
+      "start": 16.367666,
+      "duration": 0.191166,
+      "text": "位"
+    },
+    {
+      "start": 16.573541,
+      "duration": 0.75,
+      "text": "定时器"
+    },
+    {
+      "start": 17.602958,
+      "duration": 0.279375,
+      "text": "片"
+    },
+    {
+      "start": 17.882333,
+      "duration": 0.176458,
+      "text": "内"
+    },
+    {
+      "start": 18.073541,
+      "duration": 0.41175,
+      "text": "程序"
+    },
+    {
+      "start": 18.5,
+      "duration": 0.558833,
+      "text": "容量"
+    },
+    {
+      "start": 19.176458,
+      "duration": 0.16175,
+      "text": "要"
+    },
+    {
+      "start": 19.33825,
+      "duration": 0.220583,
+      "text": "看"
+    },
+    {
+      "start": 19.573541,
+      "duration": 0.647041,
+      "text": "型号"
+    },
+    {
+      "start": 20.897041,
+      "duration": 0.647041,
+      "text": "低功耗"
+    },
+    {
+      "start": 21.573541,
+      "duration": 0.41175,
+      "text": "关心"
+    },
+    {
+      "start": 22.0,
+      "duration": 0.58825,
+      "text": "能耗"
+    },
+    {
+      "start": 22.941166,
+      "duration": 0.441166,
+      "text": "专用"
+    },
+    {
+      "start": 23.382333,
+      "duration": 0.264708,
+      "text": "型"
+    },
+    {
+      "start": 23.676458,
+      "duration": 0.514708,
+      "text": "优化"
+    },
+    {
+      "start": 24.220583,
+      "duration": 0.441166,
+      "text": "特定"
+    },
+    {
+      "start": 24.676458,
+      "duration": 0.573541,
+      "text": "接口"
+    },
+    {
+      "start": 25.602958,
+      "duration": 0.235291,
+      "text": "超"
+    },
+    {
+      "start": 25.852958,
+      "duration": 0.235291,
+      "text": "八"
+    },
+    {
+      "start": 26.08825,
+      "duration": 0.352958,
+      "text": "位"
+    },
+    {
+      "start": 26.470583,
+      "duration": 0.191166,
+      "text": "是"
+    },
+    {
+      "start": 26.66175,
+      "duration": 0.455875,
+      "text": "课件"
+    },
+    {
+      "start": 27.117666,
+      "duration": 0.102958,
+      "text": "的"
+    },
+    {
+      "start": 27.25,
+      "duration": 0.382333,
+      "text": "历史"
+    },
+    {
+      "start": 27.647041,
+      "duration": 0.426458,
+      "text": "分类"
+    },
+    {
+      "start": 28.08825,
+      "duration": 0.617666,
+      "text": "称呼"
+    },
+    {
+      "start": 28.985291,
+      "duration": 0.632333,
+      "text": "闪存"
+    },
+    {
+      "start": 29.647041,
+      "duration": 0.33825,
+      "text": "便于"
+    },
+    {
+      "start": 30.0,
+      "duration": 0.455875,
+      "text": "更新"
+    },
+    {
+      "start": 30.470583,
+      "duration": 0.647041,
+      "text": "程序"
+    },
+    {
+      "start": 31.794125,
+      "duration": 0.397041,
+      "text": "这些"
+    },
+    {
+      "start": 32.205875,
+      "duration": 0.58825,
+      "text": "标签"
+    },
+    {
+      "start": 32.823541,
+      "duration": 0.264708,
+      "text": "可以"
+    },
+    {
+      "start": 33.102958,
+      "duration": 0.647041,
+      "text": "重叠"
+    },
+    {
+      "start": 34.426458,
+      "duration": 0.485291,
+      "text": "选型"
+    },
+    {
+      "start": 34.926458,
+      "duration": 0.235291,
+      "text": "要"
+    },
+    {
+      "start": 35.16175,
+      "duration": 0.308833,
+      "text": "问"
+    },
+    {
+      "start": 35.83825,
+      "duration": 0.735291,
+      "text": "程序"
+    },
+    {
+      "start": 36.676458,
+      "duration": 0.176458,
+      "text": "和"
+    },
+    {
+      "start": 36.867666,
+      "duration": 0.397041,
+      "text": "数据"
+    },
+    {
+      "start": 37.294125,
+      "duration": 0.191166,
+      "text": "放"
+    },
+    {
+      "start": 37.485291,
+      "duration": 0.102958,
+      "text": "得"
+    },
+    {
+      "start": 37.58825,
+      "duration": 0.294083,
+      "text": "下"
+    },
+    {
+      "start": 37.882333,
+      "duration": 0.294125,
+      "text": "吗"
+    },
+    {
+      "start": 38.544125,
+      "duration": 0.514708,
+      "text": "接口"
+    },
+    {
+      "start": 39.08825,
+      "duration": 0.147041,
+      "text": "与"
+    },
+    {
+      "start": 39.25,
+      "duration": 0.558833,
+      "text": "定时器"
+    },
+    {
+      "start": 39.823541,
+      "duration": 0.25,
+      "text": "够"
+    },
+    {
+      "start": 40.073541,
+      "duration": 0.279416,
+      "text": "吗"
+    },
+    {
+      "start": 40.66175,
+      "duration": 0.367666,
+      "text": "工作"
+    },
+    {
+      "start": 41.044125,
+      "duration": 0.441166,
+      "text": "条件"
+    },
+    {
+      "start": 41.514708,
+      "duration": 0.485291,
+      "text": "合适"
+    },
+    {
+      "start": 42.0,
+      "duration": 0.294125,
+      "text": "吗"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

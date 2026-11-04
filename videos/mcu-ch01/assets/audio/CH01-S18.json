@@ -1,0 +1,391 @@
+{
+  "id": "CH01-S18",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "4e808918b53f89ca62780646e981bb12fb54d85196a8f43aebf05b075f43cb12",
+  "text": "因为十六等于二的四次方，一个十六进制数码对应四个二进制位。九 A B点七 C五逐位替换，完整结果见画面。反过来，从小数点向两侧各四位分组，就得到课件的一 B E三点九七八。\n整数端不足四位，在最左补零；小数端不足四位，在最右补零。比如一零一点一补成零一零一点一零零零，得到五点八 H。补零位置错了，数值就会改变。",
+  "duration": 38.712,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.352958,
+      "text": "因为"
+    },
+    {
+      "start": 0.491166,
+      "duration": 0.441166,
+      "text": "十六"
+    },
+    {
+      "start": 0.947041,
+      "duration": 0.308833,
+      "text": "等于"
+    },
+    {
+      "start": 1.255875,
+      "duration": 0.220583,
+      "text": "二"
+    },
+    {
+      "start": 1.476458,
+      "duration": 0.102958,
+      "text": "的"
+    },
+    {
+      "start": 1.594125,
+      "duration": 0.264708,
+      "text": "四"
+    },
+    {
+      "start": 1.858833,
+      "duration": 0.235291,
+      "text": "次"
+    },
+    {
+      "start": 2.094125,
+      "duration": 0.33825,
+      "text": "方"
+    },
+    {
+      "start": 2.770583,
+      "duration": 0.25,
+      "text": "一个"
+    },
+    {
+      "start": 3.035291,
+      "duration": 0.764708,
+      "text": "十六进制"
+    },
+    {
+      "start": 3.814708,
+      "duration": 0.58825,
+      "text": "数码"
+    },
+    {
+      "start": 4.520583,
+      "duration": 0.41175,
+      "text": "对应"
+    },
+    {
+      "start": 4.96175,
+      "duration": 0.235291,
+      "text": "四"
+    },
+    {
+      "start": 5.197041,
+      "duration": 0.102958,
+      "text": "个"
+    },
+    {
+      "start": 5.329416,
+      "duration": 0.426458,
+      "text": "二进"
+    },
+    {
+      "start": 5.770583,
+      "duration": 0.514708,
+      "text": "制位"
+    },
+    {
+      "start": 6.970583,
+      "duration": 0.33825,
+      "text": "九"
+    },
+    {
+      "start": 7.308833,
+      "duration": 0.235291,
+      "text": "A"
+    },
+    {
+      "start": 7.544125,
+      "duration": 0.308833,
+      "text": "B"
+    },
+    {
+      "start": 7.867666,
+      "duration": 0.455875,
+      "text": "点七"
+    },
+    {
+      "start": 8.323541,
+      "duration": 0.279416,
+      "text": "C"
+    },
+    {
+      "start": 8.617666,
+      "duration": 0.397041,
+      "text": "五逐"
+    },
+    {
+      "start": 9.014708,
+      "duration": 0.191166,
+      "text": "位"
+    },
+    {
+      "start": 9.220583,
+      "duration": 0.558833,
+      "text": "替换"
+    },
+    {
+      "start": 10.117666,
+      "duration": 0.455875,
+      "text": "完整"
+    },
+    {
+      "start": 10.58825,
+      "duration": 0.41175,
+      "text": "结果"
+    },
+    {
+      "start": 11.0,
+      "duration": 0.235291,
+      "text": "见"
+    },
+    {
+      "start": 11.25,
+      "duration": 0.573541,
+      "text": "画面"
+    },
+    {
+      "start": 12.5,
+      "duration": 0.735291,
+      "text": "反过来"
+    },
+    {
+      "start": 13.58825,
+      "duration": 0.235291,
+      "text": "从"
+    },
+    {
+      "start": 13.83825,
+      "duration": 0.794125,
+      "text": "小数点"
+    },
+    {
+      "start": 14.66175,
+      "duration": 0.220583,
+      "text": "向"
+    },
+    {
+      "start": 14.897041,
+      "duration": 0.544125,
+      "text": "两侧"
+    },
+    {
+      "start": 15.470583,
+      "duration": 0.16175,
+      "text": "各"
+    },
+    {
+      "start": 15.632333,
+      "duration": 0.382333,
+      "text": "四位"
+    },
+    {
+      "start": 16.029416,
+      "duration": 0.558833,
+      "text": "分组"
+    },
+    {
+      "start": 16.867666,
+      "duration": 0.191166,
+      "text": "就"
+    },
+    {
+      "start": 17.058833,
+      "duration": 0.367666,
+      "text": "得到"
+    },
+    {
+      "start": 17.455875,
+      "duration": 0.426458,
+      "text": "课件"
+    },
+    {
+      "start": 17.882333,
+      "duration": 0.102958,
+      "text": "的"
+    },
+    {
+      "start": 18.014708,
+      "duration": 0.220583,
+      "text": "一"
+    },
+    {
+      "start": 18.235291,
+      "duration": 0.33825,
+      "text": "B"
+    },
+    {
+      "start": 18.58825,
+      "duration": 0.220583,
+      "text": "E"
+    },
+    {
+      "start": 18.823541,
+      "duration": 1.264708,
+      "text": "三点九七八"
+    },
+    {
+      "start": 20.764708,
+      "duration": 0.455875,
+      "text": "整数"
+    },
+    {
+      "start": 21.220583,
+      "duration": 0.279416,
+      "text": "端"
+    },
+    {
+      "start": 21.529416,
+      "duration": 0.323541,
+      "text": "不足"
+    },
+    {
+      "start": 21.852958,
+      "duration": 0.58825,
+      "text": "四位"
+    },
+    {
+      "start": 22.705875,
+      "duration": 0.235291,
+      "text": "在"
+    },
+    {
+      "start": 22.955875,
+      "duration": 0.470583,
+      "text": "最左"
+    },
+    {
+      "start": 23.426458,
+      "duration": 0.573541,
+      "text": "补零"
+    },
+    {
+      "start": 24.367666,
+      "duration": 0.397041,
+      "text": "小数"
+    },
+    {
+      "start": 24.764708,
+      "duration": 0.235291,
+      "text": "端"
+    },
+    {
+      "start": 25.029416,
+      "duration": 0.294125,
+      "text": "不足"
+    },
+    {
+      "start": 25.323541,
+      "duration": 0.58825,
+      "text": "四位"
+    },
+    {
+      "start": 26.16175,
+      "duration": 0.220583,
+      "text": "在"
+    },
+    {
+      "start": 26.382333,
+      "duration": 0.41175,
+      "text": "最右"
+    },
+    {
+      "start": 26.808833,
+      "duration": 0.558833,
+      "text": "补零"
+    },
+    {
+      "start": 28.044125,
+      "duration": 0.485291,
+      "text": "比如"
+    },
+    {
+      "start": 28.544125,
+      "duration": 1.147041,
+      "text": "一零一点一"
+    },
+    {
+      "start": 29.808833,
+      "duration": 0.5,
+      "text": "补成"
+    },
+    {
+      "start": 30.323541,
+      "duration": 0.382333,
+      "text": "零一"
+    },
+    {
+      "start": 30.720583,
+      "duration": 0.367666,
+      "text": "零一"
+    },
+    {
+      "start": 31.08825,
+      "duration": 0.294125,
+      "text": "点"
+    },
+    {
+      "start": 31.397041,
+      "duration": 0.941166,
+      "text": "一零零零"
+    },
+    {
+      "start": 32.58825,
+      "duration": 0.41175,
+      "text": "得到"
+    },
+    {
+      "start": 33.029416,
+      "duration": 0.66175,
+      "text": "五点八"
+    },
+    {
+      "start": 33.691166,
+      "duration": 0.514708,
+      "text": "H"
+    },
+    {
+      "start": 34.867666,
+      "duration": 0.33825,
+      "text": "补零"
+    },
+    {
+      "start": 35.220583,
+      "duration": 0.33825,
+      "text": "位置"
+    },
+    {
+      "start": 35.573541,
+      "duration": 0.382333,
+      "text": "错"
+    },
+    {
+      "start": 35.955875,
+      "duration": 0.235291,
+      "text": "了"
+    },
+    {
+      "start": 36.529416,
+      "duration": 0.58825,
+      "text": "数值"
+    },
+    {
+      "start": 37.147041,
+      "duration": 0.16175,
+      "text": "就"
+    },
+    {
+      "start": 37.308833,
+      "duration": 0.147041,
+      "text": "会"
+    },
+    {
+      "start": 37.470583,
+      "duration": 0.558833,
+      "text": "改变"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

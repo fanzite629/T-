@@ -1,0 +1,466 @@
+{
+  "id": "CH02-S08",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "883255b318584b4e1da83580251ea52eaaaf1bc94e12ed3800005566c88a73e7",
+  "text": "复位表先抓三个值：程序计数器回到零零零零，堆栈指针为零七，四个端口锁存器为 F F。累加器、B、状态字及数据指针等回到零，外设初值按屏幕分组表核对。\n标成 X的位不能依赖，串行缓冲内容也不能当作可靠零值。端口锁存器写一，不保证任意外部电路下引脚都为高；变量需要程序按需初始化。程序计数器在这里一起列出，但它不属于普通特殊功能寄存器地址表。",
+  "duration": 44.544,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.264708,
+      "text": "复"
+    },
+    {
+      "start": 0.373541,
+      "duration": 0.470583,
+      "text": "位表"
+    },
+    {
+      "start": 0.873541,
+      "duration": 0.264708,
+      "text": "先"
+    },
+    {
+      "start": 1.13825,
+      "duration": 0.191166,
+      "text": "抓"
+    },
+    {
+      "start": 1.344125,
+      "duration": 0.382333,
+      "text": "三个"
+    },
+    {
+      "start": 1.726458,
+      "duration": 0.367666,
+      "text": "值"
+    },
+    {
+      "start": 2.447041,
+      "duration": 0.426458,
+      "text": "程序"
+    },
+    {
+      "start": 2.88825,
+      "duration": 0.720583,
+      "text": "计数器"
+    },
+    {
+      "start": 3.71175,
+      "duration": 0.455875,
+      "text": "回到"
+    },
+    {
+      "start": 4.197041,
+      "duration": 0.941166,
+      "text": "零零零零"
+    },
+    {
+      "start": 5.491166,
+      "duration": 0.235291,
+      "text": "堆"
+    },
+    {
+      "start": 5.726458,
+      "duration": 0.647041,
+      "text": "栈指针"
+    },
+    {
+      "start": 6.402958,
+      "duration": 0.176458,
+      "text": "为"
+    },
+    {
+      "start": 6.594125,
+      "duration": 0.617666,
+      "text": "零七"
+    },
+    {
+      "start": 7.579416,
+      "duration": 0.235291,
+      "text": "四"
+    },
+    {
+      "start": 7.814708,
+      "duration": 0.102958,
+      "text": "个"
+    },
+    {
+      "start": 7.932333,
+      "duration": 0.573541,
+      "text": "端口"
+    },
+    {
+      "start": 8.535291,
+      "duration": 0.220583,
+      "text": "锁"
+    },
+    {
+      "start": 8.755875,
+      "duration": 0.25,
+      "text": "存"
+    },
+    {
+      "start": 9.005875,
+      "duration": 0.264708,
+      "text": "器"
+    },
+    {
+      "start": 9.3,
+      "duration": 0.294125,
+      "text": "为"
+    },
+    {
+      "start": 9.594125,
+      "duration": 0.323541,
+      "text": "F"
+    },
+    {
+      "start": 9.932333,
+      "duration": 0.426458,
+      "text": "F"
+    },
+    {
+      "start": 11.044125,
+      "duration": 0.897041,
+      "text": "累加器"
+    },
+    {
+      "start": 12.191166,
+      "duration": 0.323541,
+      "text": "B"
+    },
+    {
+      "start": 12.794125,
+      "duration": 0.485291,
+      "text": "状态"
+    },
+    {
+      "start": 13.279416,
+      "duration": 0.352958,
+      "text": "字"
+    },
+    {
+      "start": 13.75,
+      "duration": 0.25,
+      "text": "及"
+    },
+    {
+      "start": 14.014708,
+      "duration": 0.41175,
+      "text": "数据"
+    },
+    {
+      "start": 14.441166,
+      "duration": 0.455875,
+      "text": "指针"
+    },
+    {
+      "start": 14.897041,
+      "duration": 0.191166,
+      "text": "等"
+    },
+    {
+      "start": 15.117666,
+      "duration": 0.397041,
+      "text": "回到"
+    },
+    {
+      "start": 15.529416,
+      "duration": 0.33825,
+      "text": "零"
+    },
+    {
+      "start": 16.323541,
+      "duration": 0.397041,
+      "text": "外设"
+    },
+    {
+      "start": 16.735291,
+      "duration": 0.66175,
+      "text": "初值"
+    },
+    {
+      "start": 17.514708,
+      "duration": 0.220583,
+      "text": "按"
+    },
+    {
+      "start": 17.75,
+      "duration": 0.485291,
+      "text": "屏幕"
+    },
+    {
+      "start": 18.264708,
+      "duration": 0.397041,
+      "text": "分组"
+    },
+    {
+      "start": 18.66175,
+      "duration": 0.205875,
+      "text": "表"
+    },
+    {
+      "start": 18.882333,
+      "duration": 0.573541,
+      "text": "核对"
+    },
+    {
+      "start": 20.117666,
+      "duration": 0.66175,
+      "text": "标成"
+    },
+    {
+      "start": 20.779416,
+      "duration": 0.382333,
+      "text": "X"
+    },
+    {
+      "start": 21.16175,
+      "duration": 0.132333,
+      "text": "的"
+    },
+    {
+      "start": 21.308833,
+      "duration": 0.205875,
+      "text": "位"
+    },
+    {
+      "start": 21.514708,
+      "duration": 0.264708,
+      "text": "不能"
+    },
+    {
+      "start": 21.794125,
+      "duration": 0.485291,
+      "text": "依赖"
+    },
+    {
+      "start": 22.66175,
+      "duration": 0.470583,
+      "text": "串行"
+    },
+    {
+      "start": 23.147041,
+      "duration": 0.441166,
+      "text": "缓冲"
+    },
+    {
+      "start": 23.602958,
+      "duration": 0.58825,
+      "text": "内容"
+    },
+    {
+      "start": 24.308833,
+      "duration": 0.16175,
+      "text": "也"
+    },
+    {
+      "start": 24.485291,
+      "duration": 0.323541,
+      "text": "不能"
+    },
+    {
+      "start": 24.808833,
+      "duration": 0.441166,
+      "text": "当作"
+    },
+    {
+      "start": 25.279416,
+      "duration": 0.441166,
+      "text": "可靠"
+    },
+    {
+      "start": 25.735291,
+      "duration": 0.632333,
+      "text": "零值"
+    },
+    {
+      "start": 27.044125,
+      "duration": 0.514708,
+      "text": "端口"
+    },
+    {
+      "start": 27.573541,
+      "duration": 0.205875,
+      "text": "锁"
+    },
+    {
+      "start": 27.779416,
+      "duration": 0.25,
+      "text": "存"
+    },
+    {
+      "start": 28.029416,
+      "duration": 0.176458,
+      "text": "器"
+    },
+    {
+      "start": 28.220583,
+      "duration": 0.279416,
+      "text": "写"
+    },
+    {
+      "start": 28.5,
+      "duration": 0.308833,
+      "text": "一"
+    },
+    {
+      "start": 29.191166,
+      "duration": 0.176458,
+      "text": "不"
+    },
+    {
+      "start": 29.367666,
+      "duration": 0.5,
+      "text": "保证"
+    },
+    {
+      "start": 29.897041,
+      "duration": 0.33825,
+      "text": "任意"
+    },
+    {
+      "start": 30.25,
+      "duration": 0.323541,
+      "text": "外部"
+    },
+    {
+      "start": 30.573541,
+      "duration": 0.205875,
+      "text": "电"
+    },
+    {
+      "start": 30.794125,
+      "duration": 0.529416,
+      "text": "路下"
+    },
+    {
+      "start": 31.441166,
+      "duration": 0.441166,
+      "text": "引脚"
+    },
+    {
+      "start": 31.897041,
+      "duration": 0.176458,
+      "text": "都"
+    },
+    {
+      "start": 32.073541,
+      "duration": 0.205875,
+      "text": "为"
+    },
+    {
+      "start": 32.294125,
+      "duration": 0.308833,
+      "text": "高"
+    },
+    {
+      "start": 33.058833,
+      "duration": 0.426458,
+      "text": "变量"
+    },
+    {
+      "start": 33.5,
+      "duration": 0.308833,
+      "text": "需要"
+    },
+    {
+      "start": 33.823541,
+      "duration": 0.66175,
+      "text": "程序"
+    },
+    {
+      "start": 34.602958,
+      "duration": 0.441166,
+      "text": "按需"
+    },
+    {
+      "start": 35.073541,
+      "duration": 0.779416,
+      "text": "初始化"
+    },
+    {
+      "start": 36.529416,
+      "duration": 0.470583,
+      "text": "程序"
+    },
+    {
+      "start": 37.014708,
+      "duration": 0.367625,
+      "text": "计数"
+    },
+    {
+      "start": 37.382333,
+      "duration": 0.397041,
+      "text": "器"
+    },
+    {
+      "start": 37.897041,
+      "duration": 0.220583,
+      "text": "在"
+    },
+    {
+      "start": 38.117666,
+      "duration": 0.367666,
+      "text": "这里"
+    },
+    {
+      "start": 38.514708,
+      "duration": 0.41175,
+      "text": "一起"
+    },
+    {
+      "start": 38.941166,
+      "duration": 0.602958,
+      "text": "列出"
+    },
+    {
+      "start": 39.941166,
+      "duration": 0.191166,
+      "text": "但"
+    },
+    {
+      "start": 40.132333,
+      "duration": 0.147041,
+      "text": "它"
+    },
+    {
+      "start": 40.294125,
+      "duration": 0.176458,
+      "text": "不"
+    },
+    {
+      "start": 40.470583,
+      "duration": 0.441166,
+      "text": "属于"
+    },
+    {
+      "start": 40.941166,
+      "duration": 0.470583,
+      "text": "普通"
+    },
+    {
+      "start": 41.426458,
+      "duration": 0.426458,
+      "text": "特殊"
+    },
+    {
+      "start": 41.867666,
+      "duration": 0.470583,
+      "text": "功能"
+    },
+    {
+      "start": 42.352958,
+      "duration": 0.66175,
+      "text": "寄存器"
+    },
+    {
+      "start": 43.044125,
+      "duration": 0.808833,
+      "text": "地址表"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

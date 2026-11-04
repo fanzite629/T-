@@ -1,0 +1,386 @@
+{
+  "id": "CH01-S21",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "ef1462637ad226fd4cb84fdbc9c205a4f63fd2d909381a7e852493bca83e610c",
+  "text": "同一串比特怎样解释，要先约定字长和编码。这里固定八位。无符号数所有位都表示大小；原码用最高位表示正负，其余七位表示绝对值。\n正数的原码、反码、补码相同。负数从原码出发，符号位不变，其余取反，得到反码；反码再加一，得到补码。例如负三原码一零零零零零一一，反码一一一一一一零零，补码一一一一一一零一。全过程保持八位。",
+  "duration": 41.976,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.264708,
+      "text": "同"
+    },
+    {
+      "start": 0.373541,
+      "duration": 0.132333,
+      "text": "一"
+    },
+    {
+      "start": 0.505875,
+      "duration": 0.691166,
+      "text": "串比特"
+    },
+    {
+      "start": 1.226458,
+      "duration": 0.41175,
+      "text": "怎样"
+    },
+    {
+      "start": 1.652958,
+      "duration": 0.58825,
+      "text": "解释"
+    },
+    {
+      "start": 2.564708,
+      "duration": 0.176458,
+      "text": "要"
+    },
+    {
+      "start": 2.755875,
+      "duration": 0.235291,
+      "text": "先"
+    },
+    {
+      "start": 3.005875,
+      "duration": 0.485291,
+      "text": "约定"
+    },
+    {
+      "start": 3.520583,
+      "duration": 0.455875,
+      "text": "字长"
+    },
+    {
+      "start": 4.005875,
+      "duration": 0.779416,
+      "text": "和编码"
+    },
+    {
+      "start": 5.470583,
+      "duration": 0.455875,
+      "text": "这里"
+    },
+    {
+      "start": 5.955875,
+      "duration": 0.382333,
+      "text": "固定"
+    },
+    {
+      "start": 6.352958,
+      "duration": 0.264708,
+      "text": "八"
+    },
+    {
+      "start": 6.617666,
+      "duration": 0.33825,
+      "text": "位"
+    },
+    {
+      "start": 7.617666,
+      "duration": 0.235291,
+      "text": "无"
+    },
+    {
+      "start": 7.852958,
+      "duration": 0.75,
+      "text": "符号数"
+    },
+    {
+      "start": 8.632333,
+      "duration": 0.441166,
+      "text": "所有"
+    },
+    {
+      "start": 9.073541,
+      "duration": 0.264708,
+      "text": "位"
+    },
+    {
+      "start": 9.367666,
+      "duration": 0.16175,
+      "text": "都"
+    },
+    {
+      "start": 9.529416,
+      "duration": 0.352958,
+      "text": "表示"
+    },
+    {
+      "start": 9.897041,
+      "duration": 0.617666,
+      "text": "大小"
+    },
+    {
+      "start": 10.941166,
+      "duration": 0.5,
+      "text": "原码"
+    },
+    {
+      "start": 11.455875,
+      "duration": 0.25,
+      "text": "用"
+    },
+    {
+      "start": 11.735291,
+      "duration": 0.205875,
+      "text": "最"
+    },
+    {
+      "start": 11.941166,
+      "duration": 0.441166,
+      "text": "高位"
+    },
+    {
+      "start": 12.41175,
+      "duration": 0.352958,
+      "text": "表示"
+    },
+    {
+      "start": 12.779416,
+      "duration": 0.617666,
+      "text": "正负"
+    },
+    {
+      "start": 13.75,
+      "duration": 0.382333,
+      "text": "其余"
+    },
+    {
+      "start": 14.147041,
+      "duration": 0.41175,
+      "text": "七位"
+    },
+    {
+      "start": 14.558833,
+      "duration": 0.397041,
+      "text": "表示"
+    },
+    {
+      "start": 14.985291,
+      "duration": 0.867666,
+      "text": "绝对值"
+    },
+    {
+      "start": 16.529416,
+      "duration": 0.426458,
+      "text": "正数"
+    },
+    {
+      "start": 16.955875,
+      "duration": 0.117666,
+      "text": "的"
+    },
+    {
+      "start": 17.08825,
+      "duration": 0.58825,
+      "text": "原码"
+    },
+    {
+      "start": 17.941166,
+      "duration": 0.602958,
+      "text": "反码"
+    },
+    {
+      "start": 18.779416,
+      "duration": 0.397041,
+      "text": "补码"
+    },
+    {
+      "start": 19.191166,
+      "duration": 0.691166,
+      "text": "相同"
+    },
+    {
+      "start": 20.558833,
+      "duration": 0.544125,
+      "text": "负数"
+    },
+    {
+      "start": 21.132333,
+      "duration": 0.205875,
+      "text": "从"
+    },
+    {
+      "start": 21.33825,
+      "duration": 0.41175,
+      "text": "原码"
+    },
+    {
+      "start": 21.764708,
+      "duration": 0.544125,
+      "text": "出发"
+    },
+    {
+      "start": 22.647041,
+      "duration": 0.191166,
+      "text": "符"
+    },
+    {
+      "start": 22.83825,
+      "duration": 0.382333,
+      "text": "号位"
+    },
+    {
+      "start": 23.235291,
+      "duration": 0.191166,
+      "text": "不"
+    },
+    {
+      "start": 23.426458,
+      "duration": 0.308833,
+      "text": "变"
+    },
+    {
+      "start": 24.029416,
+      "duration": 0.397041,
+      "text": "其余"
+    },
+    {
+      "start": 24.441166,
+      "duration": 0.617666,
+      "text": "取反"
+    },
+    {
+      "start": 25.294125,
+      "duration": 0.352916,
+      "text": "得到"
+    },
+    {
+      "start": 25.647041,
+      "duration": 0.573541,
+      "text": "反码"
+    },
+    {
+      "start": 26.647041,
+      "duration": 0.397041,
+      "text": "反码"
+    },
+    {
+      "start": 27.044125,
+      "duration": 0.191166,
+      "text": "再"
+    },
+    {
+      "start": 27.25,
+      "duration": 0.264708,
+      "text": "加"
+    },
+    {
+      "start": 27.514708,
+      "duration": 0.323541,
+      "text": "一"
+    },
+    {
+      "start": 28.073541,
+      "duration": 0.367666,
+      "text": "得到"
+    },
+    {
+      "start": 28.455875,
+      "duration": 0.529416,
+      "text": "补码"
+    },
+    {
+      "start": 29.66175,
+      "duration": 0.58825,
+      "text": "例如"
+    },
+    {
+      "start": 30.352958,
+      "duration": 0.441166,
+      "text": "负三"
+    },
+    {
+      "start": 30.808833,
+      "duration": 0.485291,
+      "text": "原码"
+    },
+    {
+      "start": 31.323541,
+      "duration": 1.352958,
+      "text": "一零零零零零"
+    },
+    {
+      "start": 32.691166,
+      "duration": 0.529416,
+      "text": "一一"
+    },
+    {
+      "start": 33.617666,
+      "duration": 0.441166,
+      "text": "反码"
+    },
+    {
+      "start": 34.08825,
+      "duration": 0.485291,
+      "text": "一一"
+    },
+    {
+      "start": 34.58825,
+      "duration": 0.279416,
+      "text": "一"
+    },
+    {
+      "start": 34.867666,
+      "duration": 0.264666,
+      "text": "一"
+    },
+    {
+      "start": 35.132333,
+      "duration": 0.955875,
+      "text": "一一零零"
+    },
+    {
+      "start": 36.41175,
+      "duration": 0.41175,
+      "text": "补码"
+    },
+    {
+      "start": 36.852958,
+      "duration": 0.470583,
+      "text": "一一"
+    },
+    {
+      "start": 37.33825,
+      "duration": 0.25,
+      "text": "一"
+    },
+    {
+      "start": 37.58825,
+      "duration": 0.264708,
+      "text": "一"
+    },
+    {
+      "start": 37.852958,
+      "duration": 0.941166,
+      "text": "一一零一"
+    },
+    {
+      "start": 39.470583,
+      "duration": 0.33825,
+      "text": "全"
+    },
+    {
+      "start": 39.808833,
+      "duration": 0.5,
+      "text": "过程"
+    },
+    {
+      "start": 40.33825,
+      "duration": 0.367666,
+      "text": "保持"
+    },
+    {
+      "start": 40.720583,
+      "duration": 0.264708,
+      "text": "八"
+    },
+    {
+      "start": 40.985291,
+      "duration": 0.323541,
+      "text": "位"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

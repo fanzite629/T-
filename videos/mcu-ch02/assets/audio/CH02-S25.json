@@ -1,0 +1,416 @@
+{
+  "id": "CH02-S25",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "55e8ab8614b0fe593e9b3d6497d258de07fb10b014622614c269f4610c7f53e0",
+  "text": "经典内部一百二十八字节从零零到七 F，分成三段。零零到一 F是四组寄存器，共三十二字节；二零到二 F是位寻址区，共十六字节，也就是一百二十八个位；三零到七 F是一般数据区，共八十字节。\n三十二加十六加八十，正好一百二十八。位区没有额外增加存储容量，只是允许按单个位访问；堆栈也要在实际运行存储器中安排位置。",
+  "duration": 38.832,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.455875,
+      "text": "经典"
+    },
+    {
+      "start": 0.579416,
+      "duration": 0.558833,
+      "text": "内部"
+    },
+    {
+      "start": 1.255875,
+      "duration": 0.823541,
+      "text": "一百二十八"
+    },
+    {
+      "start": 2.094125,
+      "duration": 0.573541,
+      "text": "字节"
+    },
+    {
+      "start": 2.785291,
+      "duration": 0.279416,
+      "text": "从"
+    },
+    {
+      "start": 3.079416,
+      "duration": 0.382333,
+      "text": "零零"
+    },
+    {
+      "start": 3.46175,
+      "duration": 0.176458,
+      "text": "到"
+    },
+    {
+      "start": 3.652958,
+      "duration": 0.308791,
+      "text": "七"
+    },
+    {
+      "start": 3.96175,
+      "duration": 0.426458,
+      "text": "F"
+    },
+    {
+      "start": 4.63825,
+      "duration": 0.426458,
+      "text": "分成"
+    },
+    {
+      "start": 5.079416,
+      "duration": 0.308833,
+      "text": "三"
+    },
+    {
+      "start": 5.38825,
+      "duration": 0.279416,
+      "text": "段"
+    },
+    {
+      "start": 6.33825,
+      "duration": 0.441166,
+      "text": "零零"
+    },
+    {
+      "start": 6.808833,
+      "duration": 0.205875,
+      "text": "到"
+    },
+    {
+      "start": 7.029416,
+      "duration": 0.264708,
+      "text": "一"
+    },
+    {
+      "start": 7.294125,
+      "duration": 0.5,
+      "text": "F"
+    },
+    {
+      "start": 7.91175,
+      "duration": 0.235291,
+      "text": "是"
+    },
+    {
+      "start": 8.16175,
+      "duration": 0.264708,
+      "text": "四"
+    },
+    {
+      "start": 8.426458,
+      "duration": 0.191166,
+      "text": "组"
+    },
+    {
+      "start": 8.632333,
+      "duration": 0.794125,
+      "text": "寄存器"
+    },
+    {
+      "start": 9.735291,
+      "duration": 0.25,
+      "text": "共"
+    },
+    {
+      "start": 10.0,
+      "duration": 0.573541,
+      "text": "三十二"
+    },
+    {
+      "start": 10.58825,
+      "duration": 0.58825,
+      "text": "字节"
+    },
+    {
+      "start": 11.573541,
+      "duration": 0.529416,
+      "text": "二零"
+    },
+    {
+      "start": 12.117666,
+      "duration": 0.176458,
+      "text": "到"
+    },
+    {
+      "start": 12.308833,
+      "duration": 0.279416,
+      "text": "二"
+    },
+    {
+      "start": 12.58825,
+      "duration": 0.470583,
+      "text": "F"
+    },
+    {
+      "start": 13.176458,
+      "duration": 0.235291,
+      "text": "是"
+    },
+    {
+      "start": 13.41175,
+      "duration": 0.176458,
+      "text": "位"
+    },
+    {
+      "start": 13.617666,
+      "duration": 0.441166,
+      "text": "寻址"
+    },
+    {
+      "start": 14.058833,
+      "duration": 0.397041,
+      "text": "区"
+    },
+    {
+      "start": 14.691166,
+      "duration": 0.220583,
+      "text": "共"
+    },
+    {
+      "start": 14.91175,
+      "duration": 0.441166,
+      "text": "十六"
+    },
+    {
+      "start": 15.367666,
+      "duration": 0.558833,
+      "text": "字节"
+    },
+    {
+      "start": 16.191166,
+      "duration": 0.191166,
+      "text": "也"
+    },
+    {
+      "start": 16.382333,
+      "duration": 0.205875,
+      "text": "就"
+    },
+    {
+      "start": 16.58825,
+      "duration": 0.191166,
+      "text": "是"
+    },
+    {
+      "start": 16.808833,
+      "duration": 0.485291,
+      "text": "一百二"
+    },
+    {
+      "start": 17.308833,
+      "duration": 0.588208,
+      "text": "十八个"
+    },
+    {
+      "start": 17.897041,
+      "duration": 0.294125,
+      "text": "位"
+    },
+    {
+      "start": 18.632333,
+      "duration": 0.41175,
+      "text": "三零"
+    },
+    {
+      "start": 19.058833,
+      "duration": 0.191166,
+      "text": "到"
+    },
+    {
+      "start": 19.264708,
+      "duration": 0.308833,
+      "text": "七"
+    },
+    {
+      "start": 19.573541,
+      "duration": 0.470583,
+      "text": "F"
+    },
+    {
+      "start": 20.147041,
+      "duration": 0.205875,
+      "text": "是"
+    },
+    {
+      "start": 20.367666,
+      "duration": 0.323541,
+      "text": "一般"
+    },
+    {
+      "start": 20.705875,
+      "duration": 0.426458,
+      "text": "数据"
+    },
+    {
+      "start": 21.132333,
+      "duration": 0.367666,
+      "text": "区"
+    },
+    {
+      "start": 21.720583,
+      "duration": 0.25,
+      "text": "共"
+    },
+    {
+      "start": 21.970583,
+      "duration": 0.397041,
+      "text": "八十"
+    },
+    {
+      "start": 22.382333,
+      "duration": 0.558833,
+      "text": "字节"
+    },
+    {
+      "start": 23.617666,
+      "duration": 0.764708,
+      "text": "三十二"
+    },
+    {
+      "start": 24.41175,
+      "duration": 0.25,
+      "text": "加"
+    },
+    {
+      "start": 24.66175,
+      "duration": 0.41175,
+      "text": "十六"
+    },
+    {
+      "start": 25.102958,
+      "duration": 0.16175,
+      "text": "加"
+    },
+    {
+      "start": 25.279416,
+      "duration": 0.647041,
+      "text": "八十"
+    },
+    {
+      "start": 26.191166,
+      "duration": 0.514708,
+      "text": "正好"
+    },
+    {
+      "start": 26.735291,
+      "duration": 0.985291,
+      "text": "一百二十八"
+    },
+    {
+      "start": 28.397041,
+      "duration": 0.294125,
+      "text": "位"
+    },
+    {
+      "start": 28.691166,
+      "duration": 0.41175,
+      "text": "区"
+    },
+    {
+      "start": 29.220583,
+      "duration": 0.323541,
+      "text": "没有"
+    },
+    {
+      "start": 29.558833,
+      "duration": 0.382333,
+      "text": "额外"
+    },
+    {
+      "start": 29.955875,
+      "duration": 0.41175,
+      "text": "增加"
+    },
+    {
+      "start": 30.397041,
+      "duration": 0.455875,
+      "text": "存储"
+    },
+    {
+      "start": 30.867666,
+      "duration": 0.544125,
+      "text": "容量"
+    },
+    {
+      "start": 31.75,
+      "duration": 0.294125,
+      "text": "只是"
+    },
+    {
+      "start": 32.058833,
+      "duration": 0.470583,
+      "text": "允许"
+    },
+    {
+      "start": 32.558833,
+      "duration": 0.235291,
+      "text": "按"
+    },
+    {
+      "start": 32.808833,
+      "duration": 0.558833,
+      "text": "单个位"
+    },
+    {
+      "start": 33.382333,
+      "duration": 0.529416,
+      "text": "访问"
+    },
+    {
+      "start": 34.132333,
+      "duration": 0.25,
+      "text": "堆"
+    },
+    {
+      "start": 34.382333,
+      "duration": 0.382333,
+      "text": "栈"
+    },
+    {
+      "start": 34.794125,
+      "duration": 0.102916,
+      "text": "也"
+    },
+    {
+      "start": 34.897041,
+      "duration": 0.176458,
+      "text": "要"
+    },
+    {
+      "start": 35.073541,
+      "duration": 0.235291,
+      "text": "在"
+    },
+    {
+      "start": 35.33825,
+      "duration": 0.426458,
+      "text": "实际"
+    },
+    {
+      "start": 35.779416,
+      "duration": 0.485291,
+      "text": "运行"
+    },
+    {
+      "start": 36.279416,
+      "duration": 0.676458,
+      "text": "存储器"
+    },
+    {
+      "start": 36.955875,
+      "duration": 0.220583,
+      "text": "中"
+    },
+    {
+      "start": 37.205875,
+      "duration": 0.382333,
+      "text": "安排"
+    },
+    {
+      "start": 37.602958,
+      "duration": 0.558833,
+      "text": "位置"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

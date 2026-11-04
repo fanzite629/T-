@@ -1,0 +1,316 @@
+{
+  "id": "CH01-S15",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "da5302298d86888787c95024cf882533a7e4d8fce0c35a900e8786798177d257",
+  "text": "现在完整算一次：二进制一一一点一零一。整数部分选中四、二、一，合计七；小数部分选中二分之一和八分之一，合计零点六二五，所以结果是七点六二五。\n方法就是写出每一位的权，再把数字乘权值相加。小数第二位原来是零，如果改成一，就增加四分之一。看清增加的位权，比重新背一遍答案更有用。",
+  "duration": 35.64,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.455875,
+      "text": "现在"
+    },
+    {
+      "start": 0.594125,
+      "duration": 0.382333,
+      "text": "完整"
+    },
+    {
+      "start": 0.991166,
+      "duration": 0.264708,
+      "text": "算"
+    },
+    {
+      "start": 1.255875,
+      "duration": 0.470583,
+      "text": "一次"
+    },
+    {
+      "start": 2.152958,
+      "duration": 0.823541,
+      "text": "二进制"
+    },
+    {
+      "start": 3.094125,
+      "duration": 0.41175,
+      "text": "一一"
+    },
+    {
+      "start": 3.520583,
+      "duration": 1.117666,
+      "text": "一点一零一"
+    },
+    {
+      "start": 5.323541,
+      "duration": 0.852958,
+      "text": "整数部分"
+    },
+    {
+      "start": 6.191166,
+      "duration": 0.514708,
+      "text": "选中"
+    },
+    {
+      "start": 6.735291,
+      "duration": 0.367666,
+      "text": "四"
+    },
+    {
+      "start": 7.367666,
+      "duration": 0.308833,
+      "text": "二"
+    },
+    {
+      "start": 7.985291,
+      "duration": 0.294125,
+      "text": "一"
+    },
+    {
+      "start": 8.558833,
+      "duration": 0.485291,
+      "text": "合计"
+    },
+    {
+      "start": 9.044125,
+      "duration": 0.367666,
+      "text": "七"
+    },
+    {
+      "start": 9.852958,
+      "duration": 0.441166,
+      "text": "小数"
+    },
+    {
+      "start": 10.308833,
+      "duration": 0.294125,
+      "text": "部分"
+    },
+    {
+      "start": 10.617666,
+      "duration": 0.573541,
+      "text": "选中"
+    },
+    {
+      "start": 11.220583,
+      "duration": 0.867666,
+      "text": "二分之一"
+    },
+    {
+      "start": 12.117666,
+      "duration": 0.235291,
+      "text": "和"
+    },
+    {
+      "start": 12.367666,
+      "duration": 0.83825,
+      "text": "八分之一"
+    },
+    {
+      "start": 13.558833,
+      "duration": 0.544125,
+      "text": "合计"
+    },
+    {
+      "start": 14.132333,
+      "duration": 1.176458,
+      "text": "零点六二五"
+    },
+    {
+      "start": 15.58825,
+      "duration": 0.397041,
+      "text": "所以"
+    },
+    {
+      "start": 16.0,
+      "duration": 0.41175,
+      "text": "结果"
+    },
+    {
+      "start": 16.41175,
+      "duration": 0.308833,
+      "text": "是"
+    },
+    {
+      "start": 16.75,
+      "duration": 1.205875,
+      "text": "七点六二五"
+    },
+    {
+      "start": 18.632333,
+      "duration": 0.676458,
+      "text": "方法"
+    },
+    {
+      "start": 19.426458,
+      "duration": 0.323541,
+      "text": "就是"
+    },
+    {
+      "start": 19.764708,
+      "duration": 0.426458,
+      "text": "写出"
+    },
+    {
+      "start": 20.220583,
+      "duration": 0.235291,
+      "text": "每"
+    },
+    {
+      "start": 20.455875,
+      "duration": 0.102958,
+      "text": "一"
+    },
+    {
+      "start": 20.558833,
+      "duration": 0.176458,
+      "text": "位"
+    },
+    {
+      "start": 20.735291,
+      "duration": 0.08825,
+      "text": "的"
+    },
+    {
+      "start": 20.83825,
+      "duration": 0.41175,
+      "text": "权"
+    },
+    {
+      "start": 21.58825,
+      "duration": 0.191166,
+      "text": "再"
+    },
+    {
+      "start": 21.779416,
+      "duration": 0.176458,
+      "text": "把"
+    },
+    {
+      "start": 21.970583,
+      "duration": 0.426458,
+      "text": "数字"
+    },
+    {
+      "start": 22.426458,
+      "duration": 0.647041,
+      "text": "乘权值"
+    },
+    {
+      "start": 23.08825,
+      "duration": 0.58825,
+      "text": "相加"
+    },
+    {
+      "start": 24.352958,
+      "duration": 0.5,
+      "text": "小数"
+    },
+    {
+      "start": 24.867666,
+      "duration": 0.367625,
+      "text": "第二"
+    },
+    {
+      "start": 25.235291,
+      "duration": 0.235291,
+      "text": "位"
+    },
+    {
+      "start": 25.5,
+      "duration": 0.308833,
+      "text": "原来"
+    },
+    {
+      "start": 25.823541,
+      "duration": 0.220583,
+      "text": "是"
+    },
+    {
+      "start": 26.044125,
+      "duration": 0.352958,
+      "text": "零"
+    },
+    {
+      "start": 26.764708,
+      "duration": 0.294125,
+      "text": "如果"
+    },
+    {
+      "start": 27.073541,
+      "duration": 0.455875,
+      "text": "改成"
+    },
+    {
+      "start": 27.544125,
+      "duration": 0.323541,
+      "text": "一"
+    },
+    {
+      "start": 28.102958,
+      "duration": 0.191166,
+      "text": "就"
+    },
+    {
+      "start": 28.308833,
+      "duration": 0.441166,
+      "text": "增加"
+    },
+    {
+      "start": 28.779416,
+      "duration": 0.91175,
+      "text": "四分之一"
+    },
+    {
+      "start": 30.367666,
+      "duration": 0.5,
+      "text": "看清"
+    },
+    {
+      "start": 30.897041,
+      "duration": 0.382333,
+      "text": "增加"
+    },
+    {
+      "start": 31.279416,
+      "duration": 0.102958,
+      "text": "的"
+    },
+    {
+      "start": 31.397041,
+      "duration": 0.66175,
+      "text": "位权"
+    },
+    {
+      "start": 32.33825,
+      "duration": 0.352958,
+      "text": "比重"
+    },
+    {
+      "start": 32.705875,
+      "duration": 0.441166,
+      "text": "新背"
+    },
+    {
+      "start": 33.16175,
+      "duration": 0.367666,
+      "text": "一遍"
+    },
+    {
+      "start": 33.544125,
+      "duration": 0.544125,
+      "text": "答案"
+    },
+    {
+      "start": 34.191166,
+      "duration": 0.235291,
+      "text": "更"
+    },
+    {
+      "start": 34.426458,
+      "duration": 0.544125,
+      "text": "有用"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

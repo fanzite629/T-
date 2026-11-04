@@ -1,0 +1,456 @@
+{
+  "id": "CH02-S11",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "de558e0ac33a161cf4822d3da0f3c819cbcdaad72a9462703c347f8bdb2de49a",
+  "text": "用片外程序地址一二三四 H演示。地址阶段，P二给一二，P零给三四；A L E配合锁存器保持低地址三四。接下来 P零改作数据通路，程序读选通有效，存储器把代码七四送回。\n此时锁存器仍输出三四，P零却已经是七四，所以地址不会跟着数据变化。同一组线分时使用，需要把前一阶段的信息保存下来。图中三七三是电平锁存器，不能画成只在上升沿采样的器件。",
+  "duration": 44.352,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.294125,
+      "text": "用"
+    },
+    {
+      "start": 0.432333,
+      "duration": 0.397041,
+      "text": "片外"
+    },
+    {
+      "start": 0.844125,
+      "duration": 0.397041,
+      "text": "程序"
+    },
+    {
+      "start": 1.255875,
+      "duration": 0.558833,
+      "text": "地址"
+    },
+    {
+      "start": 1.932333,
+      "duration": 0.91175,
+      "text": "一二三四"
+    },
+    {
+      "start": 2.844125,
+      "duration": 0.308833,
+      "text": "H"
+    },
+    {
+      "start": 3.167666,
+      "duration": 0.617666,
+      "text": "演示"
+    },
+    {
+      "start": 4.470583,
+      "duration": 0.367666,
+      "text": "地址"
+    },
+    {
+      "start": 4.852958,
+      "duration": 0.529416,
+      "text": "阶段"
+    },
+    {
+      "start": 5.691166,
+      "duration": 0.220583,
+      "text": "P"
+    },
+    {
+      "start": 5.91175,
+      "duration": 0.191166,
+      "text": "二"
+    },
+    {
+      "start": 6.102958,
+      "duration": 0.205875,
+      "text": "给"
+    },
+    {
+      "start": 6.323541,
+      "duration": 0.441166,
+      "text": "一二"
+    },
+    {
+      "start": 7.08825,
+      "duration": 0.264708,
+      "text": "P"
+    },
+    {
+      "start": 7.352958,
+      "duration": 0.264708,
+      "text": "零"
+    },
+    {
+      "start": 7.617666,
+      "duration": 0.16175,
+      "text": "给"
+    },
+    {
+      "start": 7.794125,
+      "duration": 0.676458,
+      "text": "三四"
+    },
+    {
+      "start": 8.91175,
+      "duration": 0.264708,
+      "text": "A"
+    },
+    {
+      "start": 9.191166,
+      "duration": 0.308833,
+      "text": "L"
+    },
+    {
+      "start": 9.5,
+      "duration": 0.323541,
+      "text": "E"
+    },
+    {
+      "start": 9.955875,
+      "duration": 0.382333,
+      "text": "配合"
+    },
+    {
+      "start": 10.352958,
+      "duration": 0.823541,
+      "text": "锁存器"
+    },
+    {
+      "start": 11.294125,
+      "duration": 0.529416,
+      "text": "保持"
+    },
+    {
+      "start": 11.852958,
+      "duration": 0.191166,
+      "text": "低"
+    },
+    {
+      "start": 12.044125,
+      "duration": 0.367666,
+      "text": "地址"
+    },
+    {
+      "start": 12.426458,
+      "duration": 0.647041,
+      "text": "三四"
+    },
+    {
+      "start": 13.75,
+      "duration": 0.823541,
+      "text": "接下来"
+    },
+    {
+      "start": 14.691166,
+      "duration": 0.235291,
+      "text": "P"
+    },
+    {
+      "start": 14.926458,
+      "duration": 0.220583,
+      "text": "零"
+    },
+    {
+      "start": 15.147041,
+      "duration": 0.235291,
+      "text": "改"
+    },
+    {
+      "start": 15.382333,
+      "duration": 0.220583,
+      "text": "作"
+    },
+    {
+      "start": 15.632333,
+      "duration": 0.33825,
+      "text": "数据"
+    },
+    {
+      "start": 15.985291,
+      "duration": 0.558833,
+      "text": "通路"
+    },
+    {
+      "start": 16.882333,
+      "duration": 0.514708,
+      "text": "程序"
+    },
+    {
+      "start": 17.41175,
+      "duration": 0.191166,
+      "text": "读"
+    },
+    {
+      "start": 17.602958,
+      "duration": 0.455875,
+      "text": "选通"
+    },
+    {
+      "start": 18.073541,
+      "duration": 0.602958,
+      "text": "有效"
+    },
+    {
+      "start": 19.029416,
+      "duration": 0.83825,
+      "text": "存储器"
+    },
+    {
+      "start": 19.897041,
+      "duration": 0.205875,
+      "text": "把"
+    },
+    {
+      "start": 20.117666,
+      "duration": 0.397041,
+      "text": "代码"
+    },
+    {
+      "start": 20.514708,
+      "duration": 0.455875,
+      "text": "七四"
+    },
+    {
+      "start": 20.985291,
+      "duration": 0.632333,
+      "text": "送回"
+    },
+    {
+      "start": 22.294125,
+      "duration": 0.470583,
+      "text": "此时"
+    },
+    {
+      "start": 22.794125,
+      "duration": 0.794125,
+      "text": "锁存器"
+    },
+    {
+      "start": 23.617666,
+      "duration": 0.205875,
+      "text": "仍"
+    },
+    {
+      "start": 23.83825,
+      "duration": 0.352958,
+      "text": "输出"
+    },
+    {
+      "start": 24.205875,
+      "duration": 0.66175,
+      "text": "三四"
+    },
+    {
+      "start": 25.25,
+      "duration": 0.279416,
+      "text": "P"
+    },
+    {
+      "start": 25.544125,
+      "duration": 0.382333,
+      "text": "零"
+    },
+    {
+      "start": 25.926458,
+      "duration": 0.25,
+      "text": "却"
+    },
+    {
+      "start": 26.191166,
+      "duration": 0.294125,
+      "text": "已经"
+    },
+    {
+      "start": 26.485291,
+      "duration": 0.16175,
+      "text": "是"
+    },
+    {
+      "start": 26.66175,
+      "duration": 0.632333,
+      "text": "七四"
+    },
+    {
+      "start": 27.720583,
+      "duration": 0.573541,
+      "text": "所以"
+    },
+    {
+      "start": 28.41175,
+      "duration": 0.41175,
+      "text": "地址"
+    },
+    {
+      "start": 28.852958,
+      "duration": 0.352958,
+      "text": "不会"
+    },
+    {
+      "start": 29.220583,
+      "duration": 0.264708,
+      "text": "跟着"
+    },
+    {
+      "start": 29.514708,
+      "duration": 0.33825,
+      "text": "数据"
+    },
+    {
+      "start": 29.867666,
+      "duration": 0.573541,
+      "text": "变化"
+    },
+    {
+      "start": 31.117666,
+      "duration": 0.264666,
+      "text": "同"
+    },
+    {
+      "start": 31.382333,
+      "duration": 0.176458,
+      "text": "一"
+    },
+    {
+      "start": 31.558833,
+      "duration": 0.191166,
+      "text": "组"
+    },
+    {
+      "start": 31.764708,
+      "duration": 0.279416,
+      "text": "线"
+    },
+    {
+      "start": 32.073541,
+      "duration": 0.382333,
+      "text": "分时"
+    },
+    {
+      "start": 32.470583,
+      "duration": 0.558833,
+      "text": "使用"
+    },
+    {
+      "start": 33.352958,
+      "duration": 0.294125,
+      "text": "需要"
+    },
+    {
+      "start": 33.66175,
+      "duration": 0.191166,
+      "text": "把"
+    },
+    {
+      "start": 33.852958,
+      "duration": 0.279375,
+      "text": "前"
+    },
+    {
+      "start": 34.132333,
+      "duration": 0.147041,
+      "text": "一"
+    },
+    {
+      "start": 34.294125,
+      "duration": 0.338208,
+      "text": "阶段"
+    },
+    {
+      "start": 34.632333,
+      "duration": 0.08825,
+      "text": "的"
+    },
+    {
+      "start": 34.735291,
+      "duration": 0.485291,
+      "text": "信息"
+    },
+    {
+      "start": 35.25,
+      "duration": 0.470583,
+      "text": "保存"
+    },
+    {
+      "start": 35.735291,
+      "duration": 0.558833,
+      "text": "下来"
+    },
+    {
+      "start": 36.970583,
+      "duration": 0.235291,
+      "text": "图"
+    },
+    {
+      "start": 37.205875,
+      "duration": 0.25,
+      "text": "中"
+    },
+    {
+      "start": 37.485291,
+      "duration": 0.794125,
+      "text": "三七三"
+    },
+    {
+      "start": 38.397041,
+      "duration": 0.25,
+      "text": "是"
+    },
+    {
+      "start": 38.66175,
+      "duration": 0.441166,
+      "text": "电平"
+    },
+    {
+      "start": 39.117666,
+      "duration": 0.83825,
+      "text": "锁存器"
+    },
+    {
+      "start": 40.33825,
+      "duration": 0.338208,
+      "text": "不能"
+    },
+    {
+      "start": 40.676458,
+      "duration": 0.647041,
+      "text": "画成"
+    },
+    {
+      "start": 41.352958,
+      "duration": 0.176458,
+      "text": "只"
+    },
+    {
+      "start": 41.529416,
+      "duration": 0.191166,
+      "text": "在"
+    },
+    {
+      "start": 41.735291,
+      "duration": 0.470583,
+      "text": "上升"
+    },
+    {
+      "start": 42.220583,
+      "duration": 0.25,
+      "text": "沿"
+    },
+    {
+      "start": 42.5,
+      "duration": 0.455875,
+      "text": "采样"
+    },
+    {
+      "start": 42.955875,
+      "duration": 0.08825,
+      "text": "的"
+    },
+    {
+      "start": 43.058833,
+      "duration": 0.602958,
+      "text": "器件"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

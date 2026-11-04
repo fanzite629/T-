@@ -1,0 +1,31 @@
+{
+  "ok": true,
+  "chapters": [
+    {
+      "chapter": 1,
+      "source_pages": 63,
+      "source_coverage_complete": true,
+      "scenes": 28,
+      "visual_states": 91,
+      "captions": 198,
+      "duration_seconds": 1440,
+      "voice_seconds": 1095.096,
+      "audio_and_script_match": true,
+      "panel_intervals_contiguous": true,
+      "caption_intervals_ordered": true
+    },
+    {
+      "chapter": 2,
+      "source_pages": 34,
+      "source_coverage_complete": true,
+      "scenes": 28,
+      "visual_states": 88,
+      "captions": 218,
+      "duration_seconds": 1440,
+      "voice_seconds": 1131.432,
+      "audio_and_script_match": true,
+      "panel_intervals_contiguous": true,
+      "caption_intervals_ordered": true
+    }
+  ]
+}

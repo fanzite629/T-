@@ -1,0 +1,371 @@
+{
+  "id": "CH02-S18",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "718691286609896ddf562a93682c8ddc18079cb2b86bde2d127564450ee7acb7",
+  "text": "时钟周期等于频率的倒数。经典十二时钟结构，一个机器周期包括六个状态，每状态两个节拍，总共十二个振荡周期。\n十二兆赫时，时钟周期约八十三点三纳秒，机器周期是一微秒；六兆赫时，机器周期是两微秒。图中的 P一、P二是节拍名称，不是端口。遇到一 T等不同内核，应重新核对规则，不能继续套用十二除以频率。",
+  "duration": 38.016,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.529416,
+      "text": "时钟"
+    },
+    {
+      "start": 0.652958,
+      "duration": 0.602958,
+      "text": "周期"
+    },
+    {
+      "start": 1.373541,
+      "duration": 0.352958,
+      "text": "等于"
+    },
+    {
+      "start": 1.741166,
+      "duration": 0.470583,
+      "text": "频率"
+    },
+    {
+      "start": 2.21175,
+      "duration": 0.102958,
+      "text": "的"
+    },
+    {
+      "start": 2.329416,
+      "duration": 0.632333,
+      "text": "倒数"
+    },
+    {
+      "start": 3.647041,
+      "duration": 0.514708,
+      "text": "经典"
+    },
+    {
+      "start": 4.191166,
+      "duration": 0.735291,
+      "text": "十二时钟"
+    },
+    {
+      "start": 4.941166,
+      "duration": 0.514708,
+      "text": "结构"
+    },
+    {
+      "start": 5.823541,
+      "duration": 0.25,
+      "text": "一个"
+    },
+    {
+      "start": 6.08825,
+      "duration": 0.382333,
+      "text": "机器"
+    },
+    {
+      "start": 6.485291,
+      "duration": 0.602958,
+      "text": "周期"
+    },
+    {
+      "start": 7.205875,
+      "duration": 0.426458,
+      "text": "包括"
+    },
+    {
+      "start": 7.66175,
+      "duration": 0.308833,
+      "text": "六个"
+    },
+    {
+      "start": 7.985291,
+      "duration": 0.573541,
+      "text": "状态"
+    },
+    {
+      "start": 8.941166,
+      "duration": 0.205875,
+      "text": "每"
+    },
+    {
+      "start": 9.147041,
+      "duration": 0.5,
+      "text": "状态"
+    },
+    {
+      "start": 9.676458,
+      "duration": 0.279416,
+      "text": "两个"
+    },
+    {
+      "start": 9.970583,
+      "duration": 0.602958,
+      "text": "节拍"
+    },
+    {
+      "start": 10.91175,
+      "duration": 0.455875,
+      "text": "总共"
+    },
+    {
+      "start": 11.397041,
+      "duration": 0.41175,
+      "text": "十二"
+    },
+    {
+      "start": 11.808833,
+      "duration": 0.102958,
+      "text": "个"
+    },
+    {
+      "start": 11.941166,
+      "duration": 0.397041,
+      "text": "振荡"
+    },
+    {
+      "start": 12.352958,
+      "duration": 0.58825,
+      "text": "周期"
+    },
+    {
+      "start": 13.617666,
+      "duration": 0.426458,
+      "text": "十二"
+    },
+    {
+      "start": 14.058833,
+      "duration": 0.470583,
+      "text": "兆赫"
+    },
+    {
+      "start": 14.529416,
+      "duration": 0.382333,
+      "text": "时"
+    },
+    {
+      "start": 15.220583,
+      "duration": 0.426458,
+      "text": "时钟"
+    },
+    {
+      "start": 15.66175,
+      "duration": 0.617666,
+      "text": "周期"
+    },
+    {
+      "start": 16.308833,
+      "duration": 0.235291,
+      "text": "约"
+    },
+    {
+      "start": 16.558833,
+      "duration": 1.029416,
+      "text": "八十三点三"
+    },
+    {
+      "start": 17.602958,
+      "duration": 0.529416,
+      "text": "纳秒"
+    },
+    {
+      "start": 18.529416,
+      "duration": 0.397041,
+      "text": "机器"
+    },
+    {
+      "start": 18.941166,
+      "duration": 0.632333,
+      "text": "周期"
+    },
+    {
+      "start": 19.602958,
+      "duration": 0.191166,
+      "text": "是"
+    },
+    {
+      "start": 19.808833,
+      "duration": 0.147041,
+      "text": "一"
+    },
+    {
+      "start": 19.955875,
+      "duration": 0.602958,
+      "text": "微秒"
+    },
+    {
+      "start": 20.955875,
+      "duration": 0.66175,
+      "text": "六兆赫"
+    },
+    {
+      "start": 21.617666,
+      "duration": 0.397041,
+      "text": "时"
+    },
+    {
+      "start": 22.294125,
+      "duration": 0.470583,
+      "text": "机器"
+    },
+    {
+      "start": 22.779416,
+      "duration": 0.470583,
+      "text": "周期"
+    },
+    {
+      "start": 23.25,
+      "duration": 0.264708,
+      "text": "是"
+    },
+    {
+      "start": 23.529416,
+      "duration": 0.91175,
+      "text": "两微秒"
+    },
+    {
+      "start": 25.117666,
+      "duration": 0.25,
+      "text": "图"
+    },
+    {
+      "start": 25.367666,
+      "duration": 0.205875,
+      "text": "中"
+    },
+    {
+      "start": 25.573541,
+      "duration": 0.102958,
+      "text": "的"
+    },
+    {
+      "start": 25.705875,
+      "duration": 0.294125,
+      "text": "P"
+    },
+    {
+      "start": 26.0,
+      "duration": 0.279416,
+      "text": "一"
+    },
+    {
+      "start": 26.573541,
+      "duration": 0.235291,
+      "text": "P"
+    },
+    {
+      "start": 26.808833,
+      "duration": 0.279416,
+      "text": "二"
+    },
+    {
+      "start": 27.102958,
+      "duration": 0.235291,
+      "text": "是"
+    },
+    {
+      "start": 27.33825,
+      "duration": 0.41175,
+      "text": "节拍"
+    },
+    {
+      "start": 27.764708,
+      "duration": 0.602958,
+      "text": "名称"
+    },
+    {
+      "start": 28.617666,
+      "duration": 0.33825,
+      "text": "不是"
+    },
+    {
+      "start": 28.970583,
+      "duration": 0.632333,
+      "text": "端口"
+    },
+    {
+      "start": 30.279416,
+      "duration": 0.397041,
+      "text": "遇到"
+    },
+    {
+      "start": 30.705875,
+      "duration": 0.205875,
+      "text": "一"
+    },
+    {
+      "start": 30.91175,
+      "duration": 0.220583,
+      "text": "T"
+    },
+    {
+      "start": 31.132333,
+      "duration": 0.205875,
+      "text": "等"
+    },
+    {
+      "start": 31.367666,
+      "duration": 0.323541,
+      "text": "不同"
+    },
+    {
+      "start": 31.705875,
+      "duration": 0.632333,
+      "text": "内核"
+    },
+    {
+      "start": 32.632333,
+      "duration": 0.220583,
+      "text": "应"
+    },
+    {
+      "start": 32.867666,
+      "duration": 0.514708,
+      "text": "重新"
+    },
+    {
+      "start": 33.397041,
+      "duration": 0.382333,
+      "text": "核对"
+    },
+    {
+      "start": 33.794125,
+      "duration": 0.602958,
+      "text": "规则"
+    },
+    {
+      "start": 34.720583,
+      "duration": 0.33825,
+      "text": "不能"
+    },
+    {
+      "start": 35.073541,
+      "duration": 0.367666,
+      "text": "继续"
+    },
+    {
+      "start": 35.455875,
+      "duration": 0.485291,
+      "text": "套用"
+    },
+    {
+      "start": 35.970583,
+      "duration": 0.382333,
+      "text": "十二"
+    },
+    {
+      "start": 36.352958,
+      "duration": 0.220583,
+      "text": "除"
+    },
+    {
+      "start": 36.573541,
+      "duration": 0.16175,
+      "text": "以"
+    },
+    {
+      "start": 36.75,
+      "duration": 0.58825,
+      "text": "频率"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

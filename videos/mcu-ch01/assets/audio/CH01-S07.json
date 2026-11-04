@@ -1,0 +1,421 @@
+{
+  "id": "CH01-S07",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "60ade9ee654dc2fa2ec90205af086affd894ccb2bdea4687b099e3414738b266",
+  "text": "单片机把处理器、存储器和输入输出等资源集成到一颗芯片中，常称微控制器，简称 M C U。它仍需电源、时钟及应用电路。\n电脑常处理多种任务，单片机常嵌在设备中执行控制。通用型芯片提供可组合资源，专用型针对特定用途优化。同一通用芯片可以做温度显示，也可以做门禁，所以专用系统未必使用专用芯片。实际功能由资源、电路和程序共同决定。",
+  "duration": 43.176,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.75,
+      "text": "单片机"
+    },
+    {
+      "start": 0.88825,
+      "duration": 0.176458,
+      "text": "把"
+    },
+    {
+      "start": 1.079416,
+      "duration": 0.794125,
+      "text": "处理器"
+    },
+    {
+      "start": 2.079416,
+      "duration": 0.91175,
+      "text": "存储器"
+    },
+    {
+      "start": 3.108833,
+      "duration": 0.205875,
+      "text": "和"
+    },
+    {
+      "start": 3.329416,
+      "duration": 0.397041,
+      "text": "输入"
+    },
+    {
+      "start": 3.741166,
+      "duration": 0.441166,
+      "text": "输出"
+    },
+    {
+      "start": 4.182333,
+      "duration": 0.191166,
+      "text": "等"
+    },
+    {
+      "start": 4.38825,
+      "duration": 0.58825,
+      "text": "资源"
+    },
+    {
+      "start": 5.094125,
+      "duration": 0.41175,
+      "text": "集成"
+    },
+    {
+      "start": 5.505875,
+      "duration": 0.16175,
+      "text": "到"
+    },
+    {
+      "start": 5.697041,
+      "duration": 0.117666,
+      "text": "一"
+    },
+    {
+      "start": 5.814708,
+      "duration": 0.16175,
+      "text": "颗"
+    },
+    {
+      "start": 5.991166,
+      "duration": 0.529416,
+      "text": "芯片"
+    },
+    {
+      "start": 6.520583,
+      "duration": 0.264708,
+      "text": "中"
+    },
+    {
+      "start": 7.079416,
+      "duration": 0.279416,
+      "text": "常"
+    },
+    {
+      "start": 7.358833,
+      "duration": 0.205875,
+      "text": "称"
+    },
+    {
+      "start": 7.594125,
+      "duration": 0.205875,
+      "text": "微"
+    },
+    {
+      "start": 7.8,
+      "duration": 0.764708,
+      "text": "控制器"
+    },
+    {
+      "start": 8.852958,
+      "duration": 0.647041,
+      "text": "简称"
+    },
+    {
+      "start": 9.529416,
+      "duration": 0.25,
+      "text": "M"
+    },
+    {
+      "start": 9.794125,
+      "duration": 0.294125,
+      "text": "C"
+    },
+    {
+      "start": 10.08825,
+      "duration": 0.33825,
+      "text": "U"
+    },
+    {
+      "start": 11.08825,
+      "duration": 0.205875,
+      "text": "它"
+    },
+    {
+      "start": 11.308833,
+      "duration": 0.235291,
+      "text": "仍"
+    },
+    {
+      "start": 11.544125,
+      "duration": 0.191166,
+      "text": "需"
+    },
+    {
+      "start": 11.764708,
+      "duration": 0.632333,
+      "text": "电源"
+    },
+    {
+      "start": 12.632333,
+      "duration": 0.617666,
+      "text": "时钟"
+    },
+    {
+      "start": 13.367666,
+      "duration": 0.264708,
+      "text": "及"
+    },
+    {
+      "start": 13.647041,
+      "duration": 0.41175,
+      "text": "应用"
+    },
+    {
+      "start": 14.073541,
+      "duration": 0.5,
+      "text": "电路"
+    },
+    {
+      "start": 15.25,
+      "duration": 0.455875,
+      "text": "电脑"
+    },
+    {
+      "start": 15.735291,
+      "duration": 0.25,
+      "text": "常"
+    },
+    {
+      "start": 15.985291,
+      "duration": 0.382333,
+      "text": "处理"
+    },
+    {
+      "start": 16.397041,
+      "duration": 0.397041,
+      "text": "多种"
+    },
+    {
+      "start": 16.808833,
+      "duration": 0.529416,
+      "text": "任务"
+    },
+    {
+      "start": 17.779416,
+      "duration": 0.455875,
+      "text": "单片"
+    },
+    {
+      "start": 18.25,
+      "duration": 0.632333,
+      "text": "机常"
+    },
+    {
+      "start": 19.0,
+      "duration": 0.264708,
+      "text": "嵌"
+    },
+    {
+      "start": 19.264708,
+      "duration": 0.16175,
+      "text": "在"
+    },
+    {
+      "start": 19.441166,
+      "duration": 0.455875,
+      "text": "设备"
+    },
+    {
+      "start": 19.897041,
+      "duration": 0.235291,
+      "text": "中"
+    },
+    {
+      "start": 20.16175,
+      "duration": 0.397041,
+      "text": "执行"
+    },
+    {
+      "start": 20.573541,
+      "duration": 0.617666,
+      "text": "控制"
+    },
+    {
+      "start": 21.867666,
+      "duration": 0.58825,
+      "text": "通用型"
+    },
+    {
+      "start": 22.470583,
+      "duration": 0.632333,
+      "text": "芯片"
+    },
+    {
+      "start": 23.220583,
+      "duration": 0.426458,
+      "text": "提供"
+    },
+    {
+      "start": 23.676458,
+      "duration": 0.176458,
+      "text": "可"
+    },
+    {
+      "start": 23.867666,
+      "duration": 0.397041,
+      "text": "组合"
+    },
+    {
+      "start": 24.279416,
+      "duration": 0.632333,
+      "text": "资源"
+    },
+    {
+      "start": 25.25,
+      "duration": 0.852958,
+      "text": "专用型"
+    },
+    {
+      "start": 26.132333,
+      "duration": 0.426458,
+      "text": "针对"
+    },
+    {
+      "start": 26.58825,
+      "duration": 0.41175,
+      "text": "特定"
+    },
+    {
+      "start": 27.014708,
+      "duration": 0.397041,
+      "text": "用途"
+    },
+    {
+      "start": 27.426458,
+      "duration": 0.602958,
+      "text": "优化"
+    },
+    {
+      "start": 28.705875,
+      "duration": 0.41175,
+      "text": "同一"
+    },
+    {
+      "start": 29.132333,
+      "duration": 0.382333,
+      "text": "通用"
+    },
+    {
+      "start": 29.529416,
+      "duration": 0.632333,
+      "text": "芯片"
+    },
+    {
+      "start": 30.279416,
+      "duration": 0.308833,
+      "text": "可以"
+    },
+    {
+      "start": 30.602958,
+      "duration": 0.191166,
+      "text": "做"
+    },
+    {
+      "start": 30.823541,
+      "duration": 0.352958,
+      "text": "温度"
+    },
+    {
+      "start": 31.191166,
+      "duration": 0.66175,
+      "text": "显示"
+    },
+    {
+      "start": 32.16175,
+      "duration": 0.16175,
+      "text": "也"
+    },
+    {
+      "start": 32.323541,
+      "duration": 0.264708,
+      "text": "可以"
+    },
+    {
+      "start": 32.602958,
+      "duration": 0.191166,
+      "text": "做"
+    },
+    {
+      "start": 32.794125,
+      "duration": 0.558833,
+      "text": "门禁"
+    },
+    {
+      "start": 33.794125,
+      "duration": 0.573541,
+      "text": "所以"
+    },
+    {
+      "start": 34.485291,
+      "duration": 0.397041,
+      "text": "专用"
+    },
+    {
+      "start": 34.897041,
+      "duration": 0.544125,
+      "text": "系统"
+    },
+    {
+      "start": 35.470583,
+      "duration": 0.397041,
+      "text": "未必"
+    },
+    {
+      "start": 35.882333,
+      "duration": 0.41175,
+      "text": "使用"
+    },
+    {
+      "start": 36.323541,
+      "duration": 0.41175,
+      "text": "专用"
+    },
+    {
+      "start": 36.75,
+      "duration": 0.617666,
+      "text": "芯片"
+    },
+    {
+      "start": 38.044125,
+      "duration": 0.441166,
+      "text": "实际"
+    },
+    {
+      "start": 38.5,
+      "duration": 0.58825,
+      "text": "功能"
+    },
+    {
+      "start": 39.191166,
+      "duration": 0.205875,
+      "text": "由"
+    },
+    {
+      "start": 39.41175,
+      "duration": 0.66175,
+      "text": "资源"
+    },
+    {
+      "start": 40.279416,
+      "duration": 0.529416,
+      "text": "电路"
+    },
+    {
+      "start": 40.83825,
+      "duration": 0.147041,
+      "text": "和"
+    },
+    {
+      "start": 41.0,
+      "duration": 0.514708,
+      "text": "程序"
+    },
+    {
+      "start": 41.544125,
+      "duration": 0.426458,
+      "text": "共同"
+    },
+    {
+      "start": 41.985291,
+      "duration": 0.5,
+      "text": "决定"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

@@ -1,0 +1,401 @@
+{
+  "id": "CH01-S08",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "c4a5212bfa6f6dab9532979ae2b285ec85e6388639069897d92038f98e35e753",
+  "text": "课件用四阶段描述单片机从早期器件、四十八系列，到五一和更多位宽产品的发展；阶段会交叉。英特尔、爱特梅尔、飞利浦等厂家与型号在图中对应展示。\n五一兼容系列共享相近指令体系，但容量、外设、引脚和时序可能不同。八零 C 五一中的 C通常与工艺型号有关。学会一种结构后，可以迁移分析方法，替换芯片前仍须核对具体参数。",
+  "duration": 40.08,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.514708,
+      "text": "课件"
+    },
+    {
+      "start": 0.652958,
+      "duration": 0.205875,
+      "text": "用"
+    },
+    {
+      "start": 0.88825,
+      "duration": 0.25,
+      "text": "四"
+    },
+    {
+      "start": 1.13825,
+      "duration": 0.573541,
+      "text": "阶段"
+    },
+    {
+      "start": 1.829416,
+      "duration": 0.397041,
+      "text": "描述"
+    },
+    {
+      "start": 2.241166,
+      "duration": 0.808833,
+      "text": "单片机"
+    },
+    {
+      "start": 3.167666,
+      "duration": 0.264708,
+      "text": "从"
+    },
+    {
+      "start": 3.447041,
+      "duration": 0.455875,
+      "text": "早期"
+    },
+    {
+      "start": 3.917666,
+      "duration": 0.573541,
+      "text": "器件"
+    },
+    {
+      "start": 4.755875,
+      "duration": 0.573541,
+      "text": "四十八"
+    },
+    {
+      "start": 5.344125,
+      "duration": 0.529416,
+      "text": "系列"
+    },
+    {
+      "start": 6.3,
+      "duration": 0.205875,
+      "text": "到"
+    },
+    {
+      "start": 6.520583,
+      "duration": 0.544125,
+      "text": "五一"
+    },
+    {
+      "start": 7.094125,
+      "duration": 0.235291,
+      "text": "和"
+    },
+    {
+      "start": 7.344125,
+      "duration": 0.397041,
+      "text": "更多"
+    },
+    {
+      "start": 7.741166,
+      "duration": 0.205875,
+      "text": "位"
+    },
+    {
+      "start": 7.976458,
+      "duration": 0.647041,
+      "text": "宽产品"
+    },
+    {
+      "start": 8.623541,
+      "duration": 0.08825,
+      "text": "的"
+    },
+    {
+      "start": 8.726458,
+      "duration": 0.558833,
+      "text": "发展"
+    },
+    {
+      "start": 9.5,
+      "duration": 0.485291,
+      "text": "阶段"
+    },
+    {
+      "start": 10.014708,
+      "duration": 0.220583,
+      "text": "会"
+    },
+    {
+      "start": 10.235291,
+      "duration": 0.632333,
+      "text": "交叉"
+    },
+    {
+      "start": 11.514708,
+      "duration": 0.779416,
+      "text": "英特尔"
+    },
+    {
+      "start": 12.544125,
+      "duration": 0.926458,
+      "text": "爱特梅尔"
+    },
+    {
+      "start": 13.808833,
+      "duration": 0.544125,
+      "text": "飞利浦"
+    },
+    {
+      "start": 14.352958,
+      "duration": 0.205875,
+      "text": "等"
+    },
+    {
+      "start": 14.573541,
+      "duration": 0.529416,
+      "text": "厂家"
+    },
+    {
+      "start": 15.132333,
+      "duration": 0.16175,
+      "text": "与"
+    },
+    {
+      "start": 15.308833,
+      "duration": 0.647041,
+      "text": "型号"
+    },
+    {
+      "start": 16.073541,
+      "duration": 0.220583,
+      "text": "在"
+    },
+    {
+      "start": 16.308833,
+      "duration": 0.205875,
+      "text": "图"
+    },
+    {
+      "start": 16.514708,
+      "duration": 0.235291,
+      "text": "中"
+    },
+    {
+      "start": 16.779416,
+      "duration": 0.33825,
+      "text": "对应"
+    },
+    {
+      "start": 17.132333,
+      "duration": 0.632333,
+      "text": "展示"
+    },
+    {
+      "start": 18.441166,
+      "duration": 0.382333,
+      "text": "五一"
+    },
+    {
+      "start": 18.83825,
+      "duration": 0.397041,
+      "text": "兼容"
+    },
+    {
+      "start": 19.25,
+      "duration": 0.58825,
+      "text": "系列"
+    },
+    {
+      "start": 19.955875,
+      "duration": 0.470583,
+      "text": "共享"
+    },
+    {
+      "start": 20.455875,
+      "duration": 0.441166,
+      "text": "相近"
+    },
+    {
+      "start": 20.91175,
+      "duration": 0.352958,
+      "text": "指令"
+    },
+    {
+      "start": 21.279416,
+      "duration": 0.602958,
+      "text": "体系"
+    },
+    {
+      "start": 22.279416,
+      "duration": 0.205875,
+      "text": "但"
+    },
+    {
+      "start": 22.5,
+      "duration": 0.573541,
+      "text": "容量"
+    },
+    {
+      "start": 23.294125,
+      "duration": 0.617666,
+      "text": "外设"
+    },
+    {
+      "start": 24.176458,
+      "duration": 0.279416,
+      "text": "引"
+    },
+    {
+      "start": 24.455875,
+      "duration": 0.220583,
+      "text": "脚"
+    },
+    {
+      "start": 24.705875,
+      "duration": 0.132333,
+      "text": "和"
+    },
+    {
+      "start": 24.852958,
+      "duration": 0.676458,
+      "text": "时序"
+    },
+    {
+      "start": 25.647041,
+      "duration": 0.367666,
+      "text": "可能"
+    },
+    {
+      "start": 26.029416,
+      "duration": 0.529416,
+      "text": "不同"
+    },
+    {
+      "start": 27.235291,
+      "duration": 0.235291,
+      "text": "八"
+    },
+    {
+      "start": 27.470583,
+      "duration": 0.220583,
+      "text": "零"
+    },
+    {
+      "start": 27.691166,
+      "duration": 0.235291,
+      "text": "C"
+    },
+    {
+      "start": 27.941166,
+      "duration": 0.382333,
+      "text": "五一"
+    },
+    {
+      "start": 28.323541,
+      "duration": 0.279416,
+      "text": "中"
+    },
+    {
+      "start": 28.602958,
+      "duration": 0.279416,
+      "text": "的"
+    },
+    {
+      "start": 28.985291,
+      "duration": 0.352958,
+      "text": "C"
+    },
+    {
+      "start": 29.352958,
+      "duration": 0.514708,
+      "text": "通常"
+    },
+    {
+      "start": 29.882333,
+      "duration": 0.191166,
+      "text": "与"
+    },
+    {
+      "start": 30.102958,
+      "duration": 0.308833,
+      "text": "工艺"
+    },
+    {
+      "start": 30.426458,
+      "duration": 0.441166,
+      "text": "型号"
+    },
+    {
+      "start": 30.882333,
+      "duration": 0.514708,
+      "text": "有关"
+    },
+    {
+      "start": 32.073541,
+      "duration": 0.455875,
+      "text": "学会"
+    },
+    {
+      "start": 32.544125,
+      "duration": 0.323541,
+      "text": "一种"
+    },
+    {
+      "start": 32.882333,
+      "duration": 0.470583,
+      "text": "结构"
+    },
+    {
+      "start": 33.352958,
+      "duration": 0.33825,
+      "text": "后"
+    },
+    {
+      "start": 33.897041,
+      "duration": 0.294125,
+      "text": "可以"
+    },
+    {
+      "start": 34.205875,
+      "duration": 0.426458,
+      "text": "迁移"
+    },
+    {
+      "start": 34.66175,
+      "duration": 0.382333,
+      "text": "分析"
+    },
+    {
+      "start": 35.058833,
+      "duration": 0.544125,
+      "text": "方法"
+    },
+    {
+      "start": 36.014708,
+      "duration": 0.382333,
+      "text": "替换"
+    },
+    {
+      "start": 36.41175,
+      "duration": 0.441166,
+      "text": "芯片"
+    },
+    {
+      "start": 36.852958,
+      "duration": 0.426458,
+      "text": "前"
+    },
+    {
+      "start": 37.397041,
+      "duration": 0.25,
+      "text": "仍"
+    },
+    {
+      "start": 37.647041,
+      "duration": 0.205875,
+      "text": "须"
+    },
+    {
+      "start": 37.867666,
+      "duration": 0.514708,
+      "text": "核对"
+    },
+    {
+      "start": 38.41175,
+      "duration": 0.323541,
+      "text": "具体"
+    },
+    {
+      "start": 38.75,
+      "duration": 0.632333,
+      "text": "参数"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

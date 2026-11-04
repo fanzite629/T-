@@ -1,2 +1,8 @@
 exports/check/
 node_modules/
+videos/**/.hyperframes/
+videos/**/renders/
+videos/**/__pycache__/
+videos/__pycache__/
+videos/**/assets/fonts/msyh.ttc
+videos/**/assets/fonts/consola.ttf

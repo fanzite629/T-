@@ -1,0 +1,461 @@
+{
+  "id": "CH02-S23",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "af6d0555805ffc0cdc32102c04917c4f89940ba142cce5ef9d57e2f4f33e7dc5",
+  "text": "普通 M O V可以访问内部数据。画面第一条从内部三零取内容；加上井号后，则把常数三零放进 A。地址与立即数只差一个符号，意义完全不同。\nM O V X选择外部数据空间：数据指针设为零零三零，就读那里的内容。M O V C用于读取程序常量表：数据指针一零零零加 A中的三，访问程序地址一零零三；若表值五七，就送入 A。这些是语义片段，完整程序还需初始化与实际硬件。",
+  "duration": 44.832,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.617666,
+      "text": "普通"
+    },
+    {
+      "start": 0.844125,
+      "duration": 0.279416,
+      "text": "M"
+    },
+    {
+      "start": 1.123541,
+      "duration": 0.205875,
+      "text": "O"
+    },
+    {
+      "start": 1.329416,
+      "duration": 0.308833,
+      "text": "V"
+    },
+    {
+      "start": 1.755875,
+      "duration": 0.294125,
+      "text": "可以"
+    },
+    {
+      "start": 2.064708,
+      "duration": 0.426458,
+      "text": "访问"
+    },
+    {
+      "start": 2.520583,
+      "duration": 0.308833,
+      "text": "内部"
+    },
+    {
+      "start": 2.844125,
+      "duration": 0.573541,
+      "text": "数据"
+    },
+    {
+      "start": 4.102958,
+      "duration": 0.441166,
+      "text": "画面"
+    },
+    {
+      "start": 4.558833,
+      "duration": 0.279416,
+      "text": "第一"
+    },
+    {
+      "start": 4.83825,
+      "duration": 0.41175,
+      "text": "条"
+    },
+    {
+      "start": 5.367666,
+      "duration": 0.279416,
+      "text": "从"
+    },
+    {
+      "start": 5.66175,
+      "duration": 0.397041,
+      "text": "内部"
+    },
+    {
+      "start": 6.073541,
+      "duration": 0.5,
+      "text": "三零"
+    },
+    {
+      "start": 6.602958,
+      "duration": 0.16175,
+      "text": "取"
+    },
+    {
+      "start": 6.779416,
+      "duration": 0.514708,
+      "text": "内容"
+    },
+    {
+      "start": 7.735291,
+      "duration": 0.426458,
+      "text": "加上"
+    },
+    {
+      "start": 8.176458,
+      "duration": 0.455875,
+      "text": "井号"
+    },
+    {
+      "start": 8.632333,
+      "duration": 0.308833,
+      "text": "后"
+    },
+    {
+      "start": 9.176458,
+      "duration": 0.191166,
+      "text": "则"
+    },
+    {
+      "start": 9.367666,
+      "duration": 0.16175,
+      "text": "把"
+    },
+    {
+      "start": 9.558833,
+      "duration": 0.5,
+      "text": "常数"
+    },
+    {
+      "start": 10.073541,
+      "duration": 0.470583,
+      "text": "三零"
+    },
+    {
+      "start": 10.558833,
+      "duration": 0.485291,
+      "text": "放进"
+    },
+    {
+      "start": 11.044125,
+      "duration": 0.294125,
+      "text": "A"
+    },
+    {
+      "start": 12.014708,
+      "duration": 0.426458,
+      "text": "地址"
+    },
+    {
+      "start": 12.470583,
+      "duration": 0.176458,
+      "text": "与"
+    },
+    {
+      "start": 12.66175,
+      "duration": 0.397041,
+      "text": "立即"
+    },
+    {
+      "start": 13.073541,
+      "duration": 0.25,
+      "text": "数"
+    },
+    {
+      "start": 13.323541,
+      "duration": 0.16175,
+      "text": "只"
+    },
+    {
+      "start": 13.5,
+      "duration": 0.294125,
+      "text": "差"
+    },
+    {
+      "start": 13.794125,
+      "duration": 0.220583,
+      "text": "一个"
+    },
+    {
+      "start": 14.029416,
+      "duration": 0.58825,
+      "text": "符号"
+    },
+    {
+      "start": 14.926458,
+      "duration": 0.352958,
+      "text": "意义"
+    },
+    {
+      "start": 15.308833,
+      "duration": 0.5,
+      "text": "完全"
+    },
+    {
+      "start": 15.823541,
+      "duration": 0.455875,
+      "text": "不同"
+    },
+    {
+      "start": 16.955875,
+      "duration": 0.323541,
+      "text": "M"
+    },
+    {
+      "start": 17.279416,
+      "duration": 0.235291,
+      "text": "O"
+    },
+    {
+      "start": 17.529416,
+      "duration": 0.264708,
+      "text": "V"
+    },
+    {
+      "start": 17.808833,
+      "duration": 0.529416,
+      "text": "X"
+    },
+    {
+      "start": 18.352958,
+      "duration": 0.573541,
+      "text": "选择"
+    },
+    {
+      "start": 18.955875,
+      "duration": 0.33825,
+      "text": "外部"
+    },
+    {
+      "start": 19.308833,
+      "duration": 0.33825,
+      "text": "数据"
+    },
+    {
+      "start": 19.66175,
+      "duration": 0.617666,
+      "text": "空间"
+    },
+    {
+      "start": 20.676458,
+      "duration": 0.397041,
+      "text": "数据"
+    },
+    {
+      "start": 21.08825,
+      "duration": 0.514708,
+      "text": "指针"
+    },
+    {
+      "start": 21.632333,
+      "duration": 0.25,
+      "text": "设"
+    },
+    {
+      "start": 21.882333,
+      "duration": 0.264708,
+      "text": "为"
+    },
+    {
+      "start": 22.176458,
+      "duration": 1.029416,
+      "text": "零零三零"
+    },
+    {
+      "start": 23.455875,
+      "duration": 0.426458,
+      "text": "就读"
+    },
+    {
+      "start": 23.91175,
+      "duration": 0.323541,
+      "text": "那里"
+    },
+    {
+      "start": 24.235291,
+      "duration": 0.08825,
+      "text": "的"
+    },
+    {
+      "start": 24.33825,
+      "duration": 0.529416,
+      "text": "内容"
+    },
+    {
+      "start": 25.544125,
+      "duration": 0.308833,
+      "text": "M"
+    },
+    {
+      "start": 25.852958,
+      "duration": 0.235291,
+      "text": "O"
+    },
+    {
+      "start": 26.102958,
+      "duration": 0.220583,
+      "text": "V"
+    },
+    {
+      "start": 26.323541,
+      "duration": 0.41175,
+      "text": "C"
+    },
+    {
+      "start": 26.852958,
+      "duration": 0.41175,
+      "text": "用于"
+    },
+    {
+      "start": 27.279416,
+      "duration": 0.470583,
+      "text": "读取"
+    },
+    {
+      "start": 27.779416,
+      "duration": 0.41175,
+      "text": "程序"
+    },
+    {
+      "start": 28.205875,
+      "duration": 0.83825,
+      "text": "常量表"
+    },
+    {
+      "start": 29.455875,
+      "duration": 0.441166,
+      "text": "数据"
+    },
+    {
+      "start": 29.91175,
+      "duration": 0.5,
+      "text": "指针"
+    },
+    {
+      "start": 30.441166,
+      "duration": 1.058833,
+      "text": "一零零零加"
+    },
+    {
+      "start": 31.514708,
+      "duration": 0.176458,
+      "text": "A"
+    },
+    {
+      "start": 31.691166,
+      "duration": 0.191166,
+      "text": "中"
+    },
+    {
+      "start": 31.882333,
+      "duration": 0.08825,
+      "text": "的"
+    },
+    {
+      "start": 31.985291,
+      "duration": 0.382333,
+      "text": "三"
+    },
+    {
+      "start": 32.705875,
+      "duration": 0.382333,
+      "text": "访问"
+    },
+    {
+      "start": 33.102958,
+      "duration": 0.441166,
+      "text": "程序"
+    },
+    {
+      "start": 33.558833,
+      "duration": 0.5,
+      "text": "地址"
+    },
+    {
+      "start": 34.08825,
+      "duration": 1.0,
+      "text": "一零零三"
+    },
+    {
+      "start": 35.323541,
+      "duration": 0.235291,
+      "text": "若"
+    },
+    {
+      "start": 35.573541,
+      "duration": 0.397041,
+      "text": "表值"
+    },
+    {
+      "start": 35.970583,
+      "duration": 0.617666,
+      "text": "五七"
+    },
+    {
+      "start": 36.823541,
+      "duration": 0.176458,
+      "text": "就"
+    },
+    {
+      "start": 37.014708,
+      "duration": 0.485291,
+      "text": "送入"
+    },
+    {
+      "start": 37.5,
+      "duration": 0.308833,
+      "text": "A"
+    },
+    {
+      "start": 38.485291,
+      "duration": 0.455875,
+      "text": "这些"
+    },
+    {
+      "start": 38.955875,
+      "duration": 0.176458,
+      "text": "是"
+    },
+    {
+      "start": 39.147041,
+      "duration": 0.323541,
+      "text": "语义"
+    },
+    {
+      "start": 39.485291,
+      "duration": 0.617666,
+      "text": "片段"
+    },
+    {
+      "start": 40.485291,
+      "duration": 0.41175,
+      "text": "完整"
+    },
+    {
+      "start": 40.91175,
+      "duration": 0.632333,
+      "text": "程序"
+    },
+    {
+      "start": 41.647041,
+      "duration": 0.205875,
+      "text": "还"
+    },
+    {
+      "start": 41.852958,
+      "duration": 0.191166,
+      "text": "需"
+    },
+    {
+      "start": 42.073541,
+      "duration": 0.75,
+      "text": "初始化"
+    },
+    {
+      "start": 42.941166,
+      "duration": 0.147041,
+      "text": "与"
+    },
+    {
+      "start": 43.102958,
+      "duration": 0.485291,
+      "text": "实际"
+    },
+    {
+      "start": 43.602958,
+      "duration": 0.544125,
+      "text": "硬件"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

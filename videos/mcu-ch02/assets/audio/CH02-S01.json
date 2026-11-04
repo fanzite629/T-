@@ -1,0 +1,266 @@
+{
+  "id": "CH02-S01",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "85bb8faa8a62d47950ac7a4d86884e67c1ff15cef88c2f7501d9125b57a0b783",
+  "text": "按一下按钮，芯片怎样产生输出？本章沿资源、引脚、寄存器、时序和存储器走一遍。我们以经典八零五一、十二时钟机器周期为主线，遇到 A T八九 S五二等增强型号，会明确标出差异。先建立结构，再把地址和动作连起来。",
+  "duration": 26.448,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.220583,
+      "text": "按"
+    },
+    {
+      "start": 0.329416,
+      "duration": 0.323541,
+      "text": "一下"
+    },
+    {
+      "start": 0.667666,
+      "duration": 0.558833,
+      "text": "按钮"
+    },
+    {
+      "start": 1.564708,
+      "duration": 0.455875,
+      "text": "芯片"
+    },
+    {
+      "start": 2.05,
+      "duration": 0.382333,
+      "text": "怎样"
+    },
+    {
+      "start": 2.447041,
+      "duration": 0.382333,
+      "text": "产生"
+    },
+    {
+      "start": 2.844125,
+      "duration": 0.529416,
+      "text": "输出"
+    },
+    {
+      "start": 4.058833,
+      "duration": 0.441166,
+      "text": "本章"
+    },
+    {
+      "start": 4.529416,
+      "duration": 0.235291,
+      "text": "沿"
+    },
+    {
+      "start": 4.779416,
+      "duration": 0.632333,
+      "text": "资源"
+    },
+    {
+      "start": 5.632333,
+      "duration": 0.294125,
+      "text": "引"
+    },
+    {
+      "start": 5.926458,
+      "duration": 0.367666,
+      "text": "脚"
+    },
+    {
+      "start": 6.558833,
+      "duration": 0.852958,
+      "text": "寄存器"
+    },
+    {
+      "start": 7.705875,
+      "duration": 0.558833,
+      "text": "时序"
+    },
+    {
+      "start": 8.294125,
+      "duration": 0.147041,
+      "text": "和"
+    },
+    {
+      "start": 8.455875,
+      "duration": 0.720583,
+      "text": "存储器"
+    },
+    {
+      "start": 9.205875,
+      "duration": 0.220583,
+      "text": "走"
+    },
+    {
+      "start": 9.426458,
+      "duration": 0.147041,
+      "text": "一"
+    },
+    {
+      "start": 9.573541,
+      "duration": 0.323541,
+      "text": "遍"
+    },
+    {
+      "start": 10.558833,
+      "duration": 0.264708,
+      "text": "我们"
+    },
+    {
+      "start": 10.83825,
+      "duration": 0.205875,
+      "text": "以"
+    },
+    {
+      "start": 11.073541,
+      "duration": 0.470583,
+      "text": "经典"
+    },
+    {
+      "start": 11.573541,
+      "duration": 0.955875,
+      "text": "八零五一"
+    },
+    {
+      "start": 12.794125,
+      "duration": 0.794125,
+      "text": "十二时钟"
+    },
+    {
+      "start": 13.617666,
+      "duration": 0.382333,
+      "text": "机器"
+    },
+    {
+      "start": 14.014708,
+      "duration": 0.41175,
+      "text": "周期"
+    },
+    {
+      "start": 14.426458,
+      "duration": 0.176458,
+      "text": "为"
+    },
+    {
+      "start": 14.617666,
+      "duration": 0.573541,
+      "text": "主线"
+    },
+    {
+      "start": 15.573541,
+      "duration": 0.441166,
+      "text": "遇到"
+    },
+    {
+      "start": 16.044125,
+      "duration": 0.205875,
+      "text": "A"
+    },
+    {
+      "start": 16.25,
+      "duration": 0.382333,
+      "text": "T"
+    },
+    {
+      "start": 16.75,
+      "duration": 0.58825,
+      "text": "八九"
+    },
+    {
+      "start": 17.33825,
+      "duration": 0.294125,
+      "text": "S"
+    },
+    {
+      "start": 17.647041,
+      "duration": 0.485291,
+      "text": "五二"
+    },
+    {
+      "start": 18.132333,
+      "duration": 0.264708,
+      "text": "等"
+    },
+    {
+      "start": 18.426458,
+      "duration": 0.382333,
+      "text": "增强"
+    },
+    {
+      "start": 18.823541,
+      "duration": 0.602958,
+      "text": "型号"
+    },
+    {
+      "start": 19.705875,
+      "duration": 0.25,
+      "text": "会"
+    },
+    {
+      "start": 19.970583,
+      "duration": 0.455875,
+      "text": "明确"
+    },
+    {
+      "start": 20.441166,
+      "duration": 0.367666,
+      "text": "标出"
+    },
+    {
+      "start": 20.823541,
+      "duration": 0.58825,
+      "text": "差异"
+    },
+    {
+      "start": 22.08825,
+      "duration": 0.338208,
+      "text": "先"
+    },
+    {
+      "start": 22.426458,
+      "duration": 0.323541,
+      "text": "建立"
+    },
+    {
+      "start": 22.764708,
+      "duration": 0.58825,
+      "text": "结构"
+    },
+    {
+      "start": 23.617666,
+      "duration": 0.191166,
+      "text": "再"
+    },
+    {
+      "start": 23.808833,
+      "duration": 0.16175,
+      "text": "把"
+    },
+    {
+      "start": 23.985291,
+      "duration": 0.470583,
+      "text": "地址"
+    },
+    {
+      "start": 24.485291,
+      "duration": 0.147041,
+      "text": "和"
+    },
+    {
+      "start": 24.647041,
+      "duration": 0.382333,
+      "text": "动作"
+    },
+    {
+      "start": 25.058833,
+      "duration": 0.279416,
+      "text": "连"
+    },
+    {
+      "start": 25.33825,
+      "duration": 0.441166,
+      "text": "起来"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

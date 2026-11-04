@@ -1,0 +1,376 @@
+{
+  "id": "CH02-S07",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "fc769db38d2ebc6768b90614151ad8957f572ec3a619c5c971cfa63e80293dfb",
+  "text": "复位让程序回到规定起点。经典五一的复位脚高电平有效，在振荡运行时，至少保持两个机器周期。上电还需考虑电源建立和晶振起振，不能简单把理论最短时间当成完整电路设计。\n课件的上电、按键及组合电路分屏展示，观察它们怎样让复位信号先高后低。复位会恢复指定寄存器状态，不代表整个运行存储器都清零。",
+  "duration": 37.536,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.485291,
+      "text": "复位"
+    },
+    {
+      "start": 0.623541,
+      "duration": 0.176458,
+      "text": "让"
+    },
+    {
+      "start": 0.814708,
+      "duration": 0.529416,
+      "text": "程序"
+    },
+    {
+      "start": 1.358833,
+      "duration": 0.382333,
+      "text": "回到"
+    },
+    {
+      "start": 1.770583,
+      "duration": 0.382333,
+      "text": "规定"
+    },
+    {
+      "start": 2.167666,
+      "duration": 0.632333,
+      "text": "起点"
+    },
+    {
+      "start": 3.485291,
+      "duration": 0.485291,
+      "text": "经典"
+    },
+    {
+      "start": 3.985291,
+      "duration": 0.41175,
+      "text": "五一"
+    },
+    {
+      "start": 4.397041,
+      "duration": 0.117666,
+      "text": "的"
+    },
+    {
+      "start": 4.544125,
+      "duration": 0.41175,
+      "text": "复位"
+    },
+    {
+      "start": 4.970583,
+      "duration": 0.235291,
+      "text": "脚"
+    },
+    {
+      "start": 5.205875,
+      "duration": 0.602958,
+      "text": "高电平"
+    },
+    {
+      "start": 5.823541,
+      "duration": 0.617666,
+      "text": "有效"
+    },
+    {
+      "start": 6.823541,
+      "duration": 0.205875,
+      "text": "在"
+    },
+    {
+      "start": 7.044125,
+      "duration": 0.397041,
+      "text": "振荡"
+    },
+    {
+      "start": 7.455875,
+      "duration": 0.470583,
+      "text": "运行"
+    },
+    {
+      "start": 7.926458,
+      "duration": 0.382333,
+      "text": "时"
+    },
+    {
+      "start": 8.558833,
+      "duration": 0.470583,
+      "text": "至少"
+    },
+    {
+      "start": 9.044125,
+      "duration": 0.441166,
+      "text": "保持"
+    },
+    {
+      "start": 9.514708,
+      "duration": 0.352958,
+      "text": "两个"
+    },
+    {
+      "start": 9.882333,
+      "duration": 0.426458,
+      "text": "机器"
+    },
+    {
+      "start": 10.323541,
+      "duration": 0.617666,
+      "text": "周期"
+    },
+    {
+      "start": 11.617666,
+      "duration": 0.632333,
+      "text": "上电"
+    },
+    {
+      "start": 12.279416,
+      "duration": 0.205875,
+      "text": "还"
+    },
+    {
+      "start": 12.485291,
+      "duration": 0.176458,
+      "text": "需"
+    },
+    {
+      "start": 12.676458,
+      "duration": 0.441166,
+      "text": "考虑"
+    },
+    {
+      "start": 13.147041,
+      "duration": 0.397041,
+      "text": "电源"
+    },
+    {
+      "start": 13.558833,
+      "duration": 0.573541,
+      "text": "建立"
+    },
+    {
+      "start": 14.25,
+      "duration": 0.191166,
+      "text": "和"
+    },
+    {
+      "start": 14.455875,
+      "duration": 0.426458,
+      "text": "晶振"
+    },
+    {
+      "start": 14.897041,
+      "duration": 0.5,
+      "text": "起振"
+    },
+    {
+      "start": 15.83825,
+      "duration": 0.33825,
+      "text": "不能"
+    },
+    {
+      "start": 16.191166,
+      "duration": 0.58825,
+      "text": "简单"
+    },
+    {
+      "start": 16.897041,
+      "duration": 0.176458,
+      "text": "把"
+    },
+    {
+      "start": 17.08825,
+      "duration": 0.41175,
+      "text": "理论"
+    },
+    {
+      "start": 17.529416,
+      "duration": 0.191166,
+      "text": "最"
+    },
+    {
+      "start": 17.720583,
+      "duration": 0.220583,
+      "text": "短"
+    },
+    {
+      "start": 17.941166,
+      "duration": 0.573541,
+      "text": "时间"
+    },
+    {
+      "start": 18.632333,
+      "duration": 0.441166,
+      "text": "当成"
+    },
+    {
+      "start": 19.102958,
+      "duration": 0.441166,
+      "text": "完整"
+    },
+    {
+      "start": 19.558833,
+      "duration": 0.323541,
+      "text": "电路"
+    },
+    {
+      "start": 19.897041,
+      "duration": 0.558833,
+      "text": "设计"
+    },
+    {
+      "start": 21.132333,
+      "duration": 0.455875,
+      "text": "课件"
+    },
+    {
+      "start": 21.58825,
+      "duration": 0.08825,
+      "text": "的"
+    },
+    {
+      "start": 21.705875,
+      "duration": 0.617666,
+      "text": "上电"
+    },
+    {
+      "start": 22.558833,
+      "duration": 0.647041,
+      "text": "按键"
+    },
+    {
+      "start": 23.323541,
+      "duration": 0.25,
+      "text": "及"
+    },
+    {
+      "start": 23.58825,
+      "duration": 0.426458,
+      "text": "组合"
+    },
+    {
+      "start": 24.029416,
+      "duration": 0.441166,
+      "text": "电路"
+    },
+    {
+      "start": 24.5,
+      "duration": 0.426458,
+      "text": "分屏"
+    },
+    {
+      "start": 24.941166,
+      "duration": 0.617666,
+      "text": "展示"
+    },
+    {
+      "start": 25.985291,
+      "duration": 0.41175,
+      "text": "观察"
+    },
+    {
+      "start": 26.41175,
+      "duration": 0.5,
+      "text": "它们"
+    },
+    {
+      "start": 27.014708,
+      "duration": 0.426458,
+      "text": "怎样"
+    },
+    {
+      "start": 27.455875,
+      "duration": 0.205875,
+      "text": "让"
+    },
+    {
+      "start": 27.691166,
+      "duration": 0.308833,
+      "text": "复位"
+    },
+    {
+      "start": 28.014708,
+      "duration": 0.470583,
+      "text": "信号"
+    },
+    {
+      "start": 28.514708,
+      "duration": 0.279416,
+      "text": "先"
+    },
+    {
+      "start": 28.794125,
+      "duration": 0.191166,
+      "text": "高"
+    },
+    {
+      "start": 28.985291,
+      "duration": 0.279416,
+      "text": "后"
+    },
+    {
+      "start": 29.264708,
+      "duration": 0.308833,
+      "text": "低"
+    },
+    {
+      "start": 30.235291,
+      "duration": 0.735291,
+      "text": "复位会"
+    },
+    {
+      "start": 30.985291,
+      "duration": 0.514708,
+      "text": "恢复"
+    },
+    {
+      "start": 31.529416,
+      "duration": 0.41175,
+      "text": "指定"
+    },
+    {
+      "start": 31.955875,
+      "duration": 0.58825,
+      "text": "寄存器"
+    },
+    {
+      "start": 32.558833,
+      "duration": 0.558833,
+      "text": "状态"
+    },
+    {
+      "start": 33.5,
+      "duration": 0.147041,
+      "text": "不"
+    },
+    {
+      "start": 33.647041,
+      "duration": 0.558833,
+      "text": "代表"
+    },
+    {
+      "start": 34.235291,
+      "duration": 0.397041,
+      "text": "整个"
+    },
+    {
+      "start": 34.647041,
+      "duration": 0.529416,
+      "text": "运行"
+    },
+    {
+      "start": 35.191166,
+      "duration": 0.794125,
+      "text": "存储器"
+    },
+    {
+      "start": 36.014708,
+      "duration": 0.205875,
+      "text": "都"
+    },
+    {
+      "start": 36.220583,
+      "duration": 0.647041,
+      "text": "清零"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

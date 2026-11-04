@@ -1,0 +1,441 @@
+{
+  "id": "CH01-S28",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "576bdf6aec9e58c4215501d6e2e5de173792f61031e98962b51f4daedaa0f7a4",
+  "text": "用四条线索收束：单片机集成处理、存储和接口；总线区分地址、数据、控制；数制按位权换算，编码须先定字长；存储容量由单元数量和宽度决定。\n请核对画面五道检查，能解释原因再进入下一章：整数除二要倒序，小数乘二要顺序；八位补码下限是负一百二十八；十三根地址线、每单元八位，就是八 K字节。下一章把这些概念放进真实的五一结构。",
+  "duration": 40.752,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.25,
+      "text": "用"
+    },
+    {
+      "start": 0.373541,
+      "duration": 0.220583,
+      "text": "四"
+    },
+    {
+      "start": 0.594125,
+      "duration": 0.220583,
+      "text": "条"
+    },
+    {
+      "start": 0.829416,
+      "duration": 0.41175,
+      "text": "线索"
+    },
+    {
+      "start": 1.255875,
+      "duration": 0.602958,
+      "text": "收束"
+    },
+    {
+      "start": 2.241166,
+      "duration": 0.764708,
+      "text": "单片机"
+    },
+    {
+      "start": 3.035291,
+      "duration": 0.41175,
+      "text": "集成"
+    },
+    {
+      "start": 3.46175,
+      "duration": 0.573541,
+      "text": "处理"
+    },
+    {
+      "start": 4.241166,
+      "duration": 0.558833,
+      "text": "存储"
+    },
+    {
+      "start": 4.829416,
+      "duration": 0.147041,
+      "text": "和"
+    },
+    {
+      "start": 4.991166,
+      "duration": 0.617666,
+      "text": "接口"
+    },
+    {
+      "start": 6.05,
+      "duration": 0.544125,
+      "text": "总线"
+    },
+    {
+      "start": 6.608833,
+      "duration": 0.41175,
+      "text": "区分"
+    },
+    {
+      "start": 7.05,
+      "duration": 0.544125,
+      "text": "地址"
+    },
+    {
+      "start": 7.858833,
+      "duration": 0.617666,
+      "text": "数据"
+    },
+    {
+      "start": 8.697041,
+      "duration": 0.602958,
+      "text": "控制"
+    },
+    {
+      "start": 9.5,
+      "duration": 0.5,
+      "text": "数制"
+    },
+    {
+      "start": 10.029416,
+      "duration": 0.205875,
+      "text": "按"
+    },
+    {
+      "start": 10.25,
+      "duration": 0.455875,
+      "text": "位权"
+    },
+    {
+      "start": 10.720583,
+      "duration": 0.602958,
+      "text": "换算"
+    },
+    {
+      "start": 11.676458,
+      "duration": 0.470583,
+      "text": "编码"
+    },
+    {
+      "start": 12.176458,
+      "duration": 0.235291,
+      "text": "须"
+    },
+    {
+      "start": 12.41175,
+      "duration": 0.235291,
+      "text": "先"
+    },
+    {
+      "start": 12.66175,
+      "duration": 0.367666,
+      "text": "定字"
+    },
+    {
+      "start": 13.029416,
+      "duration": 0.426458,
+      "text": "长"
+    },
+    {
+      "start": 13.867666,
+      "duration": 0.426458,
+      "text": "存储"
+    },
+    {
+      "start": 14.308833,
+      "duration": 0.573541,
+      "text": "容量"
+    },
+    {
+      "start": 15.0,
+      "duration": 0.205875,
+      "text": "由"
+    },
+    {
+      "start": 15.220583,
+      "duration": 0.426458,
+      "text": "单元"
+    },
+    {
+      "start": 15.66175,
+      "duration": 0.544125,
+      "text": "数量"
+    },
+    {
+      "start": 16.235291,
+      "duration": 0.176458,
+      "text": "和"
+    },
+    {
+      "start": 16.426458,
+      "duration": 0.470583,
+      "text": "宽度"
+    },
+    {
+      "start": 16.91175,
+      "duration": 0.485291,
+      "text": "决定"
+    },
+    {
+      "start": 18.073541,
+      "duration": 0.25,
+      "text": "请"
+    },
+    {
+      "start": 18.33825,
+      "duration": 0.441166,
+      "text": "核对"
+    },
+    {
+      "start": 18.794125,
+      "duration": 0.455875,
+      "text": "画面"
+    },
+    {
+      "start": 19.279416,
+      "duration": 0.147041,
+      "text": "五"
+    },
+    {
+      "start": 19.426458,
+      "duration": 0.176458,
+      "text": "道"
+    },
+    {
+      "start": 19.617666,
+      "duration": 0.632333,
+      "text": "检查"
+    },
+    {
+      "start": 20.573541,
+      "duration": 0.16175,
+      "text": "能"
+    },
+    {
+      "start": 20.75,
+      "duration": 0.352958,
+      "text": "解释"
+    },
+    {
+      "start": 21.117666,
+      "duration": 0.602958,
+      "text": "原因"
+    },
+    {
+      "start": 21.823541,
+      "duration": 0.205875,
+      "text": "再"
+    },
+    {
+      "start": 22.029416,
+      "duration": 0.33825,
+      "text": "进入"
+    },
+    {
+      "start": 22.397041,
+      "duration": 0.279416,
+      "text": "下"
+    },
+    {
+      "start": 22.676458,
+      "duration": 0.132333,
+      "text": "一"
+    },
+    {
+      "start": 22.808833,
+      "duration": 0.308833,
+      "text": "章"
+    },
+    {
+      "start": 23.544125,
+      "duration": 0.455875,
+      "text": "整数"
+    },
+    {
+      "start": 24.014708,
+      "duration": 0.205875,
+      "text": "除"
+    },
+    {
+      "start": 24.220583,
+      "duration": 0.16175,
+      "text": "二"
+    },
+    {
+      "start": 24.382333,
+      "duration": 0.176458,
+      "text": "要"
+    },
+    {
+      "start": 24.573541,
+      "duration": 0.632333,
+      "text": "倒序"
+    },
+    {
+      "start": 25.514708,
+      "duration": 0.455875,
+      "text": "小数"
+    },
+    {
+      "start": 25.985291,
+      "duration": 0.220583,
+      "text": "乘"
+    },
+    {
+      "start": 26.205875,
+      "duration": 0.176458,
+      "text": "二"
+    },
+    {
+      "start": 26.382333,
+      "duration": 0.176458,
+      "text": "要"
+    },
+    {
+      "start": 26.573541,
+      "duration": 0.632333,
+      "text": "顺序"
+    },
+    {
+      "start": 27.470583,
+      "duration": 0.441166,
+      "text": "八位"
+    },
+    {
+      "start": 27.926458,
+      "duration": 0.323541,
+      "text": "补码"
+    },
+    {
+      "start": 28.264708,
+      "duration": 0.647041,
+      "text": "下限"
+    },
+    {
+      "start": 29.014708,
+      "duration": 0.235291,
+      "text": "是"
+    },
+    {
+      "start": 29.264708,
+      "duration": 0.235291,
+      "text": "负"
+    },
+    {
+      "start": 29.529416,
+      "duration": 0.955875,
+      "text": "一百二十八"
+    },
+    {
+      "start": 30.941166,
+      "duration": 0.441166,
+      "text": "十三"
+    },
+    {
+      "start": 31.382333,
+      "duration": 0.176458,
+      "text": "根"
+    },
+    {
+      "start": 31.573541,
+      "duration": 0.764708,
+      "text": "地址线"
+    },
+    {
+      "start": 32.602958,
+      "duration": 0.205875,
+      "text": "每"
+    },
+    {
+      "start": 32.808833,
+      "duration": 0.426458,
+      "text": "单元"
+    },
+    {
+      "start": 33.25,
+      "duration": 0.25,
+      "text": "八"
+    },
+    {
+      "start": 33.5,
+      "duration": 0.308833,
+      "text": "位"
+    },
+    {
+      "start": 34.08825,
+      "duration": 0.191166,
+      "text": "就"
+    },
+    {
+      "start": 34.279416,
+      "duration": 0.16175,
+      "text": "是"
+    },
+    {
+      "start": 34.470583,
+      "duration": 0.205875,
+      "text": "八"
+    },
+    {
+      "start": 34.676458,
+      "duration": 0.220583,
+      "text": "K"
+    },
+    {
+      "start": 34.91175,
+      "duration": 0.617666,
+      "text": "字节"
+    },
+    {
+      "start": 36.205875,
+      "duration": 0.33825,
+      "text": "下"
+    },
+    {
+      "start": 36.544125,
+      "duration": 0.132333,
+      "text": "一"
+    },
+    {
+      "start": 36.676458,
+      "duration": 0.323541,
+      "text": "章"
+    },
+    {
+      "start": 37.029416,
+      "duration": 0.147041,
+      "text": "把"
+    },
+    {
+      "start": 37.191166,
+      "duration": 0.33825,
+      "text": "这些"
+    },
+    {
+      "start": 37.544125,
+      "duration": 0.41175,
+      "text": "概念"
+    },
+    {
+      "start": 37.955875,
+      "duration": 0.558833,
+      "text": "放进"
+    },
+    {
+      "start": 38.544125,
+      "duration": 0.441166,
+      "text": "真实"
+    },
+    {
+      "start": 38.985291,
+      "duration": 0.117666,
+      "text": "的"
+    },
+    {
+      "start": 39.132333,
+      "duration": 0.367666,
+      "text": "五一"
+    },
+    {
+      "start": 39.514708,
+      "duration": 0.544125,
+      "text": "结构"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

@@ -1,0 +1,371 @@
+{
+  "id": "CH01-S17",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "4ca1cdb2d4da7db9a42e694bec96fb274cde2f8aee6cfa4f48fc2d122a608705",
+  "text": "小数改用乘二取整。零点六八七五乘二得一点三七五，取一，剩零点三七五；再乘二得零点七五，取零；接着得到一点五，取一；最后得到一，取一，结束。\n整数位按出现顺序读，得到零点一零一一。乘二把当前最高的小数位移到整数部分，所以顺序与整数除二法不同。如果一直不能归零，就按要求截取或舍入，有限位结果可能只是近似值。",
+  "duration": 40.272,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.529416,
+      "text": "小数"
+    },
+    {
+      "start": 0.652958,
+      "duration": 0.441166,
+      "text": "改用"
+    },
+    {
+      "start": 1.123541,
+      "duration": 0.205875,
+      "text": "乘"
+    },
+    {
+      "start": 1.329416,
+      "duration": 0.220583,
+      "text": "二"
+    },
+    {
+      "start": 1.55,
+      "duration": 0.617666,
+      "text": "取整"
+    },
+    {
+      "start": 2.83825,
+      "duration": 1.397041,
+      "text": "零点六八七五"
+    },
+    {
+      "start": 4.352958,
+      "duration": 0.25,
+      "text": "乘"
+    },
+    {
+      "start": 4.602958,
+      "duration": 0.220583,
+      "text": "二"
+    },
+    {
+      "start": 4.823541,
+      "duration": 0.294125,
+      "text": "得"
+    },
+    {
+      "start": 5.147041,
+      "duration": 1.220583,
+      "text": "一点三七五"
+    },
+    {
+      "start": 6.676458,
+      "duration": 0.308833,
+      "text": "取"
+    },
+    {
+      "start": 6.985291,
+      "duration": 0.264708,
+      "text": "一"
+    },
+    {
+      "start": 7.58825,
+      "duration": 0.264708,
+      "text": "剩"
+    },
+    {
+      "start": 7.852958,
+      "duration": 1.205875,
+      "text": "零点三七五"
+    },
+    {
+      "start": 9.5,
+      "duration": 0.220583,
+      "text": "再"
+    },
+    {
+      "start": 9.720583,
+      "duration": 0.25,
+      "text": "乘"
+    },
+    {
+      "start": 9.985291,
+      "duration": 0.220583,
+      "text": "二"
+    },
+    {
+      "start": 10.205875,
+      "duration": 0.264708,
+      "text": "得"
+    },
+    {
+      "start": 10.485291,
+      "duration": 1.029416,
+      "text": "零点七五"
+    },
+    {
+      "start": 11.794125,
+      "duration": 0.602958,
+      "text": "取零"
+    },
+    {
+      "start": 12.632333,
+      "duration": 0.33825,
+      "text": "接着"
+    },
+    {
+      "start": 12.985291,
+      "duration": 0.352958,
+      "text": "得到"
+    },
+    {
+      "start": 13.367666,
+      "duration": 0.779416,
+      "text": "一点五"
+    },
+    {
+      "start": 14.426458,
+      "duration": 0.352958,
+      "text": "取"
+    },
+    {
+      "start": 14.779416,
+      "duration": 0.294125,
+      "text": "一"
+    },
+    {
+      "start": 15.470583,
+      "duration": 0.41175,
+      "text": "最后"
+    },
+    {
+      "start": 15.897041,
+      "duration": 0.367666,
+      "text": "得到"
+    },
+    {
+      "start": 16.264708,
+      "duration": 0.323541,
+      "text": "一"
+    },
+    {
+      "start": 16.852958,
+      "duration": 0.367625,
+      "text": "取"
+    },
+    {
+      "start": 17.220583,
+      "duration": 0.294125,
+      "text": "一"
+    },
+    {
+      "start": 17.779416,
+      "duration": 0.647041,
+      "text": "结束"
+    },
+    {
+      "start": 19.08825,
+      "duration": 0.470583,
+      "text": "整数"
+    },
+    {
+      "start": 19.573541,
+      "duration": 0.205875,
+      "text": "位"
+    },
+    {
+      "start": 19.779416,
+      "duration": 0.279416,
+      "text": "按"
+    },
+    {
+      "start": 20.08825,
+      "duration": 0.397041,
+      "text": "出现"
+    },
+    {
+      "start": 20.5,
+      "duration": 0.455875,
+      "text": "顺序"
+    },
+    {
+      "start": 20.970583,
+      "duration": 0.323541,
+      "text": "读"
+    },
+    {
+      "start": 21.58825,
+      "duration": 0.426458,
+      "text": "得到"
+    },
+    {
+      "start": 22.044125,
+      "duration": 1.33825,
+      "text": "零点一零一一"
+    },
+    {
+      "start": 24.058833,
+      "duration": 0.5,
+      "text": "乘二"
+    },
+    {
+      "start": 24.58825,
+      "duration": 0.147041,
+      "text": "把"
+    },
+    {
+      "start": 24.75,
+      "duration": 0.5,
+      "text": "当前"
+    },
+    {
+      "start": 25.279416,
+      "duration": 0.397041,
+      "text": "最高"
+    },
+    {
+      "start": 25.676458,
+      "duration": 0.102958,
+      "text": "的"
+    },
+    {
+      "start": 25.794125,
+      "duration": 0.647041,
+      "text": "小数"
+    },
+    {
+      "start": 26.558833,
+      "duration": 0.323541,
+      "text": "位移"
+    },
+    {
+      "start": 26.897041,
+      "duration": 0.191166,
+      "text": "到"
+    },
+    {
+      "start": 27.117666,
+      "duration": 0.91175,
+      "text": "整数部分"
+    },
+    {
+      "start": 28.455875,
+      "duration": 0.602958,
+      "text": "所以"
+    },
+    {
+      "start": 29.176458,
+      "duration": 0.470583,
+      "text": "顺序"
+    },
+    {
+      "start": 29.66175,
+      "duration": 0.132333,
+      "text": "与"
+    },
+    {
+      "start": 29.808833,
+      "duration": 0.514708,
+      "text": "整数"
+    },
+    {
+      "start": 30.352958,
+      "duration": 0.235291,
+      "text": "除"
+    },
+    {
+      "start": 30.602958,
+      "duration": 0.235291,
+      "text": "二"
+    },
+    {
+      "start": 30.83825,
+      "duration": 0.205875,
+      "text": "法"
+    },
+    {
+      "start": 31.058833,
+      "duration": 0.529416,
+      "text": "不同"
+    },
+    {
+      "start": 32.264708,
+      "duration": 0.308833,
+      "text": "如果"
+    },
+    {
+      "start": 32.602958,
+      "duration": 0.382333,
+      "text": "一直"
+    },
+    {
+      "start": 33.0,
+      "duration": 0.308833,
+      "text": "不能"
+    },
+    {
+      "start": 33.308833,
+      "duration": 0.573541,
+      "text": "归零"
+    },
+    {
+      "start": 34.102958,
+      "duration": 0.191166,
+      "text": "就"
+    },
+    {
+      "start": 34.294125,
+      "duration": 0.176458,
+      "text": "按"
+    },
+    {
+      "start": 34.485291,
+      "duration": 0.426458,
+      "text": "要求"
+    },
+    {
+      "start": 34.941166,
+      "duration": 0.441166,
+      "text": "截取"
+    },
+    {
+      "start": 35.41175,
+      "duration": 0.16175,
+      "text": "或"
+    },
+    {
+      "start": 35.58825,
+      "duration": 0.602958,
+      "text": "舍入"
+    },
+    {
+      "start": 36.558833,
+      "duration": 0.176458,
+      "text": "有"
+    },
+    {
+      "start": 36.735291,
+      "duration": 0.441166,
+      "text": "限位"
+    },
+    {
+      "start": 37.191166,
+      "duration": 0.632333,
+      "text": "结果"
+    },
+    {
+      "start": 37.941166,
+      "duration": 0.352958,
+      "text": "可能"
+    },
+    {
+      "start": 38.308833,
+      "duration": 0.33825,
+      "text": "只是"
+    },
+    {
+      "start": 38.676458,
+      "duration": 0.91175,
+      "text": "近似值"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

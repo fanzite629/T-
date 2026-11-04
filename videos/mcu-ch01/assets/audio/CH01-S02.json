@@ -1,0 +1,296 @@
+{
+  "id": "CH01-S02",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "8e0b1726eb460e1c6e9e0e83ac6abd4e512acf337d770432aa1de2ceaedbe640",
+  "text": "看八零三一芯片，引脚负责与外部电路交换信号。后面的工程岗位与四页招聘截图是历史示例，我们提炼三项能力：读电路、写程序、会调试。\n灯不亮，既可能程序没执行，也可能供电、接线或输出条件有问题。学习单片机，要同时追踪程序和电路。",
+  "duration": 29.736,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.279416,
+      "text": "看"
+    },
+    {
+      "start": 0.38825,
+      "duration": 0.823541,
+      "text": "八零三一"
+    },
+    {
+      "start": 1.226458,
+      "duration": 0.58825,
+      "text": "芯片"
+    },
+    {
+      "start": 2.152958,
+      "duration": 0.25,
+      "text": "引"
+    },
+    {
+      "start": 2.402958,
+      "duration": 0.264708,
+      "text": "脚"
+    },
+    {
+      "start": 2.682333,
+      "duration": 0.485291,
+      "text": "负责"
+    },
+    {
+      "start": 3.197041,
+      "duration": 0.191166,
+      "text": "与"
+    },
+    {
+      "start": 3.402958,
+      "duration": 0.397041,
+      "text": "外部"
+    },
+    {
+      "start": 3.814708,
+      "duration": 0.426458,
+      "text": "电路"
+    },
+    {
+      "start": 4.270583,
+      "duration": 0.426458,
+      "text": "交换"
+    },
+    {
+      "start": 4.71175,
+      "duration": 0.58825,
+      "text": "信号"
+    },
+    {
+      "start": 5.985291,
+      "duration": 0.41175,
+      "text": "后面"
+    },
+    {
+      "start": 6.397041,
+      "duration": 0.102958,
+      "text": "的"
+    },
+    {
+      "start": 6.529416,
+      "duration": 0.41175,
+      "text": "工程"
+    },
+    {
+      "start": 6.941166,
+      "duration": 0.602958,
+      "text": "岗位"
+    },
+    {
+      "start": 7.647041,
+      "duration": 0.205875,
+      "text": "与"
+    },
+    {
+      "start": 7.867666,
+      "duration": 0.41175,
+      "text": "四页"
+    },
+    {
+      "start": 8.294125,
+      "duration": 0.441166,
+      "text": "招聘"
+    },
+    {
+      "start": 8.75,
+      "duration": 0.632333,
+      "text": "截图"
+    },
+    {
+      "start": 9.5,
+      "duration": 0.220583,
+      "text": "是"
+    },
+    {
+      "start": 9.735291,
+      "duration": 0.382333,
+      "text": "历史"
+    },
+    {
+      "start": 10.132333,
+      "duration": 0.558833,
+      "text": "示例"
+    },
+    {
+      "start": 11.16175,
+      "duration": 0.25,
+      "text": "我们"
+    },
+    {
+      "start": 11.426458,
+      "duration": 0.441166,
+      "text": "提炼"
+    },
+    {
+      "start": 11.897041,
+      "duration": 0.441166,
+      "text": "三项"
+    },
+    {
+      "start": 12.352958,
+      "duration": 0.470583,
+      "text": "能力"
+    },
+    {
+      "start": 13.132333,
+      "duration": 0.205875,
+      "text": "读"
+    },
+    {
+      "start": 13.352958,
+      "duration": 0.558833,
+      "text": "电路"
+    },
+    {
+      "start": 14.176458,
+      "duration": 0.235291,
+      "text": "写"
+    },
+    {
+      "start": 14.426458,
+      "duration": 0.691166,
+      "text": "程序"
+    },
+    {
+      "start": 15.397041,
+      "duration": 0.264708,
+      "text": "会"
+    },
+    {
+      "start": 15.66175,
+      "duration": 0.720583,
+      "text": "调试"
+    },
+    {
+      "start": 17.029416,
+      "duration": 0.25,
+      "text": "灯"
+    },
+    {
+      "start": 17.279416,
+      "duration": 0.102916,
+      "text": "不"
+    },
+    {
+      "start": 17.382333,
+      "duration": 0.323541,
+      "text": "亮"
+    },
+    {
+      "start": 18.058833,
+      "duration": 0.220583,
+      "text": "既"
+    },
+    {
+      "start": 18.279416,
+      "duration": 0.367666,
+      "text": "可能"
+    },
+    {
+      "start": 18.676458,
+      "duration": 0.382333,
+      "text": "程序"
+    },
+    {
+      "start": 19.073541,
+      "duration": 0.220583,
+      "text": "没"
+    },
+    {
+      "start": 19.294125,
+      "duration": 0.617666,
+      "text": "执行"
+    },
+    {
+      "start": 20.176458,
+      "duration": 0.16175,
+      "text": "也"
+    },
+    {
+      "start": 20.33825,
+      "duration": 0.352958,
+      "text": "可能"
+    },
+    {
+      "start": 20.720583,
+      "duration": 0.529416,
+      "text": "供电"
+    },
+    {
+      "start": 21.529416,
+      "duration": 0.647041,
+      "text": "接线"
+    },
+    {
+      "start": 22.279416,
+      "duration": 0.205875,
+      "text": "或"
+    },
+    {
+      "start": 22.5,
+      "duration": 0.382333,
+      "text": "输出"
+    },
+    {
+      "start": 22.897041,
+      "duration": 0.529416,
+      "text": "条件"
+    },
+    {
+      "start": 23.455875,
+      "duration": 0.176458,
+      "text": "有"
+    },
+    {
+      "start": 23.632333,
+      "duration": 0.632333,
+      "text": "问题"
+    },
+    {
+      "start": 24.926458,
+      "duration": 0.470583,
+      "text": "学习"
+    },
+    {
+      "start": 25.41175,
+      "duration": 0.852958,
+      "text": "单片机"
+    },
+    {
+      "start": 26.558833,
+      "duration": 0.176458,
+      "text": "要"
+    },
+    {
+      "start": 26.75,
+      "duration": 0.573541,
+      "text": "同时"
+    },
+    {
+      "start": 27.33825,
+      "duration": 0.455875,
+      "text": "追踪"
+    },
+    {
+      "start": 27.823541,
+      "duration": 0.470583,
+      "text": "程序"
+    },
+    {
+      "start": 28.323541,
+      "duration": 0.147041,
+      "text": "和"
+    },
+    {
+      "start": 28.485291,
+      "duration": 0.558833,
+      "text": "电路"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

@@ -1,0 +1,326 @@
+{
+  "id": "CH01-S16",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "22b34fc8fe43defeb242c65404bcc441c17ee9c8e0cea5fac51aaabaa7e96aff",
+  "text": "十进制整数转二进制，用除二取余。二百一十五除二，商一百零七、余一；继续用商除二，直到商为零。画面依次得到余数一、一、一、零、一、零、一、一。\n为什么倒着读？第一次余数是个位，后面才逐渐得到高位。因此结果是一一零一零一一一。用位权复核：一百二十八加六十四，加十六、四、二、一，正好二百一十五。",
+  "duration": 39.648,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.705875,
+      "text": "十进制"
+    },
+    {
+      "start": 0.844125,
+      "duration": 0.441166,
+      "text": "整数"
+    },
+    {
+      "start": 1.314708,
+      "duration": 0.426458,
+      "text": "转二"
+    },
+    {
+      "start": 1.755875,
+      "duration": 0.573541,
+      "text": "进制"
+    },
+    {
+      "start": 2.608833,
+      "duration": 0.205875,
+      "text": "用"
+    },
+    {
+      "start": 2.814708,
+      "duration": 0.220583,
+      "text": "除"
+    },
+    {
+      "start": 3.05,
+      "duration": 0.235291,
+      "text": "二"
+    },
+    {
+      "start": 3.285291,
+      "duration": 0.632333,
+      "text": "取余"
+    },
+    {
+      "start": 4.58825,
+      "duration": 0.926458,
+      "text": "二百一十五"
+    },
+    {
+      "start": 5.529416,
+      "duration": 0.5,
+      "text": "除二"
+    },
+    {
+      "start": 6.41175,
+      "duration": 0.25,
+      "text": "商"
+    },
+    {
+      "start": 6.691166,
+      "duration": 0.955875,
+      "text": "一百零七"
+    },
+    {
+      "start": 7.897041,
+      "duration": 0.235291,
+      "text": "余"
+    },
+    {
+      "start": 8.132333,
+      "duration": 0.294125,
+      "text": "一"
+    },
+    {
+      "start": 8.867666,
+      "duration": 0.441166,
+      "text": "继续"
+    },
+    {
+      "start": 9.323541,
+      "duration": 0.191166,
+      "text": "用"
+    },
+    {
+      "start": 9.514708,
+      "duration": 0.235291,
+      "text": "商"
+    },
+    {
+      "start": 9.764708,
+      "duration": 0.235291,
+      "text": "除"
+    },
+    {
+      "start": 10.0,
+      "duration": 0.25,
+      "text": "二"
+    },
+    {
+      "start": 10.5,
+      "duration": 0.382333,
+      "text": "直到"
+    },
+    {
+      "start": 10.91175,
+      "duration": 0.235291,
+      "text": "商"
+    },
+    {
+      "start": 11.147041,
+      "duration": 0.205875,
+      "text": "为"
+    },
+    {
+      "start": 11.352958,
+      "duration": 0.382333,
+      "text": "零"
+    },
+    {
+      "start": 12.397041,
+      "duration": 0.455875,
+      "text": "画面"
+    },
+    {
+      "start": 12.882333,
+      "duration": 0.382333,
+      "text": "依次"
+    },
+    {
+      "start": 13.279416,
+      "duration": 0.352958,
+      "text": "得到"
+    },
+    {
+      "start": 13.647041,
+      "duration": 0.41175,
+      "text": "余数"
+    },
+    {
+      "start": 14.058833,
+      "duration": 0.323541,
+      "text": "一"
+    },
+    {
+      "start": 14.705875,
+      "duration": 0.308833,
+      "text": "一"
+    },
+    {
+      "start": 15.323541,
+      "duration": 0.294125,
+      "text": "一"
+    },
+    {
+      "start": 15.941166,
+      "duration": 0.367666,
+      "text": "零"
+    },
+    {
+      "start": 16.602958,
+      "duration": 0.279416,
+      "text": "一"
+    },
+    {
+      "start": 17.191166,
+      "duration": 0.33825,
+      "text": "零"
+    },
+    {
+      "start": 17.823541,
+      "duration": 0.294125,
+      "text": "一"
+    },
+    {
+      "start": 18.426458,
+      "duration": 0.294125,
+      "text": "一"
+    },
+    {
+      "start": 19.382333,
+      "duration": 0.529416,
+      "text": "为什么"
+    },
+    {
+      "start": 19.926458,
+      "duration": 0.220583,
+      "text": "倒"
+    },
+    {
+      "start": 20.147041,
+      "duration": 0.602958,
+      "text": "着读"
+    },
+    {
+      "start": 21.41175,
+      "duration": 0.573541,
+      "text": "第一次"
+    },
+    {
+      "start": 22.0,
+      "duration": 0.397041,
+      "text": "余数"
+    },
+    {
+      "start": 22.426458,
+      "duration": 0.323541,
+      "text": "是个"
+    },
+    {
+      "start": 22.75,
+      "duration": 0.279416,
+      "text": "位"
+    },
+    {
+      "start": 23.426458,
+      "duration": 0.441166,
+      "text": "后面"
+    },
+    {
+      "start": 23.882333,
+      "duration": 0.205875,
+      "text": "才"
+    },
+    {
+      "start": 24.102958,
+      "duration": 0.58825,
+      "text": "逐渐"
+    },
+    {
+      "start": 24.808833,
+      "duration": 0.367666,
+      "text": "得到"
+    },
+    {
+      "start": 25.191166,
+      "duration": 0.573541,
+      "text": "高位"
+    },
+    {
+      "start": 26.441166,
+      "duration": 0.632333,
+      "text": "因此"
+    },
+    {
+      "start": 27.191166,
+      "duration": 0.41175,
+      "text": "结果"
+    },
+    {
+      "start": 27.617666,
+      "duration": 0.41175,
+      "text": "是"
+    },
+    {
+      "start": 28.132333,
+      "duration": 1.720583,
+      "text": "一一零一零一一一"
+    },
+    {
+      "start": 30.529416,
+      "duration": 0.647041,
+      "text": "用位权"
+    },
+    {
+      "start": 31.191166,
+      "duration": 0.58825,
+      "text": "复核"
+    },
+    {
+      "start": 32.117666,
+      "duration": 0.926458,
+      "text": "一百二十八"
+    },
+    {
+      "start": 33.073541,
+      "duration": 0.220583,
+      "text": "加"
+    },
+    {
+      "start": 33.308833,
+      "duration": 0.66175,
+      "text": "六十四"
+    },
+    {
+      "start": 34.308833,
+      "duration": 0.25,
+      "text": "加"
+    },
+    {
+      "start": 34.573541,
+      "duration": 0.573541,
+      "text": "十六"
+    },
+    {
+      "start": 35.441166,
+      "duration": 0.382333,
+      "text": "四"
+    },
+    {
+      "start": 36.073541,
+      "duration": 0.294125,
+      "text": "二"
+    },
+    {
+      "start": 36.705875,
+      "duration": 0.294125,
+      "text": "一"
+    },
+    {
+      "start": 37.323541,
+      "duration": 0.529416,
+      "text": "正好"
+    },
+    {
+      "start": 37.882333,
+      "duration": 1.08825,
+      "text": "二百一十五"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

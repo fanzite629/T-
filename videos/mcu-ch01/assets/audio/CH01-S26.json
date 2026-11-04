@@ -1,0 +1,411 @@
+{
+  "id": "CH01-S26",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "30e2a7f5f6bb54789b368f3ebe3c39887533985b0aa929f790fc2a96f16882f3",
+  "text": "一字节等于八比特，本课件的一 K按一千零二十四计算，字按十六位使用。连续编址从零开始时，最高地址比单元总数少一。\n例如四 K字节有四千零九十六个字节单元，末地址是四千零九十五，即零 F F F。六十四 K字节则到 F F F F。其余容量范围在两屏表中列全。反向计算时，用末地址减首地址再加一；漏掉这个一，就少算一个单元。",
+  "duration": 40.968,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.720583,
+      "text": "一字节"
+    },
+    {
+      "start": 0.858833,
+      "duration": 0.3235,
+      "text": "等于"
+    },
+    {
+      "start": 1.182333,
+      "duration": 0.75,
+      "text": "八比特"
+    },
+    {
+      "start": 2.358833,
+      "duration": 0.205875,
+      "text": "本"
+    },
+    {
+      "start": 2.564708,
+      "duration": 0.41175,
+      "text": "课件"
+    },
+    {
+      "start": 2.976458,
+      "duration": 0.08825,
+      "text": "的"
+    },
+    {
+      "start": 3.094125,
+      "duration": 0.205875,
+      "text": "一"
+    },
+    {
+      "start": 3.3,
+      "duration": 0.397041,
+      "text": "K"
+    },
+    {
+      "start": 3.814708,
+      "duration": 0.25,
+      "text": "按"
+    },
+    {
+      "start": 4.079416,
+      "duration": 1.191166,
+      "text": "一千零二十四"
+    },
+    {
+      "start": 5.285291,
+      "duration": 0.529416,
+      "text": "计算"
+    },
+    {
+      "start": 6.167666,
+      "duration": 0.220583,
+      "text": "字"
+    },
+    {
+      "start": 6.402958,
+      "duration": 0.235291,
+      "text": "按"
+    },
+    {
+      "start": 6.667666,
+      "duration": 0.441166,
+      "text": "十六"
+    },
+    {
+      "start": 7.108833,
+      "duration": 0.16175,
+      "text": "位"
+    },
+    {
+      "start": 7.285291,
+      "duration": 0.544125,
+      "text": "使用"
+    },
+    {
+      "start": 8.514708,
+      "duration": 0.441166,
+      "text": "连续"
+    },
+    {
+      "start": 8.970583,
+      "duration": 0.485291,
+      "text": "编址"
+    },
+    {
+      "start": 9.485291,
+      "duration": 0.397041,
+      "text": "从零"
+    },
+    {
+      "start": 9.897041,
+      "duration": 0.455875,
+      "text": "开始"
+    },
+    {
+      "start": 10.352958,
+      "duration": 0.382333,
+      "text": "时"
+    },
+    {
+      "start": 11.029416,
+      "duration": 0.426458,
+      "text": "最高"
+    },
+    {
+      "start": 11.470583,
+      "duration": 0.58825,
+      "text": "地址"
+    },
+    {
+      "start": 12.08825,
+      "duration": 0.220583,
+      "text": "比"
+    },
+    {
+      "start": 12.323541,
+      "duration": 0.441166,
+      "text": "单元"
+    },
+    {
+      "start": 12.764708,
+      "duration": 0.382333,
+      "text": "总数"
+    },
+    {
+      "start": 13.16175,
+      "duration": 0.632333,
+      "text": "少一"
+    },
+    {
+      "start": 14.470583,
+      "duration": 0.602958,
+      "text": "例如"
+    },
+    {
+      "start": 15.191166,
+      "duration": 0.25,
+      "text": "四"
+    },
+    {
+      "start": 15.441166,
+      "duration": 0.205875,
+      "text": "K"
+    },
+    {
+      "start": 15.66175,
+      "duration": 0.58825,
+      "text": "字节"
+    },
+    {
+      "start": 16.367666,
+      "duration": 0.235291,
+      "text": "有"
+    },
+    {
+      "start": 16.617666,
+      "duration": 1.3235,
+      "text": "四千零九十六"
+    },
+    {
+      "start": 17.941166,
+      "duration": 0.08825,
+      "text": "个"
+    },
+    {
+      "start": 18.058833,
+      "duration": 0.294125,
+      "text": "字节"
+    },
+    {
+      "start": 18.367666,
+      "duration": 0.602958,
+      "text": "单元"
+    },
+    {
+      "start": 19.397041,
+      "duration": 0.205875,
+      "text": "末"
+    },
+    {
+      "start": 19.602958,
+      "duration": 0.441166,
+      "text": "地址"
+    },
+    {
+      "start": 20.058833,
+      "duration": 0.279416,
+      "text": "是"
+    },
+    {
+      "start": 20.367666,
+      "duration": 1.426458,
+      "text": "四千零九十五"
+    },
+    {
+      "start": 22.132333,
+      "duration": 0.279416,
+      "text": "即"
+    },
+    {
+      "start": 22.426458,
+      "duration": 0.308833,
+      "text": "零"
+    },
+    {
+      "start": 22.735291,
+      "duration": 0.308833,
+      "text": "F"
+    },
+    {
+      "start": 23.058833,
+      "duration": 0.294125,
+      "text": "F"
+    },
+    {
+      "start": 23.367666,
+      "duration": 0.41175,
+      "text": "F"
+    },
+    {
+      "start": 24.455875,
+      "duration": 0.617666,
+      "text": "六十四"
+    },
+    {
+      "start": 25.073541,
+      "duration": 0.220583,
+      "text": "K"
+    },
+    {
+      "start": 25.308833,
+      "duration": 0.558833,
+      "text": "字节"
+    },
+    {
+      "start": 26.0,
+      "duration": 0.235291,
+      "text": "则"
+    },
+    {
+      "start": 26.235291,
+      "duration": 0.352958,
+      "text": "到"
+    },
+    {
+      "start": 26.705875,
+      "duration": 0.352958,
+      "text": "F"
+    },
+    {
+      "start": 27.073541,
+      "duration": 0.308833,
+      "text": "F"
+    },
+    {
+      "start": 27.397041,
+      "duration": 0.308833,
+      "text": "F"
+    },
+    {
+      "start": 27.720583,
+      "duration": 0.397041,
+      "text": "F"
+    },
+    {
+      "start": 28.794125,
+      "duration": 0.397041,
+      "text": "其余"
+    },
+    {
+      "start": 29.205875,
+      "duration": 0.397041,
+      "text": "容量"
+    },
+    {
+      "start": 29.617666,
+      "duration": 0.617666,
+      "text": "范围"
+    },
+    {
+      "start": 30.352958,
+      "duration": 0.220583,
+      "text": "在"
+    },
+    {
+      "start": 30.58825,
+      "duration": 0.647041,
+      "text": "两屏表"
+    },
+    {
+      "start": 31.235291,
+      "duration": 0.205875,
+      "text": "中"
+    },
+    {
+      "start": 31.455875,
+      "duration": 0.66175,
+      "text": "列全"
+    },
+    {
+      "start": 32.794125,
+      "duration": 0.514708,
+      "text": "反向"
+    },
+    {
+      "start": 33.323541,
+      "duration": 0.441166,
+      "text": "计算"
+    },
+    {
+      "start": 33.764708,
+      "duration": 0.397041,
+      "text": "时"
+    },
+    {
+      "start": 34.470583,
+      "duration": 0.205875,
+      "text": "用"
+    },
+    {
+      "start": 34.676458,
+      "duration": 0.220583,
+      "text": "末"
+    },
+    {
+      "start": 34.91175,
+      "duration": 0.41175,
+      "text": "地址"
+    },
+    {
+      "start": 35.352958,
+      "duration": 0.5,
+      "text": "减首"
+    },
+    {
+      "start": 35.867666,
+      "duration": 0.382333,
+      "text": "地址"
+    },
+    {
+      "start": 36.279416,
+      "duration": 0.176458,
+      "text": "再"
+    },
+    {
+      "start": 36.470583,
+      "duration": 0.264708,
+      "text": "加"
+    },
+    {
+      "start": 36.735291,
+      "duration": 0.323541,
+      "text": "一"
+    },
+    {
+      "start": 37.514708,
+      "duration": 0.382333,
+      "text": "漏掉"
+    },
+    {
+      "start": 37.91175,
+      "duration": 0.279416,
+      "text": "这个"
+    },
+    {
+      "start": 38.205875,
+      "duration": 0.308833,
+      "text": "一"
+    },
+    {
+      "start": 38.75,
+      "duration": 0.176458,
+      "text": "就"
+    },
+    {
+      "start": 38.926458,
+      "duration": 0.25,
+      "text": "少"
+    },
+    {
+      "start": 39.191166,
+      "duration": 0.264708,
+      "text": "算"
+    },
+    {
+      "start": 39.455875,
+      "duration": 0.205875,
+      "text": "一个"
+    },
+    {
+      "start": 39.676458,
+      "duration": 0.602958,
+      "text": "单元"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

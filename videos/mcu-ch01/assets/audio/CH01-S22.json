@@ -1,0 +1,426 @@
+{
+  "id": "CH01-S22",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "b0080d334ae14d7e039088c7db91883523f044cb52bc47dc6e101ec511036e71",
+  "text": "按这个规则，负四从八四 H变成 F B，再加一得到 F C；负七从八七变成 F八，再加一得到 F九。每步的八位变化在画面里逐格对应。\n补码使减法可以转成加法。五加负四，零五加 F C得到一零一 H，保留低八位是零一，结果正确。负数八位补码也可用二百五十六减绝对值检查。丢弃位宽外进位，不等于保证所有运算都没有有符号溢出。",
+  "duration": 40.848,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.235291,
+      "text": "按"
+    },
+    {
+      "start": 0.358833,
+      "duration": 0.264708,
+      "text": "这个"
+    },
+    {
+      "start": 0.63825,
+      "duration": 0.617666,
+      "text": "规则"
+    },
+    {
+      "start": 1.579416,
+      "duration": 0.529416,
+      "text": "负四"
+    },
+    {
+      "start": 2.13825,
+      "duration": 0.25,
+      "text": "从"
+    },
+    {
+      "start": 2.402958,
+      "duration": 0.5,
+      "text": "八四"
+    },
+    {
+      "start": 2.902958,
+      "duration": 0.352958,
+      "text": "H"
+    },
+    {
+      "start": 3.285291,
+      "duration": 0.5,
+      "text": "变成"
+    },
+    {
+      "start": 3.8,
+      "duration": 0.308833,
+      "text": "F"
+    },
+    {
+      "start": 4.108833,
+      "duration": 0.33825,
+      "text": "B"
+    },
+    {
+      "start": 4.785291,
+      "duration": 0.220583,
+      "text": "再"
+    },
+    {
+      "start": 5.005875,
+      "duration": 0.205875,
+      "text": "加"
+    },
+    {
+      "start": 5.226458,
+      "duration": 0.205875,
+      "text": "一"
+    },
+    {
+      "start": 5.447041,
+      "duration": 0.544125,
+      "text": "得到"
+    },
+    {
+      "start": 6.094125,
+      "duration": 0.294125,
+      "text": "F"
+    },
+    {
+      "start": 6.38825,
+      "duration": 0.441166,
+      "text": "C"
+    },
+    {
+      "start": 7.197041,
+      "duration": 0.544125,
+      "text": "负七"
+    },
+    {
+      "start": 7.770583,
+      "duration": 0.220583,
+      "text": "从"
+    },
+    {
+      "start": 7.991166,
+      "duration": 0.514708,
+      "text": "八七"
+    },
+    {
+      "start": 8.535291,
+      "duration": 0.485291,
+      "text": "变成"
+    },
+    {
+      "start": 9.035291,
+      "duration": 0.279416,
+      "text": "F"
+    },
+    {
+      "start": 9.314708,
+      "duration": 0.323541,
+      "text": "八"
+    },
+    {
+      "start": 9.91175,
+      "duration": 0.25,
+      "text": "再"
+    },
+    {
+      "start": 10.16175,
+      "duration": 0.25,
+      "text": "加"
+    },
+    {
+      "start": 10.426458,
+      "duration": 0.323541,
+      "text": "一"
+    },
+    {
+      "start": 10.882333,
+      "duration": 0.426458,
+      "text": "得到"
+    },
+    {
+      "start": 11.323541,
+      "duration": 0.294125,
+      "text": "F"
+    },
+    {
+      "start": 11.617666,
+      "duration": 0.397041,
+      "text": "九"
+    },
+    {
+      "start": 12.676458,
+      "duration": 0.455875,
+      "text": "每步"
+    },
+    {
+      "start": 13.132333,
+      "duration": 0.132333,
+      "text": "的"
+    },
+    {
+      "start": 13.294125,
+      "duration": 0.205875,
+      "text": "八"
+    },
+    {
+      "start": 13.5,
+      "duration": 0.205875,
+      "text": "位"
+    },
+    {
+      "start": 13.720583,
+      "duration": 0.617666,
+      "text": "变化"
+    },
+    {
+      "start": 14.455875,
+      "duration": 0.205875,
+      "text": "在"
+    },
+    {
+      "start": 14.676458,
+      "duration": 0.5,
+      "text": "画面"
+    },
+    {
+      "start": 15.176458,
+      "duration": 0.16175,
+      "text": "里"
+    },
+    {
+      "start": 15.367666,
+      "duration": 0.426458,
+      "text": "逐格"
+    },
+    {
+      "start": 15.808833,
+      "duration": 0.544125,
+      "text": "对应"
+    },
+    {
+      "start": 17.029416,
+      "duration": 0.367666,
+      "text": "补码"
+    },
+    {
+      "start": 17.426458,
+      "duration": 0.191166,
+      "text": "使"
+    },
+    {
+      "start": 17.632333,
+      "duration": 0.617666,
+      "text": "减法"
+    },
+    {
+      "start": 18.367666,
+      "duration": 0.294125,
+      "text": "可以"
+    },
+    {
+      "start": 18.676458,
+      "duration": 0.455875,
+      "text": "转成"
+    },
+    {
+      "start": 19.16175,
+      "duration": 0.573541,
+      "text": "加法"
+    },
+    {
+      "start": 20.41175,
+      "duration": 0.426458,
+      "text": "五加"
+    },
+    {
+      "start": 20.83825,
+      "duration": 0.58825,
+      "text": "负四"
+    },
+    {
+      "start": 21.808833,
+      "duration": 0.691166,
+      "text": "零五加"
+    },
+    {
+      "start": 22.5,
+      "duration": 0.279416,
+      "text": "F"
+    },
+    {
+      "start": 22.779416,
+      "duration": 0.426458,
+      "text": "C"
+    },
+    {
+      "start": 23.220583,
+      "duration": 0.455875,
+      "text": "得到"
+    },
+    {
+      "start": 23.705875,
+      "duration": 0.617666,
+      "text": "一零一"
+    },
+    {
+      "start": 24.323541,
+      "duration": 0.5,
+      "text": "H"
+    },
+    {
+      "start": 25.117666,
+      "duration": 0.397041,
+      "text": "保留"
+    },
+    {
+      "start": 25.544125,
+      "duration": 0.147041,
+      "text": "低"
+    },
+    {
+      "start": 25.705875,
+      "duration": 0.235291,
+      "text": "八"
+    },
+    {
+      "start": 25.941166,
+      "duration": 0.264708,
+      "text": "位"
+    },
+    {
+      "start": 26.235291,
+      "duration": 0.16175,
+      "text": "是"
+    },
+    {
+      "start": 26.41175,
+      "duration": 0.544125,
+      "text": "零一"
+    },
+    {
+      "start": 27.235291,
+      "duration": 0.397041,
+      "text": "结果"
+    },
+    {
+      "start": 27.647041,
+      "duration": 0.602958,
+      "text": "正确"
+    },
+    {
+      "start": 28.926458,
+      "duration": 0.485291,
+      "text": "负数"
+    },
+    {
+      "start": 29.441166,
+      "duration": 0.352958,
+      "text": "八位"
+    },
+    {
+      "start": 29.808833,
+      "duration": 0.544125,
+      "text": "补码"
+    },
+    {
+      "start": 30.470583,
+      "duration": 0.16175,
+      "text": "也"
+    },
+    {
+      "start": 30.647041,
+      "duration": 0.485291,
+      "text": "可用"
+    },
+    {
+      "start": 31.16175,
+      "duration": 0.897041,
+      "text": "二百五十六"
+    },
+    {
+      "start": 32.058833,
+      "duration": 0.5,
+      "text": "减绝"
+    },
+    {
+      "start": 32.573541,
+      "duration": 0.382333,
+      "text": "对值"
+    },
+    {
+      "start": 32.970583,
+      "duration": 0.66175,
+      "text": "检查"
+    },
+    {
+      "start": 34.308833,
+      "duration": 0.235291,
+      "text": "丢"
+    },
+    {
+      "start": 34.544125,
+      "duration": 0.397041,
+      "text": "弃位"
+    },
+    {
+      "start": 34.970583,
+      "duration": 0.41175,
+      "text": "宽外"
+    },
+    {
+      "start": 35.397041,
+      "duration": 0.544125,
+      "text": "进位"
+    },
+    {
+      "start": 36.323541,
+      "duration": 0.16175,
+      "text": "不"
+    },
+    {
+      "start": 36.485291,
+      "duration": 0.308833,
+      "text": "等于"
+    },
+    {
+      "start": 36.808833,
+      "duration": 0.514708,
+      "text": "保证"
+    },
+    {
+      "start": 37.352958,
+      "duration": 0.382333,
+      "text": "所有"
+    },
+    {
+      "start": 37.75,
+      "duration": 0.632333,
+      "text": "运算"
+    },
+    {
+      "start": 38.5,
+      "duration": 0.176458,
+      "text": "都"
+    },
+    {
+      "start": 38.676458,
+      "duration": 0.25,
+      "text": "没有"
+    },
+    {
+      "start": 38.941166,
+      "duration": 0.191166,
+      "text": "有"
+    },
+    {
+      "start": 39.16175,
+      "duration": 0.426458,
+      "text": "符号"
+    },
+    {
+      "start": 39.602958,
+      "duration": 0.558833,
+      "text": "溢出"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

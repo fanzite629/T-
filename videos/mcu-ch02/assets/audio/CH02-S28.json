@@ -1,0 +1,541 @@
+{
+  "id": "CH02-S28",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "8f335055e602a3064d95891be07e3c18e627f168a6310d5e8e1d6af8d557824d",
+  "text": "串起全过程：电源、时钟稳定，复位确定起点；按 E A选择程序映射，取指后初始化变量、堆栈和端口，再读取输入、处理并输出。换成八零三一片外取指，还需地址锁存与程序读控制。\n最后核对六题：十二兆赫、十二时钟机器周期是一微秒；首次入栈零八；组二的 R三在一三；七 F加一有溢出无进位；二一字节第三位的位地址是零 B；不同空间同号地址不是同一单元。读指令时继续问：访问谁，改变什么，影响哪些标志，需要多久。",
+  "duration": 51.168,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.441166,
+      "text": "串起"
+    },
+    {
+      "start": 0.579416,
+      "duration": 0.25,
+      "text": "全"
+    },
+    {
+      "start": 0.829416,
+      "duration": 0.58825,
+      "text": "过程"
+    },
+    {
+      "start": 1.770583,
+      "duration": 0.676458,
+      "text": "电源"
+    },
+    {
+      "start": 2.63825,
+      "duration": 0.426458,
+      "text": "时钟"
+    },
+    {
+      "start": 3.079416,
+      "duration": 0.544125,
+      "text": "稳定"
+    },
+    {
+      "start": 3.947041,
+      "duration": 0.455875,
+      "text": "复位"
+    },
+    {
+      "start": 4.432333,
+      "duration": 0.397041,
+      "text": "确定"
+    },
+    {
+      "start": 4.844125,
+      "duration": 0.573541,
+      "text": "起点"
+    },
+    {
+      "start": 5.858833,
+      "duration": 0.382333,
+      "text": "按"
+    },
+    {
+      "start": 6.344125,
+      "duration": 0.235291,
+      "text": "E"
+    },
+    {
+      "start": 6.579416,
+      "duration": 0.235291,
+      "text": "A"
+    },
+    {
+      "start": 6.829416,
+      "duration": 0.441166,
+      "text": "选择"
+    },
+    {
+      "start": 7.285291,
+      "duration": 0.441166,
+      "text": "程序"
+    },
+    {
+      "start": 7.741166,
+      "duration": 0.558833,
+      "text": "映射"
+    },
+    {
+      "start": 8.697041,
+      "duration": 0.25,
+      "text": "取"
+    },
+    {
+      "start": 8.947041,
+      "duration": 0.191166,
+      "text": "指"
+    },
+    {
+      "start": 9.13825,
+      "duration": 0.352958,
+      "text": "后"
+    },
+    {
+      "start": 9.520583,
+      "duration": 0.58825,
+      "text": "初始化"
+    },
+    {
+      "start": 10.123541,
+      "duration": 0.573541,
+      "text": "变量"
+    },
+    {
+      "start": 10.985291,
+      "duration": 0.25,
+      "text": "堆"
+    },
+    {
+      "start": 11.235291,
+      "duration": 0.205875,
+      "text": "栈"
+    },
+    {
+      "start": 11.470583,
+      "duration": 0.132333,
+      "text": "和"
+    },
+    {
+      "start": 11.617666,
+      "duration": 0.632333,
+      "text": "端口"
+    },
+    {
+      "start": 12.529416,
+      "duration": 0.220583,
+      "text": "再"
+    },
+    {
+      "start": 12.764708,
+      "duration": 0.426458,
+      "text": "读取"
+    },
+    {
+      "start": 13.205875,
+      "duration": 0.573541,
+      "text": "输入"
+    },
+    {
+      "start": 13.985291,
+      "duration": 0.529416,
+      "text": "处理"
+    },
+    {
+      "start": 14.544125,
+      "duration": 0.191166,
+      "text": "并"
+    },
+    {
+      "start": 14.75,
+      "duration": 0.58825,
+      "text": "输出"
+    },
+    {
+      "start": 16.0,
+      "duration": 0.58825,
+      "text": "换成"
+    },
+    {
+      "start": 16.617666,
+      "duration": 0.794083,
+      "text": "八零三一"
+    },
+    {
+      "start": 17.41175,
+      "duration": 0.235291,
+      "text": "片"
+    },
+    {
+      "start": 17.647041,
+      "duration": 0.205875,
+      "text": "外"
+    },
+    {
+      "start": 17.867666,
+      "duration": 0.617666,
+      "text": "取指"
+    },
+    {
+      "start": 18.823541,
+      "duration": 0.191166,
+      "text": "还"
+    },
+    {
+      "start": 19.014708,
+      "duration": 0.235291,
+      "text": "需"
+    },
+    {
+      "start": 19.279416,
+      "duration": 0.352958,
+      "text": "地址"
+    },
+    {
+      "start": 19.647041,
+      "duration": 0.691166,
+      "text": "锁存"
+    },
+    {
+      "start": 20.441166,
+      "duration": 0.147041,
+      "text": "与"
+    },
+    {
+      "start": 20.602958,
+      "duration": 0.470583,
+      "text": "程序"
+    },
+    {
+      "start": 21.08825,
+      "duration": 0.205875,
+      "text": "读"
+    },
+    {
+      "start": 21.308833,
+      "duration": 0.58825,
+      "text": "控制"
+    },
+    {
+      "start": 22.573541,
+      "duration": 0.470583,
+      "text": "最后"
+    },
+    {
+      "start": 23.073541,
+      "duration": 0.33825,
+      "text": "核对"
+    },
+    {
+      "start": 23.426458,
+      "duration": 0.25,
+      "text": "六"
+    },
+    {
+      "start": 23.676458,
+      "duration": 0.382333,
+      "text": "题"
+    },
+    {
+      "start": 24.352958,
+      "duration": 0.382333,
+      "text": "十二"
+    },
+    {
+      "start": 24.75,
+      "duration": 0.573541,
+      "text": "兆赫"
+    },
+    {
+      "start": 25.617666,
+      "duration": 0.75,
+      "text": "十二时钟"
+    },
+    {
+      "start": 26.397041,
+      "duration": 0.323541,
+      "text": "机器"
+    },
+    {
+      "start": 26.735291,
+      "duration": 0.617666,
+      "text": "周期"
+    },
+    {
+      "start": 27.382333,
+      "duration": 0.191166,
+      "text": "是"
+    },
+    {
+      "start": 27.58825,
+      "duration": 0.147041,
+      "text": "一"
+    },
+    {
+      "start": 27.735291,
+      "duration": 0.602958,
+      "text": "微秒"
+    },
+    {
+      "start": 28.705875,
+      "duration": 0.544125,
+      "text": "首次"
+    },
+    {
+      "start": 29.264708,
+      "duration": 0.176458,
+      "text": "入"
+    },
+    {
+      "start": 29.441166,
+      "duration": 0.220583,
+      "text": "栈"
+    },
+    {
+      "start": 29.66175,
+      "duration": 0.485291,
+      "text": "零八"
+    },
+    {
+      "start": 30.323541,
+      "duration": 0.25,
+      "text": "组"
+    },
+    {
+      "start": 30.573541,
+      "duration": 0.235291,
+      "text": "二"
+    },
+    {
+      "start": 30.808833,
+      "duration": 0.25,
+      "text": "的"
+    },
+    {
+      "start": 31.08825,
+      "duration": 0.264708,
+      "text": "R"
+    },
+    {
+      "start": 31.367666,
+      "duration": 0.308791,
+      "text": "三"
+    },
+    {
+      "start": 31.676458,
+      "duration": 0.191166,
+      "text": "在"
+    },
+    {
+      "start": 31.882333,
+      "duration": 0.573541,
+      "text": "一三"
+    },
+    {
+      "start": 32.852958,
+      "duration": 0.294083,
+      "text": "七"
+    },
+    {
+      "start": 33.147041,
+      "duration": 0.455875,
+      "text": "F"
+    },
+    {
+      "start": 33.720583,
+      "duration": 0.279416,
+      "text": "加"
+    },
+    {
+      "start": 34.014708,
+      "duration": 0.205875,
+      "text": "一"
+    },
+    {
+      "start": 34.220583,
+      "duration": 0.16175,
+      "text": "有"
+    },
+    {
+      "start": 34.397041,
+      "duration": 0.367666,
+      "text": "溢出"
+    },
+    {
+      "start": 34.794125,
+      "duration": 0.16175,
+      "text": "无"
+    },
+    {
+      "start": 34.955875,
+      "duration": 0.602958,
+      "text": "进位"
+    },
+    {
+      "start": 35.926458,
+      "duration": 0.470583,
+      "text": "二一"
+    },
+    {
+      "start": 36.41175,
+      "duration": 0.426458,
+      "text": "字节"
+    },
+    {
+      "start": 36.867666,
+      "duration": 0.426458,
+      "text": "第三"
+    },
+    {
+      "start": 37.294125,
+      "duration": 0.16175,
+      "text": "位"
+    },
+    {
+      "start": 37.455875,
+      "duration": 0.102958,
+      "text": "的"
+    },
+    {
+      "start": 37.573541,
+      "duration": 0.205875,
+      "text": "位"
+    },
+    {
+      "start": 37.779416,
+      "duration": 0.544125,
+      "text": "地址"
+    },
+    {
+      "start": 38.426458,
+      "duration": 0.205875,
+      "text": "是"
+    },
+    {
+      "start": 38.647041,
+      "duration": 0.264708,
+      "text": "零"
+    },
+    {
+      "start": 38.91175,
+      "duration": 0.308833,
+      "text": "B"
+    },
+    {
+      "start": 39.455875,
+      "duration": 0.352958,
+      "text": "不同"
+    },
+    {
+      "start": 39.823541,
+      "duration": 0.470583,
+      "text": "空间"
+    },
+    {
+      "start": 40.323541,
+      "duration": 0.397041,
+      "text": "同号"
+    },
+    {
+      "start": 40.735291,
+      "duration": 0.573541,
+      "text": "地址"
+    },
+    {
+      "start": 41.426458,
+      "duration": 0.323541,
+      "text": "不是"
+    },
+    {
+      "start": 41.764708,
+      "duration": 0.294125,
+      "text": "同"
+    },
+    {
+      "start": 42.058833,
+      "duration": 0.16175,
+      "text": "一"
+    },
+    {
+      "start": 42.235291,
+      "duration": 0.558833,
+      "text": "单元"
+    },
+    {
+      "start": 43.470583,
+      "duration": 0.220583,
+      "text": "读"
+    },
+    {
+      "start": 43.705875,
+      "duration": 0.397041,
+      "text": "指令"
+    },
+    {
+      "start": 44.102958,
+      "duration": 0.264708,
+      "text": "时"
+    },
+    {
+      "start": 44.397041,
+      "duration": 0.426458,
+      "text": "继续"
+    },
+    {
+      "start": 44.823541,
+      "duration": 0.308833,
+      "text": "问"
+    },
+    {
+      "start": 45.5,
+      "duration": 0.441166,
+      "text": "访问"
+    },
+    {
+      "start": 45.941166,
+      "duration": 0.41175,
+      "text": "谁"
+    },
+    {
+      "start": 46.558833,
+      "duration": 0.426458,
+      "text": "改变"
+    },
+    {
+      "start": 47.0,
+      "duration": 0.470583,
+      "text": "什么"
+    },
+    {
+      "start": 47.83825,
+      "duration": 0.397041,
+      "text": "影响"
+    },
+    {
+      "start": 48.264708,
+      "duration": 0.367666,
+      "text": "哪些"
+    },
+    {
+      "start": 48.647041,
+      "duration": 0.58825,
+      "text": "标志"
+    },
+    {
+      "start": 49.5,
+      "duration": 0.323541,
+      "text": "需要"
+    },
+    {
+      "start": 49.83825,
+      "duration": 0.632333,
+      "text": "多久"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

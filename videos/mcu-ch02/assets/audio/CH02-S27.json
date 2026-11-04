@@ -1,0 +1,506 @@
+{
+  "id": "CH02-S27",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "b54baf89a8a6591e9e7768d9fba15bbfd4c442ac47d1130dd9560a3663dcb2c3",
+  "text": "经典八零五一低运行存储器到七 F；八零到 F F的直接访问用于特殊功能寄存器。S五二另有高一百二十八字节运行存储器，编号同样是八零到 F F，但物理位置不同。\n直接读九零，访问 P一；把 R零设为九零，再通过 R零间接读，就访问高运行存储器九零。后者只适用于有这部分资源的型号。这里仍用内部访问规则，M O V X属于外部数据空间，不能用它来区分高运行存储器和特殊功能寄存器。",
+  "duration": 46.224,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.529416,
+      "text": "经典"
+    },
+    {
+      "start": 0.667666,
+      "duration": 0.75,
+      "text": "八零五一"
+    },
+    {
+      "start": 1.432333,
+      "duration": 0.191166,
+      "text": "低"
+    },
+    {
+      "start": 1.63825,
+      "duration": 0.5,
+      "text": "运行"
+    },
+    {
+      "start": 2.152958,
+      "duration": 0.823541,
+      "text": "存储器"
+    },
+    {
+      "start": 3.094125,
+      "duration": 0.205875,
+      "text": "到"
+    },
+    {
+      "start": 3.314708,
+      "duration": 0.308833,
+      "text": "七"
+    },
+    {
+      "start": 3.623541,
+      "duration": 0.455875,
+      "text": "F"
+    },
+    {
+      "start": 4.535291,
+      "duration": 0.455875,
+      "text": "八零"
+    },
+    {
+      "start": 5.005875,
+      "duration": 0.279416,
+      "text": "到"
+    },
+    {
+      "start": 5.3,
+      "duration": 0.279416,
+      "text": "F"
+    },
+    {
+      "start": 5.594125,
+      "duration": 0.264708,
+      "text": "F"
+    },
+    {
+      "start": 5.858833,
+      "duration": 0.117666,
+      "text": "的"
+    },
+    {
+      "start": 6.005875,
+      "duration": 0.352958,
+      "text": "直接"
+    },
+    {
+      "start": 6.373541,
+      "duration": 0.544125,
+      "text": "访问"
+    },
+    {
+      "start": 7.035291,
+      "duration": 0.397041,
+      "text": "用于"
+    },
+    {
+      "start": 7.46175,
+      "duration": 0.441166,
+      "text": "特殊"
+    },
+    {
+      "start": 7.917666,
+      "duration": 0.367666,
+      "text": "功能"
+    },
+    {
+      "start": 8.3,
+      "duration": 0.75,
+      "text": "寄存器"
+    },
+    {
+      "start": 9.735291,
+      "duration": 0.323541,
+      "text": "S"
+    },
+    {
+      "start": 10.058833,
+      "duration": 0.205875,
+      "text": "五"
+    },
+    {
+      "start": 10.279416,
+      "duration": 0.33825,
+      "text": "二"
+    },
+    {
+      "start": 10.617666,
+      "duration": 0.3235,
+      "text": "另"
+    },
+    {
+      "start": 10.941166,
+      "duration": 0.308833,
+      "text": "有"
+    },
+    {
+      "start": 11.279416,
+      "duration": 0.205875,
+      "text": "高"
+    },
+    {
+      "start": 11.485291,
+      "duration": 0.852958,
+      "text": "一百二十八"
+    },
+    {
+      "start": 12.352958,
+      "duration": 0.485291,
+      "text": "字节"
+    },
+    {
+      "start": 12.867666,
+      "duration": 0.426458,
+      "text": "运行"
+    },
+    {
+      "start": 13.308833,
+      "duration": 0.808833,
+      "text": "存储器"
+    },
+    {
+      "start": 14.514708,
+      "duration": 0.529416,
+      "text": "编号"
+    },
+    {
+      "start": 15.073541,
+      "duration": 0.441166,
+      "text": "同样"
+    },
+    {
+      "start": 15.529416,
+      "duration": 0.176458,
+      "text": "是"
+    },
+    {
+      "start": 15.735291,
+      "duration": 0.426458,
+      "text": "八零"
+    },
+    {
+      "start": 16.16175,
+      "duration": 0.235291,
+      "text": "到"
+    },
+    {
+      "start": 16.41175,
+      "duration": 0.264708,
+      "text": "F"
+    },
+    {
+      "start": 16.691166,
+      "duration": 0.397041,
+      "text": "F"
+    },
+    {
+      "start": 17.397041,
+      "duration": 0.191166,
+      "text": "但"
+    },
+    {
+      "start": 17.602958,
+      "duration": 0.323541,
+      "text": "物理"
+    },
+    {
+      "start": 17.941166,
+      "duration": 0.352958,
+      "text": "位置"
+    },
+    {
+      "start": 18.308833,
+      "duration": 0.544125,
+      "text": "不同"
+    },
+    {
+      "start": 19.529416,
+      "duration": 0.426458,
+      "text": "直接"
+    },
+    {
+      "start": 19.970583,
+      "duration": 0.176458,
+      "text": "读"
+    },
+    {
+      "start": 20.147041,
+      "duration": 0.602958,
+      "text": "九零"
+    },
+    {
+      "start": 20.970583,
+      "duration": 0.426458,
+      "text": "访问"
+    },
+    {
+      "start": 21.41175,
+      "duration": 0.308833,
+      "text": "P"
+    },
+    {
+      "start": 21.720583,
+      "duration": 0.294125,
+      "text": "一"
+    },
+    {
+      "start": 22.441166,
+      "duration": 0.235291,
+      "text": "把"
+    },
+    {
+      "start": 22.676458,
+      "duration": 0.264708,
+      "text": "R"
+    },
+    {
+      "start": 22.955875,
+      "duration": 0.41175,
+      "text": "零设"
+    },
+    {
+      "start": 23.367666,
+      "duration": 0.16175,
+      "text": "为"
+    },
+    {
+      "start": 23.544125,
+      "duration": 0.617666,
+      "text": "九零"
+    },
+    {
+      "start": 24.41175,
+      "duration": 0.191166,
+      "text": "再"
+    },
+    {
+      "start": 24.617666,
+      "duration": 0.485291,
+      "text": "通过"
+    },
+    {
+      "start": 25.132333,
+      "duration": 0.220583,
+      "text": "R"
+    },
+    {
+      "start": 25.352958,
+      "duration": 0.235291,
+      "text": "零"
+    },
+    {
+      "start": 25.58825,
+      "duration": 0.220583,
+      "text": "间"
+    },
+    {
+      "start": 25.823541,
+      "duration": 0.544125,
+      "text": "接读"
+    },
+    {
+      "start": 26.602958,
+      "duration": 0.191166,
+      "text": "就"
+    },
+    {
+      "start": 26.808833,
+      "duration": 0.441166,
+      "text": "访问"
+    },
+    {
+      "start": 27.279416,
+      "duration": 0.205875,
+      "text": "高"
+    },
+    {
+      "start": 27.485291,
+      "duration": 0.558833,
+      "text": "运行"
+    },
+    {
+      "start": 28.058833,
+      "duration": 0.691166,
+      "text": "存储器"
+    },
+    {
+      "start": 28.764708,
+      "duration": 0.58825,
+      "text": "九零"
+    },
+    {
+      "start": 30.029416,
+      "duration": 0.647041,
+      "text": "后者"
+    },
+    {
+      "start": 30.705875,
+      "duration": 0.16175,
+      "text": "只"
+    },
+    {
+      "start": 30.882333,
+      "duration": 0.41175,
+      "text": "适用"
+    },
+    {
+      "start": 31.294125,
+      "duration": 0.382333,
+      "text": "于"
+    },
+    {
+      "start": 31.794125,
+      "duration": 0.191166,
+      "text": "有"
+    },
+    {
+      "start": 31.985291,
+      "duration": 0.147041,
+      "text": "这"
+    },
+    {
+      "start": 32.147041,
+      "duration": 0.367666,
+      "text": "部分"
+    },
+    {
+      "start": 32.529416,
+      "duration": 0.397041,
+      "text": "资源"
+    },
+    {
+      "start": 32.926458,
+      "duration": 0.08825,
+      "text": "的"
+    },
+    {
+      "start": 33.029416,
+      "duration": 0.617666,
+      "text": "型号"
+    },
+    {
+      "start": 34.323541,
+      "duration": 0.617666,
+      "text": "这里"
+    },
+    {
+      "start": 35.058833,
+      "duration": 0.205875,
+      "text": "仍"
+    },
+    {
+      "start": 35.264708,
+      "duration": 0.176458,
+      "text": "用"
+    },
+    {
+      "start": 35.470583,
+      "duration": 0.397041,
+      "text": "内部"
+    },
+    {
+      "start": 35.882333,
+      "duration": 0.367666,
+      "text": "访问"
+    },
+    {
+      "start": 36.264708,
+      "duration": 0.647041,
+      "text": "规则"
+    },
+    {
+      "start": 37.25,
+      "duration": 0.264708,
+      "text": "M"
+    },
+    {
+      "start": 37.514708,
+      "duration": 0.205875,
+      "text": "O"
+    },
+    {
+      "start": 37.735291,
+      "duration": 0.235291,
+      "text": "V"
+    },
+    {
+      "start": 37.985291,
+      "duration": 0.5,
+      "text": "X"
+    },
+    {
+      "start": 38.5,
+      "duration": 0.382333,
+      "text": "属于"
+    },
+    {
+      "start": 38.91175,
+      "duration": 0.367666,
+      "text": "外部"
+    },
+    {
+      "start": 39.294125,
+      "duration": 0.323541,
+      "text": "数据"
+    },
+    {
+      "start": 39.632333,
+      "duration": 0.632333,
+      "text": "空间"
+    },
+    {
+      "start": 40.544125,
+      "duration": 0.308833,
+      "text": "不能"
+    },
+    {
+      "start": 40.867666,
+      "duration": 0.191166,
+      "text": "用"
+    },
+    {
+      "start": 41.058833,
+      "duration": 0.176458,
+      "text": "它"
+    },
+    {
+      "start": 41.235291,
+      "duration": 0.235291,
+      "text": "来"
+    },
+    {
+      "start": 41.485291,
+      "duration": 0.544125,
+      "text": "区分"
+    },
+    {
+      "start": 42.058833,
+      "duration": 0.220583,
+      "text": "高"
+    },
+    {
+      "start": 42.279416,
+      "duration": 0.470583,
+      "text": "运行"
+    },
+    {
+      "start": 42.764708,
+      "duration": 0.823541,
+      "text": "存储器"
+    },
+    {
+      "start": 43.705875,
+      "duration": 0.220583,
+      "text": "和"
+    },
+    {
+      "start": 43.941166,
+      "duration": 0.455875,
+      "text": "特殊"
+    },
+    {
+      "start": 44.41175,
+      "duration": 0.382333,
+      "text": "功能"
+    },
+    {
+      "start": 44.808833,
+      "duration": 0.75,
+      "text": "寄存器"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

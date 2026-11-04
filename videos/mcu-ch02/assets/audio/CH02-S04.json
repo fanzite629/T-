@@ -1,0 +1,421 @@
+{
+  "id": "CH02-S04",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "709a93cdca3c4210df7d8c6ba76170b608d750cecc156952f6b6abf9ec4bfa5c",
+  "text": "双列直插四十脚封装按俯视图读：缺口朝上，从左上第一脚逆时针编号。三十二根是四组八位端口，另八根负责供电、时钟和控制。\n第二十脚接地，第四十脚供电；十九、十八接振荡电路；第九是复位，三十一是 E A，三十是 A L E，二十九是程序读选通。端口位号和物理脚号不同，例如 P零点零在第三十九脚。连线时必须同时核对名称、方向与编号。",
+  "duration": 42.264,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.5,
+      "text": "双列"
+    },
+    {
+      "start": 0.623541,
+      "duration": 0.205875,
+      "text": "直"
+    },
+    {
+      "start": 0.829416,
+      "duration": 0.33825,
+      "text": "插"
+    },
+    {
+      "start": 1.197041,
+      "duration": 0.426458,
+      "text": "四十"
+    },
+    {
+      "start": 1.623541,
+      "duration": 0.220583,
+      "text": "脚"
+    },
+    {
+      "start": 1.858833,
+      "duration": 0.58825,
+      "text": "封装"
+    },
+    {
+      "start": 2.564708,
+      "duration": 0.235291,
+      "text": "按"
+    },
+    {
+      "start": 2.814708,
+      "duration": 0.367666,
+      "text": "俯视"
+    },
+    {
+      "start": 3.197041,
+      "duration": 0.617666,
+      "text": "图读"
+    },
+    {
+      "start": 4.167666,
+      "duration": 0.41175,
+      "text": "缺口"
+    },
+    {
+      "start": 4.594125,
+      "duration": 0.602958,
+      "text": "朝上"
+    },
+    {
+      "start": 5.491166,
+      "duration": 0.235291,
+      "text": "从"
+    },
+    {
+      "start": 5.741166,
+      "duration": 0.5,
+      "text": "左上"
+    },
+    {
+      "start": 6.270583,
+      "duration": 0.323541,
+      "text": "第一"
+    },
+    {
+      "start": 6.594125,
+      "duration": 0.279416,
+      "text": "脚"
+    },
+    {
+      "start": 6.902958,
+      "duration": 0.558833,
+      "text": "逆时针"
+    },
+    {
+      "start": 7.476458,
+      "duration": 0.602958,
+      "text": "编号"
+    },
+    {
+      "start": 8.764708,
+      "duration": 0.647041,
+      "text": "三十二"
+    },
+    {
+      "start": 9.41175,
+      "duration": 0.352958,
+      "text": "根"
+    },
+    {
+      "start": 9.794125,
+      "duration": 0.205875,
+      "text": "是"
+    },
+    {
+      "start": 10.014708,
+      "duration": 0.264708,
+      "text": "四"
+    },
+    {
+      "start": 10.279416,
+      "duration": 0.25,
+      "text": "组"
+    },
+    {
+      "start": 10.558833,
+      "duration": 0.220583,
+      "text": "八"
+    },
+    {
+      "start": 10.779416,
+      "duration": 0.191166,
+      "text": "位"
+    },
+    {
+      "start": 10.985291,
+      "duration": 0.573541,
+      "text": "端口"
+    },
+    {
+      "start": 11.926458,
+      "duration": 0.191166,
+      "text": "另"
+    },
+    {
+      "start": 12.117666,
+      "duration": 0.205875,
+      "text": "八"
+    },
+    {
+      "start": 12.323541,
+      "duration": 0.235291,
+      "text": "根"
+    },
+    {
+      "start": 12.58825,
+      "duration": 0.308833,
+      "text": "负责"
+    },
+    {
+      "start": 12.91175,
+      "duration": 0.529416,
+      "text": "供电"
+    },
+    {
+      "start": 13.705875,
+      "duration": 0.485291,
+      "text": "时钟"
+    },
+    {
+      "start": 14.220583,
+      "duration": 0.147041,
+      "text": "和"
+    },
+    {
+      "start": 14.382333,
+      "duration": 0.602958,
+      "text": "控制"
+    },
+    {
+      "start": 15.66175,
+      "duration": 0.529416,
+      "text": "第二十"
+    },
+    {
+      "start": 16.191166,
+      "duration": 0.220583,
+      "text": "脚"
+    },
+    {
+      "start": 16.426458,
+      "duration": 0.514708,
+      "text": "接地"
+    },
+    {
+      "start": 17.25,
+      "duration": 0.617666,
+      "text": "第四十"
+    },
+    {
+      "start": 17.867666,
+      "duration": 0.220583,
+      "text": "脚"
+    },
+    {
+      "start": 18.102958,
+      "duration": 0.5,
+      "text": "供电"
+    },
+    {
+      "start": 18.970583,
+      "duration": 0.617666,
+      "text": "十九"
+    },
+    {
+      "start": 19.823541,
+      "duration": 0.485291,
+      "text": "十八"
+    },
+    {
+      "start": 20.33825,
+      "duration": 0.220583,
+      "text": "接"
+    },
+    {
+      "start": 20.558833,
+      "duration": 0.91175,
+      "text": "振荡电路"
+    },
+    {
+      "start": 21.941166,
+      "duration": 0.455875,
+      "text": "第九"
+    },
+    {
+      "start": 22.397041,
+      "duration": 0.176458,
+      "text": "是"
+    },
+    {
+      "start": 22.58825,
+      "duration": 0.529416,
+      "text": "复位"
+    },
+    {
+      "start": 23.441166,
+      "duration": 0.647041,
+      "text": "三十一"
+    },
+    {
+      "start": 24.102958,
+      "duration": 0.205875,
+      "text": "是"
+    },
+    {
+      "start": 24.323541,
+      "duration": 0.235291,
+      "text": "E"
+    },
+    {
+      "start": 24.558833,
+      "duration": 0.33825,
+      "text": "A"
+    },
+    {
+      "start": 25.176458,
+      "duration": 0.5,
+      "text": "三十"
+    },
+    {
+      "start": 25.691166,
+      "duration": 0.367666,
+      "text": "是"
+    },
+    {
+      "start": 26.176458,
+      "duration": 0.294125,
+      "text": "A"
+    },
+    {
+      "start": 26.485291,
+      "duration": 0.323541,
+      "text": "L"
+    },
+    {
+      "start": 26.808833,
+      "duration": 0.308833,
+      "text": "E"
+    },
+    {
+      "start": 27.455875,
+      "duration": 0.66175,
+      "text": "二十九"
+    },
+    {
+      "start": 28.147041,
+      "duration": 0.147041,
+      "text": "是"
+    },
+    {
+      "start": 28.308833,
+      "duration": 0.441166,
+      "text": "程序"
+    },
+    {
+      "start": 28.764708,
+      "duration": 0.176458,
+      "text": "读"
+    },
+    {
+      "start": 28.941166,
+      "duration": 0.58825,
+      "text": "选通"
+    },
+    {
+      "start": 30.191166,
+      "duration": 0.25,
+      "text": "端"
+    },
+    {
+      "start": 30.441166,
+      "duration": 0.41175,
+      "text": "口位"
+    },
+    {
+      "start": 30.852958,
+      "duration": 0.397041,
+      "text": "号"
+    },
+    {
+      "start": 31.367666,
+      "duration": 0.191166,
+      "text": "和"
+    },
+    {
+      "start": 31.573541,
+      "duration": 0.338208,
+      "text": "物理"
+    },
+    {
+      "start": 31.91175,
+      "duration": 0.441166,
+      "text": "脚号"
+    },
+    {
+      "start": 32.367666,
+      "duration": 0.514708,
+      "text": "不同"
+    },
+    {
+      "start": 33.308833,
+      "duration": 0.529416,
+      "text": "例如"
+    },
+    {
+      "start": 33.955875,
+      "duration": 0.264708,
+      "text": "P"
+    },
+    {
+      "start": 34.235291,
+      "duration": 0.75,
+      "text": "零点零"
+    },
+    {
+      "start": 34.985291,
+      "duration": 0.25,
+      "text": "在"
+    },
+    {
+      "start": 35.25,
+      "duration": 0.808833,
+      "text": "第三十九"
+    },
+    {
+      "start": 36.058833,
+      "duration": 0.367666,
+      "text": "脚"
+    },
+    {
+      "start": 37.08825,
+      "duration": 0.544083,
+      "text": "连线"
+    },
+    {
+      "start": 37.632333,
+      "duration": 0.426458,
+      "text": "时"
+    },
+    {
+      "start": 38.176458,
+      "duration": 0.352958,
+      "text": "必须"
+    },
+    {
+      "start": 38.544125,
+      "duration": 0.485291,
+      "text": "同时"
+    },
+    {
+      "start": 39.044125,
+      "duration": 0.41175,
+      "text": "核对"
+    },
+    {
+      "start": 39.485291,
+      "duration": 0.573541,
+      "text": "名称"
+    },
+    {
+      "start": 40.323541,
+      "duration": 0.485291,
+      "text": "方向"
+    },
+    {
+      "start": 40.83825,
+      "duration": 0.132333,
+      "text": "与"
+    },
+    {
+      "start": 40.985291,
+      "duration": 0.602958,
+      "text": "编号"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

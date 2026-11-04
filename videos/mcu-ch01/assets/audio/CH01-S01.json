@@ -1,0 +1,331 @@
+{
+  "id": "CH01-S01",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "9c34fcde280f4cdb562b3c2a074cf3df956804dfec5c1005c1faec0a798c2c13",
+  "text": "手靠近，洗手液机就出液：传感器输入信息，芯片执行程序，再输出控制信号。本章沿着这条链路，认识单片机、数制和存储器。\n课件介绍了课程名称、应用与考核：六十六学时分为理论四十六、实验二十；成绩由期末六十和平时四十组成，具体安排以老师通知为准。今天重点是把原理和动作联系起来。",
+  "duration": 35.688,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.294125,
+      "text": "手"
+    },
+    {
+      "start": 0.402958,
+      "duration": 0.58825,
+      "text": "靠近"
+    },
+    {
+      "start": 1.329416,
+      "duration": 0.441166,
+      "text": "洗手"
+    },
+    {
+      "start": 1.785291,
+      "duration": 0.485291,
+      "text": "液机"
+    },
+    {
+      "start": 2.3,
+      "duration": 0.16175,
+      "text": "就"
+    },
+    {
+      "start": 2.46175,
+      "duration": 0.544125,
+      "text": "出液"
+    },
+    {
+      "start": 3.358833,
+      "duration": 0.779416,
+      "text": "传感器"
+    },
+    {
+      "start": 4.167666,
+      "duration": 0.323541,
+      "text": "输入"
+    },
+    {
+      "start": 4.505875,
+      "duration": 0.66175,
+      "text": "信息"
+    },
+    {
+      "start": 5.46175,
+      "duration": 0.514708,
+      "text": "芯片"
+    },
+    {
+      "start": 6.005875,
+      "duration": 0.367666,
+      "text": "执行"
+    },
+    {
+      "start": 6.38825,
+      "duration": 0.632333,
+      "text": "程序"
+    },
+    {
+      "start": 7.270583,
+      "duration": 0.205875,
+      "text": "再"
+    },
+    {
+      "start": 7.491166,
+      "duration": 0.455875,
+      "text": "输出"
+    },
+    {
+      "start": 7.976458,
+      "duration": 0.323541,
+      "text": "控制"
+    },
+    {
+      "start": 8.314708,
+      "duration": 0.632333,
+      "text": "信号"
+    },
+    {
+      "start": 9.632333,
+      "duration": 0.455875,
+      "text": "本章"
+    },
+    {
+      "start": 10.117666,
+      "duration": 0.33825,
+      "text": "沿着"
+    },
+    {
+      "start": 10.470583,
+      "duration": 0.132333,
+      "text": "这"
+    },
+    {
+      "start": 10.602958,
+      "duration": 0.205875,
+      "text": "条"
+    },
+    {
+      "start": 10.823541,
+      "duration": 0.544125,
+      "text": "链路"
+    },
+    {
+      "start": 11.75,
+      "duration": 0.33825,
+      "text": "认识"
+    },
+    {
+      "start": 12.117666,
+      "duration": 0.808833,
+      "text": "单片机"
+    },
+    {
+      "start": 13.176458,
+      "duration": 0.66175,
+      "text": "数制"
+    },
+    {
+      "start": 13.955875,
+      "duration": 0.176458,
+      "text": "和"
+    },
+    {
+      "start": 14.147041,
+      "duration": 0.91175,
+      "text": "存储器"
+    },
+    {
+      "start": 15.735291,
+      "duration": 0.5,
+      "text": "课件"
+    },
+    {
+      "start": 16.25,
+      "duration": 0.397041,
+      "text": "介绍"
+    },
+    {
+      "start": 16.647041,
+      "duration": 0.102958,
+      "text": "了"
+    },
+    {
+      "start": 16.779416,
+      "duration": 0.41175,
+      "text": "课程"
+    },
+    {
+      "start": 17.205875,
+      "duration": 0.58825,
+      "text": "名称"
+    },
+    {
+      "start": 18.073541,
+      "duration": 0.397041,
+      "text": "应用"
+    },
+    {
+      "start": 18.5,
+      "duration": 0.102958,
+      "text": "与"
+    },
+    {
+      "start": 18.617666,
+      "duration": 0.691166,
+      "text": "考核"
+    },
+    {
+      "start": 19.735291,
+      "duration": 0.514708,
+      "text": "六十六"
+    },
+    {
+      "start": 20.264708,
+      "duration": 0.66175,
+      "text": "学时"
+    },
+    {
+      "start": 21.029416,
+      "duration": 0.382333,
+      "text": "分为"
+    },
+    {
+      "start": 21.441166,
+      "duration": 0.397041,
+      "text": "理论"
+    },
+    {
+      "start": 21.852958,
+      "duration": 0.676458,
+      "text": "四十六"
+    },
+    {
+      "start": 22.823541,
+      "duration": 0.382333,
+      "text": "实验"
+    },
+    {
+      "start": 23.220583,
+      "duration": 0.676458,
+      "text": "二十"
+    },
+    {
+      "start": 24.147041,
+      "duration": 0.485291,
+      "text": "成绩"
+    },
+    {
+      "start": 24.647041,
+      "duration": 0.220583,
+      "text": "由"
+    },
+    {
+      "start": 24.897041,
+      "duration": 0.397041,
+      "text": "期末"
+    },
+    {
+      "start": 25.308833,
+      "duration": 0.676458,
+      "text": "六十"
+    },
+    {
+      "start": 26.102958,
+      "duration": 0.191166,
+      "text": "和"
+    },
+    {
+      "start": 26.308833,
+      "duration": 0.5,
+      "text": "平时"
+    },
+    {
+      "start": 26.823541,
+      "duration": 0.426458,
+      "text": "四十"
+    },
+    {
+      "start": 27.264708,
+      "duration": 0.58825,
+      "text": "组成"
+    },
+    {
+      "start": 28.235291,
+      "duration": 0.367666,
+      "text": "具体"
+    },
+    {
+      "start": 28.617666,
+      "duration": 0.573541,
+      "text": "安排"
+    },
+    {
+      "start": 29.220583,
+      "duration": 0.147041,
+      "text": "以"
+    },
+    {
+      "start": 29.382333,
+      "duration": 0.397041,
+      "text": "老师"
+    },
+    {
+      "start": 29.794125,
+      "duration": 0.441166,
+      "text": "通知"
+    },
+    {
+      "start": 30.25,
+      "duration": 0.529416,
+      "text": "为准"
+    },
+    {
+      "start": 31.455875,
+      "duration": 0.441166,
+      "text": "今天"
+    },
+    {
+      "start": 31.91175,
+      "duration": 0.647041,
+      "text": "重点"
+    },
+    {
+      "start": 32.66175,
+      "duration": 0.176458,
+      "text": "是"
+    },
+    {
+      "start": 32.83825,
+      "duration": 0.176458,
+      "text": "把"
+    },
+    {
+      "start": 33.029416,
+      "duration": 0.470583,
+      "text": "原理"
+    },
+    {
+      "start": 33.529416,
+      "duration": 0.147041,
+      "text": "和"
+    },
+    {
+      "start": 33.691166,
+      "duration": 0.397041,
+      "text": "动作"
+    },
+    {
+      "start": 34.117666,
+      "duration": 0.426458,
+      "text": "联系"
+    },
+    {
+      "start": 34.558833,
+      "duration": 0.441166,
+      "text": "起来"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

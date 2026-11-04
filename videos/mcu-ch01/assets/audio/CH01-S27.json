@@ -1,0 +1,456 @@
+{
+  "id": "CH01-S27",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "214a85e6592a53c9669ff64345df7d93415a6b77d66365b3ebd0abb892a947f7",
+  "text": "看二七六四引脚：地址线从 A零到 A十二，共十三根，可选二的十三次方，也就是八千一百九十二个单元。数据线 D零到 D七，每单元八位。\n容量是八千一百九十二乘八比特，等于六十四 K比特，也等于八 K字节。由零开始，末地址是一 F F F。片选、输出允许和编程控制各有作用，低有效横线要保留。算容量的顺序始终是先数单元，再看每单元宽度。",
+  "duration": 41.184,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.264708,
+      "text": "看"
+    },
+    {
+      "start": 0.373541,
+      "duration": 0.808833,
+      "text": "二七六四"
+    },
+    {
+      "start": 1.197041,
+      "duration": 0.279416,
+      "text": "引"
+    },
+    {
+      "start": 1.476458,
+      "duration": 0.352958,
+      "text": "脚"
+    },
+    {
+      "start": 2.21175,
+      "duration": 0.720583,
+      "text": "地址线"
+    },
+    {
+      "start": 2.96175,
+      "duration": 0.323541,
+      "text": "从"
+    },
+    {
+      "start": 3.285291,
+      "duration": 0.205875,
+      "text": "A"
+    },
+    {
+      "start": 3.491166,
+      "duration": 0.235291,
+      "text": "零"
+    },
+    {
+      "start": 3.726458,
+      "duration": 0.220583,
+      "text": "到"
+    },
+    {
+      "start": 3.96175,
+      "duration": 0.176458,
+      "text": "A"
+    },
+    {
+      "start": 4.13825,
+      "duration": 0.485291,
+      "text": "十二"
+    },
+    {
+      "start": 4.947041,
+      "duration": 0.205875,
+      "text": "共"
+    },
+    {
+      "start": 5.167666,
+      "duration": 0.5,
+      "text": "十三"
+    },
+    {
+      "start": 5.667666,
+      "duration": 0.294125,
+      "text": "根"
+    },
+    {
+      "start": 6.241166,
+      "duration": 0.205875,
+      "text": "可"
+    },
+    {
+      "start": 6.447041,
+      "duration": 0.220583,
+      "text": "选"
+    },
+    {
+      "start": 6.667666,
+      "duration": 0.191166,
+      "text": "二"
+    },
+    {
+      "start": 6.858833,
+      "duration": 0.102958,
+      "text": "的"
+    },
+    {
+      "start": 6.991166,
+      "duration": 0.470583,
+      "text": "十三"
+    },
+    {
+      "start": 7.46175,
+      "duration": 0.191166,
+      "text": "次"
+    },
+    {
+      "start": 7.652958,
+      "duration": 0.323541,
+      "text": "方"
+    },
+    {
+      "start": 8.25,
+      "duration": 0.205875,
+      "text": "也"
+    },
+    {
+      "start": 8.455875,
+      "duration": 0.205875,
+      "text": "就"
+    },
+    {
+      "start": 8.66175,
+      "duration": 0.220583,
+      "text": "是"
+    },
+    {
+      "start": 8.91175,
+      "duration": 1.352958,
+      "text": "八千一百九十二"
+    },
+    {
+      "start": 10.264708,
+      "duration": 0.102958,
+      "text": "个"
+    },
+    {
+      "start": 10.382333,
+      "duration": 0.573541,
+      "text": "单元"
+    },
+    {
+      "start": 11.632333,
+      "duration": 0.794125,
+      "text": "数据线"
+    },
+    {
+      "start": 12.455875,
+      "duration": 0.16175,
+      "text": "D"
+    },
+    {
+      "start": 12.632333,
+      "duration": 0.205875,
+      "text": "零"
+    },
+    {
+      "start": 12.83825,
+      "duration": 0.176458,
+      "text": "到"
+    },
+    {
+      "start": 13.029416,
+      "duration": 0.235291,
+      "text": "D"
+    },
+    {
+      "start": 13.264708,
+      "duration": 0.352958,
+      "text": "七"
+    },
+    {
+      "start": 13.897041,
+      "duration": 0.205875,
+      "text": "每"
+    },
+    {
+      "start": 14.102958,
+      "duration": 0.41175,
+      "text": "单元"
+    },
+    {
+      "start": 14.529416,
+      "duration": 0.235291,
+      "text": "八"
+    },
+    {
+      "start": 14.764708,
+      "duration": 0.323541,
+      "text": "位"
+    },
+    {
+      "start": 15.75,
+      "duration": 0.470583,
+      "text": "容量"
+    },
+    {
+      "start": 16.235291,
+      "duration": 0.323541,
+      "text": "是"
+    },
+    {
+      "start": 16.58825,
+      "duration": 1.382333,
+      "text": "八千一百九十二"
+    },
+    {
+      "start": 18.0,
+      "duration": 0.264708,
+      "text": "乘"
+    },
+    {
+      "start": 18.264708,
+      "duration": 0.691166,
+      "text": "八比特"
+    },
+    {
+      "start": 19.367666,
+      "duration": 0.352958,
+      "text": "等于"
+    },
+    {
+      "start": 19.75,
+      "duration": 0.529416,
+      "text": "六十四"
+    },
+    {
+      "start": 20.279416,
+      "duration": 0.220583,
+      "text": "K"
+    },
+    {
+      "start": 20.514708,
+      "duration": 0.5,
+      "text": "比特"
+    },
+    {
+      "start": 21.264708,
+      "duration": 0.16175,
+      "text": "也"
+    },
+    {
+      "start": 21.441166,
+      "duration": 0.367666,
+      "text": "等于"
+    },
+    {
+      "start": 21.83825,
+      "duration": 0.220583,
+      "text": "八"
+    },
+    {
+      "start": 22.058833,
+      "duration": 0.220583,
+      "text": "K"
+    },
+    {
+      "start": 22.294125,
+      "duration": 0.58825,
+      "text": "字节"
+    },
+    {
+      "start": 23.558833,
+      "duration": 0.220583,
+      "text": "由"
+    },
+    {
+      "start": 23.794125,
+      "duration": 0.205875,
+      "text": "零"
+    },
+    {
+      "start": 24.0,
+      "duration": 0.647041,
+      "text": "开始"
+    },
+    {
+      "start": 24.970583,
+      "duration": 0.16175,
+      "text": "末"
+    },
+    {
+      "start": 25.132333,
+      "duration": 0.573541,
+      "text": "地址"
+    },
+    {
+      "start": 25.808833,
+      "duration": 0.220583,
+      "text": "是"
+    },
+    {
+      "start": 26.044125,
+      "duration": 0.264708,
+      "text": "一"
+    },
+    {
+      "start": 26.308833,
+      "duration": 0.323541,
+      "text": "F"
+    },
+    {
+      "start": 26.647041,
+      "duration": 0.294125,
+      "text": "F"
+    },
+    {
+      "start": 26.955875,
+      "duration": 0.397041,
+      "text": "F"
+    },
+    {
+      "start": 28.029416,
+      "duration": 0.705875,
+      "text": "片选"
+    },
+    {
+      "start": 29.014708,
+      "duration": 0.41175,
+      "text": "输出"
+    },
+    {
+      "start": 29.441166,
+      "duration": 0.705875,
+      "text": "允许"
+    },
+    {
+      "start": 30.264708,
+      "duration": 0.191166,
+      "text": "和"
+    },
+    {
+      "start": 30.470583,
+      "duration": 0.41175,
+      "text": "编程"
+    },
+    {
+      "start": 30.897041,
+      "duration": 0.397041,
+      "text": "控制"
+    },
+    {
+      "start": 31.323541,
+      "duration": 0.176458,
+      "text": "各"
+    },
+    {
+      "start": 31.5,
+      "duration": 0.191166,
+      "text": "有"
+    },
+    {
+      "start": 31.705875,
+      "duration": 0.514708,
+      "text": "作用"
+    },
+    {
+      "start": 32.617666,
+      "duration": 0.16175,
+      "text": "低"
+    },
+    {
+      "start": 32.779416,
+      "duration": 0.426458,
+      "text": "有效"
+    },
+    {
+      "start": 33.220583,
+      "duration": 0.426458,
+      "text": "横线"
+    },
+    {
+      "start": 33.676458,
+      "duration": 0.16175,
+      "text": "要"
+    },
+    {
+      "start": 33.852958,
+      "duration": 0.602958,
+      "text": "保留"
+    },
+    {
+      "start": 35.132333,
+      "duration": 0.323541,
+      "text": "算"
+    },
+    {
+      "start": 35.455875,
+      "duration": 0.367666,
+      "text": "容量"
+    },
+    {
+      "start": 35.823541,
+      "duration": 0.08825,
+      "text": "的"
+    },
+    {
+      "start": 35.926458,
+      "duration": 0.691166,
+      "text": "顺序"
+    },
+    {
+      "start": 36.720583,
+      "duration": 0.529416,
+      "text": "始终"
+    },
+    {
+      "start": 37.264708,
+      "duration": 0.176458,
+      "text": "是"
+    },
+    {
+      "start": 37.441166,
+      "duration": 0.25,
+      "text": "先"
+    },
+    {
+      "start": 37.705875,
+      "duration": 0.220583,
+      "text": "数"
+    },
+    {
+      "start": 37.926458,
+      "duration": 0.617666,
+      "text": "单元"
+    },
+    {
+      "start": 38.867666,
+      "duration": 0.176458,
+      "text": "再"
+    },
+    {
+      "start": 39.044125,
+      "duration": 0.205875,
+      "text": "看"
+    },
+    {
+      "start": 39.279416,
+      "duration": 0.205875,
+      "text": "每"
+    },
+    {
+      "start": 39.485291,
+      "duration": 0.382333,
+      "text": "单元"
+    },
+    {
+      "start": 39.882333,
+      "duration": 0.617666,
+      "text": "宽度"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

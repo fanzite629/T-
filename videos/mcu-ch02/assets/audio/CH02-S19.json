@@ -1,0 +1,411 @@
+{
+  "id": "CH02-S19",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "623263b7b85af8949abe5ddb43420f80453a900170cf459d6ca2e0905b51170e",
+  "text": "指令长度表示占多少字节，指令周期表示执行多长时间。处理器经历取指、译码和执行，字节数不能直接当机器周期数。\n经典十二兆赫下，一、二、四个机器周期分别是一、二、四微秒。课件的三字节指令典型为两周期，而乘除指令虽是一字节，却要四周期。具体耗时查指令表。典型 A L E时序也有外部数据访问等例外，画面的脉冲用于理解过程。",
+  "duration": 42.336,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.41175,
+      "text": "指令"
+    },
+    {
+      "start": 0.535291,
+      "duration": 0.441166,
+      "text": "长度"
+    },
+    {
+      "start": 0.991166,
+      "duration": 0.632333,
+      "text": "表示"
+    },
+    {
+      "start": 1.741166,
+      "duration": 0.25,
+      "text": "占"
+    },
+    {
+      "start": 2.005875,
+      "duration": 0.41175,
+      "text": "多少"
+    },
+    {
+      "start": 2.432333,
+      "duration": 0.544125,
+      "text": "字节"
+    },
+    {
+      "start": 3.344125,
+      "duration": 0.382333,
+      "text": "指令"
+    },
+    {
+      "start": 3.741166,
+      "duration": 0.382333,
+      "text": "周期"
+    },
+    {
+      "start": 4.13825,
+      "duration": 0.632333,
+      "text": "表示"
+    },
+    {
+      "start": 4.88825,
+      "duration": 0.5,
+      "text": "执行"
+    },
+    {
+      "start": 5.417666,
+      "duration": 0.191166,
+      "text": "多"
+    },
+    {
+      "start": 5.608833,
+      "duration": 0.25,
+      "text": "长"
+    },
+    {
+      "start": 5.873541,
+      "duration": 0.573541,
+      "text": "时间"
+    },
+    {
+      "start": 7.132333,
+      "duration": 0.705875,
+      "text": "处理器"
+    },
+    {
+      "start": 7.852958,
+      "duration": 0.397041,
+      "text": "经历"
+    },
+    {
+      "start": 8.279416,
+      "duration": 0.632333,
+      "text": "取指"
+    },
+    {
+      "start": 9.132333,
+      "duration": 0.367666,
+      "text": "译码"
+    },
+    {
+      "start": 9.529416,
+      "duration": 0.16175,
+      "text": "和"
+    },
+    {
+      "start": 9.705875,
+      "duration": 0.66175,
+      "text": "执行"
+    },
+    {
+      "start": 10.75,
+      "duration": 0.205875,
+      "text": "字"
+    },
+    {
+      "start": 10.970583,
+      "duration": 0.647041,
+      "text": "节数"
+    },
+    {
+      "start": 11.735291,
+      "duration": 0.352958,
+      "text": "不能"
+    },
+    {
+      "start": 12.102958,
+      "duration": 0.426458,
+      "text": "直接"
+    },
+    {
+      "start": 12.544125,
+      "duration": 0.25,
+      "text": "当"
+    },
+    {
+      "start": 12.794125,
+      "duration": 0.397041,
+      "text": "机器"
+    },
+    {
+      "start": 13.205875,
+      "duration": 0.823541,
+      "text": "周期数"
+    },
+    {
+      "start": 14.705875,
+      "duration": 0.470583,
+      "text": "经典"
+    },
+    {
+      "start": 15.205875,
+      "duration": 0.367666,
+      "text": "十二"
+    },
+    {
+      "start": 15.58825,
+      "duration": 0.41175,
+      "text": "兆赫"
+    },
+    {
+      "start": 16.0,
+      "duration": 0.323541,
+      "text": "下"
+    },
+    {
+      "start": 16.705875,
+      "duration": 0.323541,
+      "text": "一"
+    },
+    {
+      "start": 17.25,
+      "duration": 0.308833,
+      "text": "二"
+    },
+    {
+      "start": 17.926458,
+      "duration": 0.220583,
+      "text": "四"
+    },
+    {
+      "start": 18.147041,
+      "duration": 0.102958,
+      "text": "个"
+    },
+    {
+      "start": 18.264708,
+      "duration": 0.33825,
+      "text": "机器"
+    },
+    {
+      "start": 18.617666,
+      "duration": 0.617666,
+      "text": "周期"
+    },
+    {
+      "start": 19.33825,
+      "duration": 0.455875,
+      "text": "分别"
+    },
+    {
+      "start": 19.794125,
+      "duration": 0.25,
+      "text": "是"
+    },
+    {
+      "start": 20.073541,
+      "duration": 0.294125,
+      "text": "一"
+    },
+    {
+      "start": 20.617666,
+      "duration": 0.294125,
+      "text": "二"
+    },
+    {
+      "start": 21.235291,
+      "duration": 0.852958,
+      "text": "四微秒"
+    },
+    {
+      "start": 22.764708,
+      "duration": 0.470583,
+      "text": "课件"
+    },
+    {
+      "start": 23.235291,
+      "duration": 0.102958,
+      "text": "的"
+    },
+    {
+      "start": 23.367666,
+      "duration": 0.602958,
+      "text": "三字节"
+    },
+    {
+      "start": 23.985291,
+      "duration": 0.58825,
+      "text": "指令"
+    },
+    {
+      "start": 24.691166,
+      "duration": 0.441166,
+      "text": "典型"
+    },
+    {
+      "start": 25.132333,
+      "duration": 0.191166,
+      "text": "为"
+    },
+    {
+      "start": 25.352958,
+      "duration": 0.235291,
+      "text": "两"
+    },
+    {
+      "start": 25.58825,
+      "duration": 0.573541,
+      "text": "周期"
+    },
+    {
+      "start": 26.514708,
+      "duration": 0.205875,
+      "text": "而"
+    },
+    {
+      "start": 26.735291,
+      "duration": 0.441166,
+      "text": "乘除"
+    },
+    {
+      "start": 27.191166,
+      "duration": 0.558833,
+      "text": "指令"
+    },
+    {
+      "start": 27.779416,
+      "duration": 0.25,
+      "text": "虽"
+    },
+    {
+      "start": 28.029416,
+      "duration": 0.147041,
+      "text": "是"
+    },
+    {
+      "start": 28.191166,
+      "duration": 0.176458,
+      "text": "一"
+    },
+    {
+      "start": 28.367666,
+      "duration": 0.58825,
+      "text": "字节"
+    },
+    {
+      "start": 29.235291,
+      "duration": 0.191166,
+      "text": "却"
+    },
+    {
+      "start": 29.426458,
+      "duration": 0.16175,
+      "text": "要"
+    },
+    {
+      "start": 29.617666,
+      "duration": 0.83825,
+      "text": "四周期"
+    },
+    {
+      "start": 31.132333,
+      "duration": 0.41175,
+      "text": "具体"
+    },
+    {
+      "start": 31.558833,
+      "duration": 0.602958,
+      "text": "耗时"
+    },
+    {
+      "start": 32.191166,
+      "duration": 0.264708,
+      "text": "查"
+    },
+    {
+      "start": 32.455875,
+      "duration": 0.794125,
+      "text": "指令表"
+    },
+    {
+      "start": 33.926458,
+      "duration": 0.676458,
+      "text": "典型"
+    },
+    {
+      "start": 34.720583,
+      "duration": 0.294125,
+      "text": "A"
+    },
+    {
+      "start": 35.029416,
+      "duration": 0.352958,
+      "text": "L"
+    },
+    {
+      "start": 35.397041,
+      "duration": 0.191166,
+      "text": "E"
+    },
+    {
+      "start": 35.602958,
+      "duration": 0.573541,
+      "text": "时序"
+    },
+    {
+      "start": 36.191166,
+      "duration": 0.323541,
+      "text": "也有"
+    },
+    {
+      "start": 36.544125,
+      "duration": 0.308833,
+      "text": "外部"
+    },
+    {
+      "start": 36.867666,
+      "duration": 0.544125,
+      "text": "数据"
+    },
+    {
+      "start": 37.514708,
+      "duration": 0.470583,
+      "text": "访问"
+    },
+    {
+      "start": 37.985291,
+      "duration": 0.176458,
+      "text": "等"
+    },
+    {
+      "start": 38.176458,
+      "duration": 0.455875,
+      "text": "例外"
+    },
+    {
+      "start": 39.058833,
+      "duration": 0.397041,
+      "text": "画面"
+    },
+    {
+      "start": 39.455875,
+      "duration": 0.073541,
+      "text": "的"
+    },
+    {
+      "start": 39.544125,
+      "duration": 0.617666,
+      "text": "脉冲"
+    },
+    {
+      "start": 40.279416,
+      "duration": 0.33825,
+      "text": "用于"
+    },
+    {
+      "start": 40.647041,
+      "duration": 0.426458,
+      "text": "理解"
+    },
+    {
+      "start": 41.08825,
+      "duration": 0.558833,
+      "text": "过程"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

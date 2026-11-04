@@ -1,0 +1,416 @@
+{
+  "id": "CH02-S21",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "b28d1739483d7e39fa8d52473484449688d0dda94a0666e85f063592ed4eb646",
+  "text": "把存储器画成并列空间。程序空间保存指令与查表常量，内部运行存储器保存变量，特殊功能寄存器连接硬件，外部数据空间可放扩展数据或映射外设。\n程序空间和外部数据空间分别可寻址六十四 K；数字相同也不代表同一单元。例如两边的零零三零，可以保存不同内容。认定访问对象，要一起看地址空间、寻址方式和地址；可寻址范围还不等于实际安装容量。",
+  "duration": 42.336,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.176458,
+      "text": "把"
+    },
+    {
+      "start": 0.3,
+      "duration": 0.5,
+      "text": "存储"
+    },
+    {
+      "start": 0.814708,
+      "duration": 0.441166,
+      "text": "器画"
+    },
+    {
+      "start": 1.255875,
+      "duration": 0.294125,
+      "text": "成"
+    },
+    {
+      "start": 1.579416,
+      "duration": 0.352958,
+      "text": "并列"
+    },
+    {
+      "start": 1.947041,
+      "duration": 0.617666,
+      "text": "空间"
+    },
+    {
+      "start": 3.235291,
+      "duration": 0.426458,
+      "text": "程序"
+    },
+    {
+      "start": 3.676458,
+      "duration": 0.529416,
+      "text": "空间"
+    },
+    {
+      "start": 4.235291,
+      "duration": 0.426458,
+      "text": "保存"
+    },
+    {
+      "start": 4.676458,
+      "duration": 0.573541,
+      "text": "指令"
+    },
+    {
+      "start": 5.352958,
+      "duration": 0.16175,
+      "text": "与"
+    },
+    {
+      "start": 5.529416,
+      "duration": 0.397041,
+      "text": "查表"
+    },
+    {
+      "start": 5.941166,
+      "duration": 0.617666,
+      "text": "常量"
+    },
+    {
+      "start": 7.014708,
+      "duration": 0.308833,
+      "text": "内部"
+    },
+    {
+      "start": 7.33825,
+      "duration": 0.544125,
+      "text": "运行"
+    },
+    {
+      "start": 7.897041,
+      "duration": 0.764708,
+      "text": "存储器"
+    },
+    {
+      "start": 8.691166,
+      "duration": 0.426458,
+      "text": "保存"
+    },
+    {
+      "start": 9.132333,
+      "duration": 0.558833,
+      "text": "变量"
+    },
+    {
+      "start": 10.132333,
+      "duration": 0.441166,
+      "text": "特殊"
+    },
+    {
+      "start": 10.58825,
+      "duration": 0.455875,
+      "text": "功能"
+    },
+    {
+      "start": 11.058833,
+      "duration": 0.647041,
+      "text": "寄存器"
+    },
+    {
+      "start": 11.735291,
+      "duration": 0.41175,
+      "text": "连接"
+    },
+    {
+      "start": 12.16175,
+      "duration": 0.573541,
+      "text": "硬件"
+    },
+    {
+      "start": 13.014708,
+      "duration": 0.367666,
+      "text": "外部"
+    },
+    {
+      "start": 13.397041,
+      "duration": 0.33825,
+      "text": "数据"
+    },
+    {
+      "start": 13.75,
+      "duration": 0.602958,
+      "text": "空间"
+    },
+    {
+      "start": 14.455875,
+      "duration": 0.235291,
+      "text": "可"
+    },
+    {
+      "start": 14.691166,
+      "duration": 0.220583,
+      "text": "放"
+    },
+    {
+      "start": 14.941166,
+      "duration": 0.382333,
+      "text": "扩展"
+    },
+    {
+      "start": 15.33825,
+      "duration": 0.58825,
+      "text": "数据"
+    },
+    {
+      "start": 16.029416,
+      "duration": 0.235291,
+      "text": "或"
+    },
+    {
+      "start": 16.279416,
+      "duration": 0.470583,
+      "text": "映射"
+    },
+    {
+      "start": 16.764708,
+      "duration": 0.58825,
+      "text": "外设"
+    },
+    {
+      "start": 18.029416,
+      "duration": 0.426458,
+      "text": "程序"
+    },
+    {
+      "start": 18.470583,
+      "duration": 0.58825,
+      "text": "空间"
+    },
+    {
+      "start": 19.08825,
+      "duration": 0.205875,
+      "text": "和"
+    },
+    {
+      "start": 19.308833,
+      "duration": 0.367666,
+      "text": "外部"
+    },
+    {
+      "start": 19.691166,
+      "duration": 0.352958,
+      "text": "数据"
+    },
+    {
+      "start": 20.058833,
+      "duration": 0.617666,
+      "text": "空间"
+    },
+    {
+      "start": 20.779416,
+      "duration": 0.455875,
+      "text": "分别"
+    },
+    {
+      "start": 21.25,
+      "duration": 0.205875,
+      "text": "可"
+    },
+    {
+      "start": 21.455875,
+      "duration": 0.470583,
+      "text": "寻址"
+    },
+    {
+      "start": 21.955875,
+      "duration": 0.573541,
+      "text": "六十四"
+    },
+    {
+      "start": 22.529416,
+      "duration": 0.323541,
+      "text": "K"
+    },
+    {
+      "start": 23.33825,
+      "duration": 0.367666,
+      "text": "数字"
+    },
+    {
+      "start": 23.720583,
+      "duration": 0.720583,
+      "text": "相同"
+    },
+    {
+      "start": 24.558833,
+      "duration": 0.16175,
+      "text": "也"
+    },
+    {
+      "start": 24.735291,
+      "duration": 0.132333,
+      "text": "不"
+    },
+    {
+      "start": 24.867666,
+      "duration": 0.5,
+      "text": "代表"
+    },
+    {
+      "start": 25.397041,
+      "duration": 0.294125,
+      "text": "同"
+    },
+    {
+      "start": 25.691166,
+      "duration": 0.176458,
+      "text": "一"
+    },
+    {
+      "start": 25.882333,
+      "duration": 0.558833,
+      "text": "单元"
+    },
+    {
+      "start": 27.117666,
+      "duration": 0.41175,
+      "text": "例如"
+    },
+    {
+      "start": 27.558833,
+      "duration": 0.441166,
+      "text": "两边"
+    },
+    {
+      "start": 28.0,
+      "duration": 0.102958,
+      "text": "的"
+    },
+    {
+      "start": 28.132333,
+      "duration": 1.014708,
+      "text": "零零三零"
+    },
+    {
+      "start": 29.367666,
+      "duration": 0.294125,
+      "text": "可以"
+    },
+    {
+      "start": 29.676458,
+      "duration": 0.470583,
+      "text": "保存"
+    },
+    {
+      "start": 30.176458,
+      "duration": 0.352958,
+      "text": "不同"
+    },
+    {
+      "start": 30.544125,
+      "duration": 0.514708,
+      "text": "内容"
+    },
+    {
+      "start": 31.735291,
+      "duration": 0.485291,
+      "text": "认定"
+    },
+    {
+      "start": 32.25,
+      "duration": 0.352958,
+      "text": "访问"
+    },
+    {
+      "start": 32.617666,
+      "duration": 0.573541,
+      "text": "对象"
+    },
+    {
+      "start": 33.544125,
+      "duration": 0.176458,
+      "text": "要"
+    },
+    {
+      "start": 33.735291,
+      "duration": 0.617666,
+      "text": "一起"
+    },
+    {
+      "start": 34.470583,
+      "duration": 0.264708,
+      "text": "看"
+    },
+    {
+      "start": 34.735291,
+      "duration": 0.352958,
+      "text": "地址"
+    },
+    {
+      "start": 35.102958,
+      "duration": 0.617666,
+      "text": "空间"
+    },
+    {
+      "start": 35.941166,
+      "duration": 0.455875,
+      "text": "寻址"
+    },
+    {
+      "start": 36.41175,
+      "duration": 0.485291,
+      "text": "方式"
+    },
+    {
+      "start": 36.926458,
+      "duration": 0.16175,
+      "text": "和"
+    },
+    {
+      "start": 37.102958,
+      "duration": 0.573541,
+      "text": "地址"
+    },
+    {
+      "start": 38.132333,
+      "duration": 0.191166,
+      "text": "可"
+    },
+    {
+      "start": 38.323541,
+      "duration": 0.397041,
+      "text": "寻址"
+    },
+    {
+      "start": 38.735291,
+      "duration": 0.66175,
+      "text": "范围"
+    },
+    {
+      "start": 39.514708,
+      "duration": 0.176458,
+      "text": "还"
+    },
+    {
+      "start": 39.705875,
+      "duration": 0.16175,
+      "text": "不"
+    },
+    {
+      "start": 39.867666,
+      "duration": 0.352958,
+      "text": "等于"
+    },
+    {
+      "start": 40.25,
+      "duration": 0.455875,
+      "text": "实际"
+    },
+    {
+      "start": 40.720583,
+      "duration": 0.41175,
+      "text": "安装"
+    },
+    {
+      "start": 41.147041,
+      "duration": 0.514708,
+      "text": "容量"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

@@ -1,0 +1,501 @@
+{
+  "id": "CH02-S26",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "94bc570c32ee9d09682a70efe7d521ab778329835c7aaab2cbe6dc4d34a55a6f",
+  "text": "位地址和字节地址是两套编号。字节二零的第零位，位地址是零零；下一个字节二一的第零位是零八，第三位就是零 B。\n公式是字节地址减二零，乘八，再加位号。最后二 F的第七位算得七 F。特殊功能寄存器也有可逐位访问的成员，例如 P一字节地址九零，P一点零的位地址也写九零；由指令区分访问单位。必须是实际实现且支持位寻址的寄存器，不能凭空洞地址的格式认定功能。",
+  "duration": 44.544,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.235291,
+      "text": "位"
+    },
+    {
+      "start": 0.344125,
+      "duration": 0.470583,
+      "text": "地址"
+    },
+    {
+      "start": 0.844125,
+      "duration": 0.147041,
+      "text": "和"
+    },
+    {
+      "start": 1.005875,
+      "duration": 0.367666,
+      "text": "字节"
+    },
+    {
+      "start": 1.38825,
+      "duration": 0.573541,
+      "text": "地址"
+    },
+    {
+      "start": 2.064708,
+      "duration": 0.191166,
+      "text": "是"
+    },
+    {
+      "start": 2.270583,
+      "duration": 0.264708,
+      "text": "两"
+    },
+    {
+      "start": 2.535291,
+      "duration": 0.25,
+      "text": "套"
+    },
+    {
+      "start": 2.8,
+      "duration": 0.573541,
+      "text": "编号"
+    },
+    {
+      "start": 4.058833,
+      "duration": 0.455875,
+      "text": "字节"
+    },
+    {
+      "start": 4.544125,
+      "duration": 0.382333,
+      "text": "二零"
+    },
+    {
+      "start": 4.926458,
+      "duration": 0.102958,
+      "text": "的"
+    },
+    {
+      "start": 5.044125,
+      "duration": 0.676458,
+      "text": "第零位"
+    },
+    {
+      "start": 6.058833,
+      "duration": 0.220583,
+      "text": "位"
+    },
+    {
+      "start": 6.279416,
+      "duration": 0.41175,
+      "text": "地址"
+    },
+    {
+      "start": 6.720583,
+      "duration": 0.176458,
+      "text": "是"
+    },
+    {
+      "start": 6.91175,
+      "duration": 0.617666,
+      "text": "零零"
+    },
+    {
+      "start": 7.985291,
+      "duration": 0.279416,
+      "text": "下"
+    },
+    {
+      "start": 8.264708,
+      "duration": 0.235291,
+      "text": "一个"
+    },
+    {
+      "start": 8.514708,
+      "duration": 0.382333,
+      "text": "字节"
+    },
+    {
+      "start": 8.926458,
+      "duration": 0.41175,
+      "text": "二一"
+    },
+    {
+      "start": 9.33825,
+      "duration": 0.117666,
+      "text": "的"
+    },
+    {
+      "start": 9.470583,
+      "duration": 0.58825,
+      "text": "第零位"
+    },
+    {
+      "start": 10.08825,
+      "duration": 0.147041,
+      "text": "是"
+    },
+    {
+      "start": 10.25,
+      "duration": 0.5,
+      "text": "零八"
+    },
+    {
+      "start": 11.147041,
+      "duration": 0.470583,
+      "text": "第三"
+    },
+    {
+      "start": 11.617666,
+      "duration": 0.308833,
+      "text": "位"
+    },
+    {
+      "start": 11.955875,
+      "duration": 0.16175,
+      "text": "就"
+    },
+    {
+      "start": 12.117666,
+      "duration": 0.132333,
+      "text": "是"
+    },
+    {
+      "start": 12.264708,
+      "duration": 0.264708,
+      "text": "零"
+    },
+    {
+      "start": 12.529416,
+      "duration": 0.294125,
+      "text": "B"
+    },
+    {
+      "start": 13.485291,
+      "duration": 0.455875,
+      "text": "公式"
+    },
+    {
+      "start": 13.955875,
+      "duration": 0.426458,
+      "text": "是"
+    },
+    {
+      "start": 14.5,
+      "duration": 0.426458,
+      "text": "字节"
+    },
+    {
+      "start": 14.941166,
+      "duration": 0.41175,
+      "text": "地址"
+    },
+    {
+      "start": 15.382333,
+      "duration": 0.205875,
+      "text": "减"
+    },
+    {
+      "start": 15.58825,
+      "duration": 0.58825,
+      "text": "二零"
+    },
+    {
+      "start": 16.41175,
+      "duration": 0.308833,
+      "text": "乘"
+    },
+    {
+      "start": 16.720583,
+      "duration": 0.264708,
+      "text": "八"
+    },
+    {
+      "start": 17.279416,
+      "duration": 0.205875,
+      "text": "再"
+    },
+    {
+      "start": 17.485291,
+      "duration": 0.426458,
+      "text": "加位"
+    },
+    {
+      "start": 17.91175,
+      "duration": 0.352958,
+      "text": "号"
+    },
+    {
+      "start": 18.926458,
+      "duration": 0.514708,
+      "text": "最后"
+    },
+    {
+      "start": 19.455875,
+      "duration": 0.264708,
+      "text": "二"
+    },
+    {
+      "start": 19.720583,
+      "duration": 0.294125,
+      "text": "F"
+    },
+    {
+      "start": 20.014708,
+      "duration": 0.117666,
+      "text": "的"
+    },
+    {
+      "start": 20.147041,
+      "duration": 0.441166,
+      "text": "第七"
+    },
+    {
+      "start": 20.58825,
+      "duration": 0.323541,
+      "text": "位"
+    },
+    {
+      "start": 21.029416,
+      "duration": 0.264708,
+      "text": "算"
+    },
+    {
+      "start": 21.294125,
+      "duration": 0.08825,
+      "text": "得"
+    },
+    {
+      "start": 21.397041,
+      "duration": 0.294125,
+      "text": "七"
+    },
+    {
+      "start": 21.691166,
+      "duration": 0.485291,
+      "text": "F"
+    },
+    {
+      "start": 22.83825,
+      "duration": 0.426458,
+      "text": "特殊"
+    },
+    {
+      "start": 23.279416,
+      "duration": 0.41175,
+      "text": "功能"
+    },
+    {
+      "start": 23.705875,
+      "duration": 0.823541,
+      "text": "寄存器"
+    },
+    {
+      "start": 24.529416,
+      "duration": 0.382333,
+      "text": "也有"
+    },
+    {
+      "start": 24.926458,
+      "duration": 0.191166,
+      "text": "可"
+    },
+    {
+      "start": 25.117666,
+      "duration": 0.397041,
+      "text": "逐位"
+    },
+    {
+      "start": 25.529416,
+      "duration": 0.382333,
+      "text": "访问"
+    },
+    {
+      "start": 25.91175,
+      "duration": 0.08825,
+      "text": "的"
+    },
+    {
+      "start": 26.014708,
+      "duration": 0.602958,
+      "text": "成员"
+    },
+    {
+      "start": 27.044125,
+      "duration": 0.544125,
+      "text": "例如"
+    },
+    {
+      "start": 27.705875,
+      "duration": 0.235291,
+      "text": "P"
+    },
+    {
+      "start": 27.955875,
+      "duration": 0.191166,
+      "text": "一"
+    },
+    {
+      "start": 28.147041,
+      "duration": 0.602958,
+      "text": "字节"
+    },
+    {
+      "start": 28.882333,
+      "duration": 0.441166,
+      "text": "地址"
+    },
+    {
+      "start": 29.33825,
+      "duration": 0.632333,
+      "text": "九零"
+    },
+    {
+      "start": 30.25,
+      "duration": 0.279416,
+      "text": "P"
+    },
+    {
+      "start": 30.544125,
+      "duration": 0.573541,
+      "text": "一点零"
+    },
+    {
+      "start": 31.117666,
+      "duration": 0.102958,
+      "text": "的"
+    },
+    {
+      "start": 31.235291,
+      "duration": 0.220583,
+      "text": "位"
+    },
+    {
+      "start": 31.455875,
+      "duration": 0.529416,
+      "text": "地址"
+    },
+    {
+      "start": 32.014708,
+      "duration": 0.16175,
+      "text": "也"
+    },
+    {
+      "start": 32.191166,
+      "duration": 0.235291,
+      "text": "写"
+    },
+    {
+      "start": 32.426458,
+      "duration": 0.58825,
+      "text": "九零"
+    },
+    {
+      "start": 33.367666,
+      "duration": 0.205875,
+      "text": "由"
+    },
+    {
+      "start": 33.58825,
+      "duration": 0.441166,
+      "text": "指令"
+    },
+    {
+      "start": 34.044125,
+      "duration": 0.5,
+      "text": "区分"
+    },
+    {
+      "start": 34.573541,
+      "duration": 0.352958,
+      "text": "访问"
+    },
+    {
+      "start": 34.941166,
+      "duration": 0.5,
+      "text": "单位"
+    },
+    {
+      "start": 36.117666,
+      "duration": 0.455875,
+      "text": "必须"
+    },
+    {
+      "start": 36.573541,
+      "duration": 0.279416,
+      "text": "是"
+    },
+    {
+      "start": 36.882333,
+      "duration": 0.426458,
+      "text": "实际"
+    },
+    {
+      "start": 37.323541,
+      "duration": 0.617666,
+      "text": "实现"
+    },
+    {
+      "start": 38.058833,
+      "duration": 0.25,
+      "text": "且"
+    },
+    {
+      "start": 38.323541,
+      "duration": 0.426458,
+      "text": "支持"
+    },
+    {
+      "start": 38.75,
+      "duration": 0.220583,
+      "text": "位"
+    },
+    {
+      "start": 39.0,
+      "duration": 0.426458,
+      "text": "寻址"
+    },
+    {
+      "start": 39.426458,
+      "duration": 0.117666,
+      "text": "的"
+    },
+    {
+      "start": 39.558833,
+      "duration": 0.794125,
+      "text": "寄存器"
+    },
+    {
+      "start": 40.720583,
+      "duration": 0.323541,
+      "text": "不能"
+    },
+    {
+      "start": 41.058833,
+      "duration": 0.264708,
+      "text": "凭"
+    },
+    {
+      "start": 41.352958,
+      "duration": 0.441166,
+      "text": "空洞"
+    },
+    {
+      "start": 41.808833,
+      "duration": 0.367625,
+      "text": "地址"
+    },
+    {
+      "start": 42.176458,
+      "duration": 0.117666,
+      "text": "的"
+    },
+    {
+      "start": 42.308833,
+      "duration": 0.573541,
+      "text": "格式"
+    },
+    {
+      "start": 42.91175,
+      "duration": 0.397041,
+      "text": "认定"
+    },
+    {
+      "start": 43.323541,
+      "duration": 0.529416,
+      "text": "功能"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

@@ -1,0 +1,476 @@
+{
+  "id": "CH02-S13",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "378864265844ba45f481ea5eabd922866099a4508215c70160c0683c7bb94f84",
+  "text": "A和 A C C是同一个八位累加器；B配合乘除，也可暂存数据。数据指针 D P T R是十六位，由高字节 D P H和低字节 D P L组成。高字节一二、低字节三四，合起来是一二三四。\n程序计数器 P C跟踪指令流程，数据指针用于相应的数据访问或查表。两者都可能是十六位，但职责不同。S五二还有双数据指针等增强功能，不能把经典结构当成所有型号的全部资源。",
+  "duration": 43.464,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.264708,
+      "text": "A"
+    },
+    {
+      "start": 0.373541,
+      "duration": 0.41175,
+      "text": "和"
+    },
+    {
+      "start": 0.902958,
+      "duration": 0.220583,
+      "text": "A"
+    },
+    {
+      "start": 1.123541,
+      "duration": 0.279416,
+      "text": "C"
+    },
+    {
+      "start": 1.402958,
+      "duration": 0.397041,
+      "text": "C"
+    },
+    {
+      "start": 1.917666,
+      "duration": 0.235291,
+      "text": "是"
+    },
+    {
+      "start": 2.152958,
+      "duration": 0.220583,
+      "text": "同"
+    },
+    {
+      "start": 2.38825,
+      "duration": 0.235291,
+      "text": "一个"
+    },
+    {
+      "start": 2.652958,
+      "duration": 0.205875,
+      "text": "八"
+    },
+    {
+      "start": 2.858833,
+      "duration": 0.176458,
+      "text": "位"
+    },
+    {
+      "start": 3.05,
+      "duration": 0.823541,
+      "text": "累加器"
+    },
+    {
+      "start": 4.255875,
+      "duration": 0.25,
+      "text": "B"
+    },
+    {
+      "start": 4.520583,
+      "duration": 0.382333,
+      "text": "配合"
+    },
+    {
+      "start": 4.917666,
+      "duration": 0.676458,
+      "text": "乘除"
+    },
+    {
+      "start": 5.829416,
+      "duration": 0.191166,
+      "text": "也"
+    },
+    {
+      "start": 6.020583,
+      "duration": 0.176458,
+      "text": "可"
+    },
+    {
+      "start": 6.226458,
+      "duration": 0.25,
+      "text": "暂"
+    },
+    {
+      "start": 6.476458,
+      "duration": 0.205875,
+      "text": "存"
+    },
+    {
+      "start": 6.697041,
+      "duration": 0.573541,
+      "text": "数据"
+    },
+    {
+      "start": 7.955875,
+      "duration": 0.470583,
+      "text": "数据"
+    },
+    {
+      "start": 8.441166,
+      "duration": 0.573541,
+      "text": "指针"
+    },
+    {
+      "start": 9.132333,
+      "duration": 0.205875,
+      "text": "D"
+    },
+    {
+      "start": 9.33825,
+      "duration": 0.205875,
+      "text": "P"
+    },
+    {
+      "start": 9.558833,
+      "duration": 0.235291,
+      "text": "T"
+    },
+    {
+      "start": 9.794125,
+      "duration": 0.323541,
+      "text": "R"
+    },
+    {
+      "start": 10.132333,
+      "duration": 0.205875,
+      "text": "是"
+    },
+    {
+      "start": 10.352958,
+      "duration": 0.514708,
+      "text": "十六"
+    },
+    {
+      "start": 10.867666,
+      "duration": 0.308833,
+      "text": "位"
+    },
+    {
+      "start": 11.529416,
+      "duration": 0.294125,
+      "text": "由"
+    },
+    {
+      "start": 11.852958,
+      "duration": 0.602916,
+      "text": "高字节"
+    },
+    {
+      "start": 12.455875,
+      "duration": 0.220583,
+      "text": "D"
+    },
+    {
+      "start": 12.691166,
+      "duration": 0.294125,
+      "text": "P"
+    },
+    {
+      "start": 12.985291,
+      "duration": 0.397041,
+      "text": "H"
+    },
+    {
+      "start": 13.397041,
+      "duration": 0.279416,
+      "text": "和"
+    },
+    {
+      "start": 13.691166,
+      "duration": 0.602958,
+      "text": "低字节"
+    },
+    {
+      "start": 14.294125,
+      "duration": 0.25,
+      "text": "D"
+    },
+    {
+      "start": 14.558833,
+      "duration": 0.279416,
+      "text": "P"
+    },
+    {
+      "start": 14.83825,
+      "duration": 0.308833,
+      "text": "L"
+    },
+    {
+      "start": 15.16175,
+      "duration": 0.632333,
+      "text": "组成"
+    },
+    {
+      "start": 16.470583,
+      "duration": 0.617666,
+      "text": "高字节"
+    },
+    {
+      "start": 17.102958,
+      "duration": 0.470583,
+      "text": "一二"
+    },
+    {
+      "start": 17.867666,
+      "duration": 0.58825,
+      "text": "低字节"
+    },
+    {
+      "start": 18.470583,
+      "duration": 0.632333,
+      "text": "三四"
+    },
+    {
+      "start": 19.485291,
+      "duration": 0.191166,
+      "text": "合"
+    },
+    {
+      "start": 19.676458,
+      "duration": 0.441166,
+      "text": "起来"
+    },
+    {
+      "start": 20.147041,
+      "duration": 0.25,
+      "text": "是"
+    },
+    {
+      "start": 20.41175,
+      "duration": 1.029416,
+      "text": "一二三四"
+    },
+    {
+      "start": 22.117666,
+      "duration": 0.470583,
+      "text": "程序"
+    },
+    {
+      "start": 22.602958,
+      "duration": 0.367625,
+      "text": "计数"
+    },
+    {
+      "start": 22.970583,
+      "duration": 0.382333,
+      "text": "器"
+    },
+    {
+      "start": 23.470583,
+      "duration": 0.264708,
+      "text": "P"
+    },
+    {
+      "start": 23.735291,
+      "duration": 0.367666,
+      "text": "C"
+    },
+    {
+      "start": 24.117666,
+      "duration": 0.455875,
+      "text": "跟踪"
+    },
+    {
+      "start": 24.602958,
+      "duration": 0.352958,
+      "text": "指令"
+    },
+    {
+      "start": 24.970583,
+      "duration": 0.617666,
+      "text": "流程"
+    },
+    {
+      "start": 25.970583,
+      "duration": 0.41175,
+      "text": "数据"
+    },
+    {
+      "start": 26.397041,
+      "duration": 0.5,
+      "text": "指针"
+    },
+    {
+      "start": 26.926458,
+      "duration": 0.367666,
+      "text": "用于"
+    },
+    {
+      "start": 27.308833,
+      "duration": 0.455875,
+      "text": "相应"
+    },
+    {
+      "start": 27.764708,
+      "duration": 0.102958,
+      "text": "的"
+    },
+    {
+      "start": 27.897041,
+      "duration": 0.367666,
+      "text": "数据"
+    },
+    {
+      "start": 28.279416,
+      "duration": 0.544125,
+      "text": "访问"
+    },
+    {
+      "start": 28.852958,
+      "duration": 0.191166,
+      "text": "或"
+    },
+    {
+      "start": 29.058833,
+      "duration": 0.66175,
+      "text": "查表"
+    },
+    {
+      "start": 30.397041,
+      "duration": 0.544125,
+      "text": "两者"
+    },
+    {
+      "start": 30.970583,
+      "duration": 0.176458,
+      "text": "都"
+    },
+    {
+      "start": 31.147041,
+      "duration": 0.352958,
+      "text": "可能"
+    },
+    {
+      "start": 31.5,
+      "duration": 0.132333,
+      "text": "是"
+    },
+    {
+      "start": 31.66175,
+      "duration": 0.514708,
+      "text": "十六"
+    },
+    {
+      "start": 32.176458,
+      "duration": 0.279416,
+      "text": "位"
+    },
+    {
+      "start": 32.720583,
+      "duration": 0.220583,
+      "text": "但"
+    },
+    {
+      "start": 32.955875,
+      "duration": 0.455875,
+      "text": "职责"
+    },
+    {
+      "start": 33.426458,
+      "duration": 0.514708,
+      "text": "不同"
+    },
+    {
+      "start": 34.617666,
+      "duration": 0.352916,
+      "text": "S"
+    },
+    {
+      "start": 34.970583,
+      "duration": 0.25,
+      "text": "五"
+    },
+    {
+      "start": 35.220583,
+      "duration": 0.294125,
+      "text": "二"
+    },
+    {
+      "start": 35.529416,
+      "duration": 0.352958,
+      "text": "还有"
+    },
+    {
+      "start": 35.91175,
+      "duration": 0.25,
+      "text": "双"
+    },
+    {
+      "start": 36.16175,
+      "duration": 0.455875,
+      "text": "数据"
+    },
+    {
+      "start": 36.632333,
+      "duration": 0.441166,
+      "text": "指针"
+    },
+    {
+      "start": 37.073541,
+      "duration": 0.220583,
+      "text": "等"
+    },
+    {
+      "start": 37.323541,
+      "duration": 0.441166,
+      "text": "增强"
+    },
+    {
+      "start": 37.779416,
+      "duration": 0.514708,
+      "text": "功能"
+    },
+    {
+      "start": 38.66175,
+      "duration": 0.294125,
+      "text": "不能"
+    },
+    {
+      "start": 38.970583,
+      "duration": 0.176458,
+      "text": "把"
+    },
+    {
+      "start": 39.176458,
+      "duration": 0.441166,
+      "text": "经典"
+    },
+    {
+      "start": 39.632333,
+      "duration": 0.544125,
+      "text": "结构"
+    },
+    {
+      "start": 40.294125,
+      "duration": 0.455875,
+      "text": "当成"
+    },
+    {
+      "start": 40.779416,
+      "duration": 0.352958,
+      "text": "所有"
+    },
+    {
+      "start": 41.147041,
+      "duration": 0.455875,
+      "text": "型号"
+    },
+    {
+      "start": 41.602958,
+      "duration": 0.102958,
+      "text": "的"
+    },
+    {
+      "start": 41.735291,
+      "duration": 0.455875,
+      "text": "全部"
+    },
+    {
+      "start": 42.205875,
+      "duration": 0.573541,
+      "text": "资源"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

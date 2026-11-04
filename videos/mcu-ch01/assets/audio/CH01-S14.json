@@ -1,0 +1,401 @@
+{
+  "id": "CH01-S14",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "6be5797bc3d7fd906cb0a9c0cbb4ae38d4f5fbc2b6009fe52ca96b6d9de47b00",
+  "text": "十六进制逢十六进一，零到九之后用 A到 F表示十到十五。三二七 H按位权展开，是三乘二百五十六，加二乘十六，再加七，得到八百零七。\n小数同样按权展开，右边第一位权是十六分之一，第二位是二百五十六分之一。课件三 A B点一一的完整展开见画面，精确结果是九百三十九点零六六四零六二五；保留四位小数时应写约等号。",
+  "duration": 39.36,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 1.073541,
+      "text": "十六进制"
+    },
+    {
+      "start": 1.285291,
+      "duration": 0.264708,
+      "text": "逢"
+    },
+    {
+      "start": 1.564708,
+      "duration": 0.382333,
+      "text": "十六"
+    },
+    {
+      "start": 1.96175,
+      "duration": 0.573541,
+      "text": "进一"
+    },
+    {
+      "start": 2.932333,
+      "duration": 0.558833,
+      "text": "零到九"
+    },
+    {
+      "start": 3.505875,
+      "duration": 0.544125,
+      "text": "之后"
+    },
+    {
+      "start": 4.167666,
+      "duration": 0.25,
+      "text": "用"
+    },
+    {
+      "start": 4.432333,
+      "duration": 0.191166,
+      "text": "A"
+    },
+    {
+      "start": 4.623541,
+      "duration": 0.25,
+      "text": "到"
+    },
+    {
+      "start": 4.88825,
+      "duration": 0.294125,
+      "text": "F"
+    },
+    {
+      "start": 5.197041,
+      "duration": 0.441166,
+      "text": "表示"
+    },
+    {
+      "start": 5.667666,
+      "duration": 0.205875,
+      "text": "十"
+    },
+    {
+      "start": 5.873541,
+      "duration": 0.16175,
+      "text": "到"
+    },
+    {
+      "start": 6.05,
+      "duration": 0.602958,
+      "text": "十五"
+    },
+    {
+      "start": 7.33825,
+      "duration": 0.852916,
+      "text": "三二七"
+    },
+    {
+      "start": 8.191166,
+      "duration": 0.5,
+      "text": "H"
+    },
+    {
+      "start": 8.808833,
+      "duration": 0.220583,
+      "text": "按"
+    },
+    {
+      "start": 9.044125,
+      "duration": 0.455875,
+      "text": "位权"
+    },
+    {
+      "start": 9.514708,
+      "duration": 0.573541,
+      "text": "展开"
+    },
+    {
+      "start": 10.397041,
+      "duration": 0.191166,
+      "text": "是"
+    },
+    {
+      "start": 10.617666,
+      "duration": 0.264666,
+      "text": "三"
+    },
+    {
+      "start": 10.882333,
+      "duration": 0.308833,
+      "text": "乘"
+    },
+    {
+      "start": 11.220583,
+      "duration": 1.0,
+      "text": "二百五十六"
+    },
+    {
+      "start": 12.573541,
+      "duration": 0.220583,
+      "text": "加"
+    },
+    {
+      "start": 12.794125,
+      "duration": 0.191166,
+      "text": "二"
+    },
+    {
+      "start": 13.0,
+      "duration": 0.25,
+      "text": "乘"
+    },
+    {
+      "start": 13.25,
+      "duration": 0.514708,
+      "text": "十六"
+    },
+    {
+      "start": 14.073541,
+      "duration": 0.205875,
+      "text": "再"
+    },
+    {
+      "start": 14.294125,
+      "duration": 0.235291,
+      "text": "加"
+    },
+    {
+      "start": 14.529416,
+      "duration": 0.41175,
+      "text": "七"
+    },
+    {
+      "start": 15.16175,
+      "duration": 0.441166,
+      "text": "得到"
+    },
+    {
+      "start": 15.632333,
+      "duration": 0.941166,
+      "text": "八百零七"
+    },
+    {
+      "start": 17.25,
+      "duration": 0.573541,
+      "text": "小数"
+    },
+    {
+      "start": 17.852958,
+      "duration": 0.426458,
+      "text": "同样"
+    },
+    {
+      "start": 18.294125,
+      "duration": 0.191166,
+      "text": "按"
+    },
+    {
+      "start": 18.5,
+      "duration": 0.235291,
+      "text": "权"
+    },
+    {
+      "start": 18.75,
+      "duration": 0.544125,
+      "text": "展开"
+    },
+    {
+      "start": 19.676458,
+      "duration": 0.470583,
+      "text": "右边"
+    },
+    {
+      "start": 20.176458,
+      "duration": 0.294125,
+      "text": "第一"
+    },
+    {
+      "start": 20.470583,
+      "duration": 0.220583,
+      "text": "位"
+    },
+    {
+      "start": 20.705875,
+      "duration": 0.426458,
+      "text": "权"
+    },
+    {
+      "start": 21.235291,
+      "duration": 0.205875,
+      "text": "是"
+    },
+    {
+      "start": 21.455875,
+      "duration": 1.073541,
+      "text": "十六分之一"
+    },
+    {
+      "start": 22.985291,
+      "duration": 0.382333,
+      "text": "第二"
+    },
+    {
+      "start": 23.367666,
+      "duration": 0.294125,
+      "text": "位"
+    },
+    {
+      "start": 23.691166,
+      "duration": 0.308833,
+      "text": "是"
+    },
+    {
+      "start": 24.014708,
+      "duration": 0.941166,
+      "text": "二百五十六"
+    },
+    {
+      "start": 24.955875,
+      "duration": 0.205875,
+      "text": "分"
+    },
+    {
+      "start": 25.176458,
+      "duration": 0.5,
+      "text": "之一"
+    },
+    {
+      "start": 26.352958,
+      "duration": 0.5,
+      "text": "课件"
+    },
+    {
+      "start": 26.867666,
+      "duration": 0.308791,
+      "text": "三"
+    },
+    {
+      "start": 27.176458,
+      "duration": 0.220583,
+      "text": "A"
+    },
+    {
+      "start": 27.397041,
+      "duration": 0.25,
+      "text": "B"
+    },
+    {
+      "start": 27.647041,
+      "duration": 0.352958,
+      "text": "点"
+    },
+    {
+      "start": 28.117666,
+      "duration": 0.367625,
+      "text": "一一"
+    },
+    {
+      "start": 28.485291,
+      "duration": 0.102958,
+      "text": "的"
+    },
+    {
+      "start": 28.617666,
+      "duration": 0.470583,
+      "text": "完整"
+    },
+    {
+      "start": 29.102958,
+      "duration": 0.397041,
+      "text": "展开"
+    },
+    {
+      "start": 29.5,
+      "duration": 0.205875,
+      "text": "见"
+    },
+    {
+      "start": 29.720583,
+      "duration": 0.544125,
+      "text": "画面"
+    },
+    {
+      "start": 30.705875,
+      "duration": 0.41175,
+      "text": "精确"
+    },
+    {
+      "start": 31.132333,
+      "duration": 0.382333,
+      "text": "结果"
+    },
+    {
+      "start": 31.529416,
+      "duration": 0.382333,
+      "text": "是"
+    },
+    {
+      "start": 32.029416,
+      "duration": 1.0,
+      "text": "九百三十九"
+    },
+    {
+      "start": 33.029416,
+      "duration": 0.235291,
+      "text": "点"
+    },
+    {
+      "start": 33.279416,
+      "duration": 0.544125,
+      "text": "零六"
+    },
+    {
+      "start": 33.941166,
+      "duration": 0.205875,
+      "text": "六"
+    },
+    {
+      "start": 34.147041,
+      "duration": 0.485291,
+      "text": "四零"
+    },
+    {
+      "start": 34.647041,
+      "duration": 0.397041,
+      "text": "六二"
+    },
+    {
+      "start": 35.044125,
+      "duration": 0.33825,
+      "text": "五"
+    },
+    {
+      "start": 35.602958,
+      "duration": 0.426458,
+      "text": "保留"
+    },
+    {
+      "start": 36.058833,
+      "duration": 0.205875,
+      "text": "四"
+    },
+    {
+      "start": 36.264708,
+      "duration": 0.176458,
+      "text": "位"
+    },
+    {
+      "start": 36.455875,
+      "duration": 0.485291,
+      "text": "小数"
+    },
+    {
+      "start": 36.941166,
+      "duration": 0.41175,
+      "text": "时"
+    },
+    {
+      "start": 37.455875,
+      "duration": 0.205875,
+      "text": "应"
+    },
+    {
+      "start": 37.66175,
+      "duration": 0.426458,
+      "text": "写约"
+    },
+    {
+      "start": 38.102958,
+      "duration": 0.558833,
+      "text": "等号"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

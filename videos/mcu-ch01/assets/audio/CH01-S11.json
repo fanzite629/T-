@@ -1,0 +1,406 @@
+{
+  "id": "CH01-S11",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "53248e68a5610205cf8d5978dd317a1fca050bd133fac9b92c74346938a5950d",
+  "text": "读内部框图时先分工：处理器执行程序，程序存储器保存指令，运行存储器 R A M暂存数据；时钟提供节拍，定时器计时或计数，并口、串口交换信号，中断帮助响应事件。\n按键经接口送入，处理器判断后更新数据，再输出控制。风扇等负载通常还需外部驱动，不能看到输出引脚就认为它能直接带动所有设备。学习新芯片，也按这张功能清单寻找资源。",
+  "duration": 42.384,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.25,
+      "text": "读"
+    },
+    {
+      "start": 0.38825,
+      "duration": 0.352958,
+      "text": "内部"
+    },
+    {
+      "start": 0.755875,
+      "duration": 0.441166,
+      "text": "框图"
+    },
+    {
+      "start": 1.197041,
+      "duration": 0.279416,
+      "text": "时"
+    },
+    {
+      "start": 1.505875,
+      "duration": 0.25,
+      "text": "先"
+    },
+    {
+      "start": 1.770583,
+      "duration": 0.514708,
+      "text": "分工"
+    },
+    {
+      "start": 2.682333,
+      "duration": 0.705875,
+      "text": "处理器"
+    },
+    {
+      "start": 3.417666,
+      "duration": 0.41175,
+      "text": "执行"
+    },
+    {
+      "start": 3.844125,
+      "duration": 0.647041,
+      "text": "程序"
+    },
+    {
+      "start": 4.785291,
+      "duration": 0.426458,
+      "text": "程序"
+    },
+    {
+      "start": 5.226458,
+      "duration": 0.808833,
+      "text": "存储器"
+    },
+    {
+      "start": 6.064708,
+      "duration": 0.485291,
+      "text": "保存"
+    },
+    {
+      "start": 6.564708,
+      "duration": 0.529416,
+      "text": "指令"
+    },
+    {
+      "start": 7.382333,
+      "duration": 0.470583,
+      "text": "运行"
+    },
+    {
+      "start": 7.867666,
+      "duration": 0.852958,
+      "text": "存储器"
+    },
+    {
+      "start": 8.83825,
+      "duration": 0.308791,
+      "text": "R"
+    },
+    {
+      "start": 9.147041,
+      "duration": 0.264708,
+      "text": "A"
+    },
+    {
+      "start": 9.426458,
+      "duration": 0.397041,
+      "text": "M"
+    },
+    {
+      "start": 9.83825,
+      "duration": 0.264708,
+      "text": "暂"
+    },
+    {
+      "start": 10.102958,
+      "duration": 0.191166,
+      "text": "存"
+    },
+    {
+      "start": 10.308833,
+      "duration": 0.602958,
+      "text": "数据"
+    },
+    {
+      "start": 11.323541,
+      "duration": 0.470583,
+      "text": "时钟"
+    },
+    {
+      "start": 11.823541,
+      "duration": 0.367666,
+      "text": "提供"
+    },
+    {
+      "start": 12.205875,
+      "duration": 0.58825,
+      "text": "节拍"
+    },
+    {
+      "start": 13.147041,
+      "duration": 0.735291,
+      "text": "定时器"
+    },
+    {
+      "start": 13.91175,
+      "duration": 0.41175,
+      "text": "计时"
+    },
+    {
+      "start": 14.352958,
+      "duration": 0.176458,
+      "text": "或"
+    },
+    {
+      "start": 14.544125,
+      "duration": 0.617666,
+      "text": "计数"
+    },
+    {
+      "start": 15.470583,
+      "duration": 0.632333,
+      "text": "并口"
+    },
+    {
+      "start": 16.308833,
+      "duration": 0.5,
+      "text": "串口"
+    },
+    {
+      "start": 16.83825,
+      "duration": 0.426458,
+      "text": "交换"
+    },
+    {
+      "start": 17.279416,
+      "duration": 0.602958,
+      "text": "信号"
+    },
+    {
+      "start": 18.16175,
+      "duration": 0.485291,
+      "text": "中断"
+    },
+    {
+      "start": 18.66175,
+      "duration": 0.455875,
+      "text": "帮助"
+    },
+    {
+      "start": 19.147041,
+      "duration": 0.426458,
+      "text": "响应"
+    },
+    {
+      "start": 19.58825,
+      "duration": 0.58825,
+      "text": "事件"
+    },
+    {
+      "start": 20.852958,
+      "duration": 0.514708,
+      "text": "按键"
+    },
+    {
+      "start": 21.397041,
+      "duration": 0.367666,
+      "text": "经接"
+    },
+    {
+      "start": 21.764708,
+      "duration": 0.220583,
+      "text": "口"
+    },
+    {
+      "start": 22.0,
+      "duration": 0.544125,
+      "text": "送入"
+    },
+    {
+      "start": 22.91175,
+      "duration": 0.558833,
+      "text": "处理器"
+    },
+    {
+      "start": 23.485291,
+      "duration": 0.455875,
+      "text": "判断"
+    },
+    {
+      "start": 23.941166,
+      "duration": 0.367666,
+      "text": "后"
+    },
+    {
+      "start": 24.41175,
+      "duration": 0.441166,
+      "text": "更新"
+    },
+    {
+      "start": 24.867666,
+      "duration": 0.573541,
+      "text": "数据"
+    },
+    {
+      "start": 25.66175,
+      "duration": 0.205875,
+      "text": "再"
+    },
+    {
+      "start": 25.882333,
+      "duration": 0.426458,
+      "text": "输出"
+    },
+    {
+      "start": 26.323541,
+      "duration": 0.573541,
+      "text": "控制"
+    },
+    {
+      "start": 27.573541,
+      "duration": 0.544125,
+      "text": "风扇"
+    },
+    {
+      "start": 28.117666,
+      "duration": 0.205875,
+      "text": "等"
+    },
+    {
+      "start": 28.33825,
+      "duration": 0.544125,
+      "text": "负载"
+    },
+    {
+      "start": 29.0,
+      "duration": 0.426458,
+      "text": "通常"
+    },
+    {
+      "start": 29.441166,
+      "duration": 0.235291,
+      "text": "还"
+    },
+    {
+      "start": 29.676458,
+      "duration": 0.191166,
+      "text": "需"
+    },
+    {
+      "start": 29.897041,
+      "duration": 0.367666,
+      "text": "外部"
+    },
+    {
+      "start": 30.279416,
+      "duration": 0.529416,
+      "text": "驱动"
+    },
+    {
+      "start": 31.235291,
+      "duration": 0.279416,
+      "text": "不能"
+    },
+    {
+      "start": 31.529416,
+      "duration": 0.397041,
+      "text": "看到"
+    },
+    {
+      "start": 31.955875,
+      "duration": 0.367666,
+      "text": "输出"
+    },
+    {
+      "start": 32.33825,
+      "duration": 0.66175,
+      "text": "引脚"
+    },
+    {
+      "start": 33.117666,
+      "duration": 0.191166,
+      "text": "就"
+    },
+    {
+      "start": 33.323541,
+      "duration": 0.602958,
+      "text": "认为"
+    },
+    {
+      "start": 34.058833,
+      "duration": 0.191166,
+      "text": "它"
+    },
+    {
+      "start": 34.25,
+      "duration": 0.16175,
+      "text": "能"
+    },
+    {
+      "start": 34.426458,
+      "duration": 0.382333,
+      "text": "直接"
+    },
+    {
+      "start": 34.823541,
+      "duration": 0.426458,
+      "text": "带动"
+    },
+    {
+      "start": 35.279416,
+      "duration": 0.441166,
+      "text": "所有"
+    },
+    {
+      "start": 35.735291,
+      "duration": 0.573541,
+      "text": "设备"
+    },
+    {
+      "start": 36.985291,
+      "duration": 0.514708,
+      "text": "学习"
+    },
+    {
+      "start": 37.529416,
+      "duration": 0.25,
+      "text": "新"
+    },
+    {
+      "start": 37.779416,
+      "duration": 0.632333,
+      "text": "芯片"
+    },
+    {
+      "start": 38.735291,
+      "duration": 0.16175,
+      "text": "也"
+    },
+    {
+      "start": 38.897041,
+      "duration": 0.191166,
+      "text": "按"
+    },
+    {
+      "start": 39.102958,
+      "duration": 0.147041,
+      "text": "这"
+    },
+    {
+      "start": 39.25,
+      "duration": 0.220583,
+      "text": "张"
+    },
+    {
+      "start": 39.5,
+      "duration": 0.352958,
+      "text": "功能"
+    },
+    {
+      "start": 39.867666,
+      "duration": 0.58825,
+      "text": "清单"
+    },
+    {
+      "start": 40.558833,
+      "duration": 0.470583,
+      "text": "寻找"
+    },
+    {
+      "start": 41.044125,
+      "duration": 0.647041,
+      "text": "资源"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

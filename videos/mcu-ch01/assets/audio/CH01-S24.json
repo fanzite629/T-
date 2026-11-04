@@ -1,0 +1,391 @@
+{
+  "id": "CH01-S24",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "9b9b168824748be89e6f76024d946d9db9cb80b2fe06893dca629e6d7cf5b5b8",
+  "text": "练习以正负十三示范：十三写成八位零零零零一一零一，正数编码不变；负十三原码是八 D，补码是 F三，也就是二百五十六减十三。\n剩余正负零、正负一、正负十分屏列出完整二进制与十六进制答案。特别注意负零的原码是八零，补码归为零零；负一补码是全一。反过来，F三当无符号数是二百四十三，当八位补码则减二百五十六，得到负十三。",
+  "duration": 40.056,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.602958,
+      "text": "练习"
+    },
+    {
+      "start": 0.741166,
+      "duration": 0.147041,
+      "text": "以"
+    },
+    {
+      "start": 0.902958,
+      "duration": 0.455875,
+      "text": "正负"
+    },
+    {
+      "start": 1.373541,
+      "duration": 0.441166,
+      "text": "十三"
+    },
+    {
+      "start": 1.829416,
+      "duration": 0.544125,
+      "text": "示范"
+    },
+    {
+      "start": 2.770583,
+      "duration": 0.426458,
+      "text": "十三"
+    },
+    {
+      "start": 3.21175,
+      "duration": 0.205875,
+      "text": "写"
+    },
+    {
+      "start": 3.417666,
+      "duration": 0.323541,
+      "text": "成"
+    },
+    {
+      "start": 3.770583,
+      "duration": 0.220583,
+      "text": "八"
+    },
+    {
+      "start": 3.991166,
+      "duration": 0.294125,
+      "text": "位"
+    },
+    {
+      "start": 4.314708,
+      "duration": 0.83825,
+      "text": "零零零零"
+    },
+    {
+      "start": 5.167666,
+      "duration": 0.955875,
+      "text": "一一零一"
+    },
+    {
+      "start": 6.447041,
+      "duration": 0.441166,
+      "text": "正数"
+    },
+    {
+      "start": 6.902958,
+      "duration": 0.397041,
+      "text": "编码"
+    },
+    {
+      "start": 7.314708,
+      "duration": 0.205875,
+      "text": "不"
+    },
+    {
+      "start": 7.520583,
+      "duration": 0.352958,
+      "text": "变"
+    },
+    {
+      "start": 8.073541,
+      "duration": 0.676458,
+      "text": "负十三"
+    },
+    {
+      "start": 8.75,
+      "duration": 0.529416,
+      "text": "原码"
+    },
+    {
+      "start": 9.382333,
+      "duration": 0.191166,
+      "text": "是"
+    },
+    {
+      "start": 9.58825,
+      "duration": 0.25,
+      "text": "八"
+    },
+    {
+      "start": 9.83825,
+      "duration": 0.308833,
+      "text": "D"
+    },
+    {
+      "start": 10.470583,
+      "duration": 0.382333,
+      "text": "补码"
+    },
+    {
+      "start": 10.867666,
+      "duration": 0.25,
+      "text": "是"
+    },
+    {
+      "start": 11.132333,
+      "duration": 0.279416,
+      "text": "F"
+    },
+    {
+      "start": 11.41175,
+      "duration": 0.41175,
+      "text": "三"
+    },
+    {
+      "start": 12.16175,
+      "duration": 0.176458,
+      "text": "也"
+    },
+    {
+      "start": 12.33825,
+      "duration": 0.16175,
+      "text": "就"
+    },
+    {
+      "start": 12.5,
+      "duration": 0.25,
+      "text": "是"
+    },
+    {
+      "start": 12.779416,
+      "duration": 0.91175,
+      "text": "二百五十六"
+    },
+    {
+      "start": 13.691166,
+      "duration": 0.205875,
+      "text": "减"
+    },
+    {
+      "start": 13.91175,
+      "duration": 0.58825,
+      "text": "十三"
+    },
+    {
+      "start": 15.176458,
+      "duration": 0.514708,
+      "text": "剩余"
+    },
+    {
+      "start": 15.720583,
+      "duration": 0.235291,
+      "text": "正"
+    },
+    {
+      "start": 15.955875,
+      "duration": 0.58825,
+      "text": "负零"
+    },
+    {
+      "start": 16.735291,
+      "duration": 0.264708,
+      "text": "正"
+    },
+    {
+      "start": 17.0,
+      "duration": 0.544125,
+      "text": "负一"
+    },
+    {
+      "start": 17.867666,
+      "duration": 0.397041,
+      "text": "正负"
+    },
+    {
+      "start": 18.279416,
+      "duration": 0.83825,
+      "text": "十分屏"
+    },
+    {
+      "start": 19.235291,
+      "duration": 0.41175,
+      "text": "列出"
+    },
+    {
+      "start": 19.676458,
+      "duration": 0.397041,
+      "text": "完整"
+    },
+    {
+      "start": 20.08825,
+      "duration": 0.794125,
+      "text": "二进制"
+    },
+    {
+      "start": 21.0,
+      "duration": 0.191166,
+      "text": "与"
+    },
+    {
+      "start": 21.205875,
+      "duration": 0.83825,
+      "text": "十六进制"
+    },
+    {
+      "start": 22.058833,
+      "duration": 0.485291,
+      "text": "答案"
+    },
+    {
+      "start": 23.220583,
+      "duration": 0.426458,
+      "text": "特别"
+    },
+    {
+      "start": 23.66175,
+      "duration": 0.573541,
+      "text": "注意"
+    },
+    {
+      "start": 24.352958,
+      "duration": 0.41175,
+      "text": "负零"
+    },
+    {
+      "start": 24.764708,
+      "duration": 0.102958,
+      "text": "的"
+    },
+    {
+      "start": 24.882333,
+      "duration": 0.441166,
+      "text": "原码"
+    },
+    {
+      "start": 25.352958,
+      "duration": 0.176458,
+      "text": "是"
+    },
+    {
+      "start": 25.544125,
+      "duration": 0.632333,
+      "text": "八零"
+    },
+    {
+      "start": 26.455875,
+      "duration": 0.41175,
+      "text": "补码"
+    },
+    {
+      "start": 26.867666,
+      "duration": 0.397041,
+      "text": "归为"
+    },
+    {
+      "start": 27.279416,
+      "duration": 0.573541,
+      "text": "零零"
+    },
+    {
+      "start": 28.264708,
+      "duration": 0.397041,
+      "text": "负一"
+    },
+    {
+      "start": 28.676458,
+      "duration": 0.397041,
+      "text": "补码"
+    },
+    {
+      "start": 29.102958,
+      "duration": 0.16175,
+      "text": "是"
+    },
+    {
+      "start": 29.279416,
+      "duration": 0.352916,
+      "text": "全"
+    },
+    {
+      "start": 29.632333,
+      "duration": 0.323541,
+      "text": "一"
+    },
+    {
+      "start": 30.617666,
+      "duration": 0.764708,
+      "text": "反过来"
+    },
+    {
+      "start": 31.720583,
+      "duration": 0.235291,
+      "text": "F"
+    },
+    {
+      "start": 31.970583,
+      "duration": 0.294125,
+      "text": "三"
+    },
+    {
+      "start": 32.264708,
+      "duration": 0.205875,
+      "text": "当"
+    },
+    {
+      "start": 32.485291,
+      "duration": 0.205875,
+      "text": "无"
+    },
+    {
+      "start": 32.691166,
+      "duration": 0.808833,
+      "text": "符号数"
+    },
+    {
+      "start": 33.529416,
+      "duration": 0.220583,
+      "text": "是"
+    },
+    {
+      "start": 33.764708,
+      "duration": 1.08825,
+      "text": "二百四十三"
+    },
+    {
+      "start": 35.308833,
+      "duration": 0.220583,
+      "text": "当"
+    },
+    {
+      "start": 35.529416,
+      "duration": 0.205875,
+      "text": "八"
+    },
+    {
+      "start": 35.735291,
+      "duration": 0.176458,
+      "text": "位"
+    },
+    {
+      "start": 35.926458,
+      "duration": 0.485291,
+      "text": "补码"
+    },
+    {
+      "start": 36.529416,
+      "duration": 0.220583,
+      "text": "则"
+    },
+    {
+      "start": 36.75,
+      "duration": 0.264708,
+      "text": "减"
+    },
+    {
+      "start": 37.044125,
+      "duration": 1.0,
+      "text": "二百五十六"
+    },
+    {
+      "start": 38.294125,
+      "duration": 0.367666,
+      "text": "得到"
+    },
+    {
+      "start": 38.691166,
+      "duration": 0.676458,
+      "text": "负十三"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

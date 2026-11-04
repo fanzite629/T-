@@ -1,0 +1,176 @@
+{
+  "id": "CH02-S22",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "35b76ff37268e9061566032a05f872359c98a7cb309c7ca09c5fe7a767587279",
+  "text": "这里对应课件的空白页，我们做一次检查：程序空间零零三零存一二，外部数据空间同号地址存五六，矛盾吗？不矛盾，空间不同。接着看指令怎样选择空间。",
+  "duration": 17.808,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.382333,
+      "text": "这里"
+    },
+    {
+      "start": 0.505875,
+      "duration": 0.323541,
+      "text": "对应"
+    },
+    {
+      "start": 0.844125,
+      "duration": 0.426458,
+      "text": "课件"
+    },
+    {
+      "start": 1.270583,
+      "duration": 0.08825,
+      "text": "的"
+    },
+    {
+      "start": 1.373541,
+      "duration": 0.455875,
+      "text": "空白"
+    },
+    {
+      "start": 1.829416,
+      "duration": 0.323541,
+      "text": "页"
+    },
+    {
+      "start": 2.491166,
+      "duration": 0.25,
+      "text": "我们"
+    },
+    {
+      "start": 2.755875,
+      "duration": 0.176458,
+      "text": "做"
+    },
+    {
+      "start": 2.932333,
+      "duration": 0.294125,
+      "text": "一次"
+    },
+    {
+      "start": 3.241166,
+      "duration": 0.632333,
+      "text": "检查"
+    },
+    {
+      "start": 4.21175,
+      "duration": 0.41175,
+      "text": "程序"
+    },
+    {
+      "start": 4.63825,
+      "duration": 0.58825,
+      "text": "空间"
+    },
+    {
+      "start": 5.255875,
+      "duration": 1.073541,
+      "text": "零零三零存"
+    },
+    {
+      "start": 6.344125,
+      "duration": 0.470583,
+      "text": "一二"
+    },
+    {
+      "start": 7.08825,
+      "duration": 0.382333,
+      "text": "外部"
+    },
+    {
+      "start": 7.485291,
+      "duration": 0.367666,
+      "text": "数据"
+    },
+    {
+      "start": 7.867666,
+      "duration": 0.558833,
+      "text": "空间"
+    },
+    {
+      "start": 8.455875,
+      "duration": 0.426458,
+      "text": "同号"
+    },
+    {
+      "start": 8.897041,
+      "duration": 0.382333,
+      "text": "地址"
+    },
+    {
+      "start": 9.308833,
+      "duration": 0.235291,
+      "text": "存"
+    },
+    {
+      "start": 9.544125,
+      "duration": 0.5,
+      "text": "五六"
+    },
+    {
+      "start": 10.323541,
+      "duration": 0.397041,
+      "text": "矛盾"
+    },
+    {
+      "start": 10.720583,
+      "duration": 0.308833,
+      "text": "吗"
+    },
+    {
+      "start": 11.691166,
+      "duration": 0.191166,
+      "text": "不"
+    },
+    {
+      "start": 11.882333,
+      "duration": 0.558833,
+      "text": "矛盾"
+    },
+    {
+      "start": 12.720583,
+      "duration": 0.5,
+      "text": "空间"
+    },
+    {
+      "start": 13.235291,
+      "duration": 0.558833,
+      "text": "不同"
+    },
+    {
+      "start": 14.455875,
+      "duration": 0.352958,
+      "text": "接着"
+    },
+    {
+      "start": 14.823541,
+      "duration": 0.264708,
+      "text": "看"
+    },
+    {
+      "start": 15.08825,
+      "duration": 0.529416,
+      "text": "指令"
+    },
+    {
+      "start": 15.735291,
+      "duration": 0.441166,
+      "text": "怎样"
+    },
+    {
+      "start": 16.191166,
+      "duration": 0.352958,
+      "text": "选择"
+    },
+    {
+      "start": 16.558833,
+      "duration": 0.558833,
+      "text": "空间"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

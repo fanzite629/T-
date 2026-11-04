@@ -1,0 +1,366 @@
+{
+  "id": "CH01-S10",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "a312e67fccadea54d3f28b10f62683844ba02d519189d9064efb1f0cdf2f4613",
+  "text": "课件展示了仪器、工业控制和日常设备。看鼠标、光驱、U盘：它们分别处理操作、机械控制或数据传输，但都可以沿输入、处理、输出来分析。图中的器件与实现以原课件为例。\n选型还要看环境。商业、工业等温度等级是工作条件，具体上下限须查对应型号，不能把课件示例当成所有单片机的统一规格。",
+  "duration": 36.504,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.455875,
+      "text": "课件"
+    },
+    {
+      "start": 0.579416,
+      "duration": 0.441166,
+      "text": "展示"
+    },
+    {
+      "start": 1.020583,
+      "duration": 0.102958,
+      "text": "了"
+    },
+    {
+      "start": 1.152958,
+      "duration": 0.617666,
+      "text": "仪器"
+    },
+    {
+      "start": 2.020583,
+      "duration": 0.382333,
+      "text": "工业"
+    },
+    {
+      "start": 2.417666,
+      "duration": 0.647041,
+      "text": "控制"
+    },
+    {
+      "start": 3.182333,
+      "duration": 0.191166,
+      "text": "和"
+    },
+    {
+      "start": 3.38825,
+      "duration": 0.441166,
+      "text": "日常"
+    },
+    {
+      "start": 3.844125,
+      "duration": 0.558833,
+      "text": "设备"
+    },
+    {
+      "start": 5.08825,
+      "duration": 0.279416,
+      "text": "看"
+    },
+    {
+      "start": 5.367666,
+      "duration": 0.602958,
+      "text": "鼠标"
+    },
+    {
+      "start": 6.191166,
+      "duration": 0.66175,
+      "text": "光驱"
+    },
+    {
+      "start": 7.073541,
+      "duration": 0.220583,
+      "text": "U"
+    },
+    {
+      "start": 7.294125,
+      "duration": 0.426458,
+      "text": "盘"
+    },
+    {
+      "start": 8.102958,
+      "duration": 0.308833,
+      "text": "它们"
+    },
+    {
+      "start": 8.426458,
+      "duration": 0.41175,
+      "text": "分别"
+    },
+    {
+      "start": 8.852958,
+      "duration": 0.367666,
+      "text": "处理"
+    },
+    {
+      "start": 9.235291,
+      "duration": 0.573541,
+      "text": "操作"
+    },
+    {
+      "start": 10.132333,
+      "duration": 0.426458,
+      "text": "机械"
+    },
+    {
+      "start": 10.573541,
+      "duration": 0.602958,
+      "text": "控制"
+    },
+    {
+      "start": 11.279416,
+      "duration": 0.235291,
+      "text": "或"
+    },
+    {
+      "start": 11.529416,
+      "duration": 0.352958,
+      "text": "数据"
+    },
+    {
+      "start": 11.897041,
+      "duration": 0.647041,
+      "text": "传输"
+    },
+    {
+      "start": 12.970583,
+      "duration": 0.191166,
+      "text": "但"
+    },
+    {
+      "start": 13.176458,
+      "duration": 0.176458,
+      "text": "都"
+    },
+    {
+      "start": 13.367666,
+      "duration": 0.279375,
+      "text": "可以"
+    },
+    {
+      "start": 13.647041,
+      "duration": 0.235291,
+      "text": "沿"
+    },
+    {
+      "start": 13.897041,
+      "duration": 0.544125,
+      "text": "输入"
+    },
+    {
+      "start": 14.676458,
+      "duration": 0.617666,
+      "text": "处理"
+    },
+    {
+      "start": 15.573541,
+      "duration": 0.338208,
+      "text": "输"
+    },
+    {
+      "start": 15.91175,
+      "duration": 0.323541,
+      "text": "出来"
+    },
+    {
+      "start": 16.25,
+      "duration": 0.647041,
+      "text": "分析"
+    },
+    {
+      "start": 17.573541,
+      "duration": 0.235291,
+      "text": "图"
+    },
+    {
+      "start": 17.808833,
+      "duration": 0.191166,
+      "text": "中"
+    },
+    {
+      "start": 18.0,
+      "duration": 0.102958,
+      "text": "的"
+    },
+    {
+      "start": 18.117666,
+      "duration": 0.544125,
+      "text": "器件"
+    },
+    {
+      "start": 18.691166,
+      "duration": 0.117666,
+      "text": "与"
+    },
+    {
+      "start": 18.823541,
+      "duration": 0.66175,
+      "text": "实现"
+    },
+    {
+      "start": 19.602958,
+      "duration": 0.176458,
+      "text": "以"
+    },
+    {
+      "start": 19.794125,
+      "duration": 0.735291,
+      "text": "原课件"
+    },
+    {
+      "start": 20.544125,
+      "duration": 0.235291,
+      "text": "为"
+    },
+    {
+      "start": 20.779416,
+      "duration": 0.279416,
+      "text": "例"
+    },
+    {
+      "start": 21.720583,
+      "duration": 0.632333,
+      "text": "选型"
+    },
+    {
+      "start": 22.382333,
+      "duration": 0.308833,
+      "text": "还要"
+    },
+    {
+      "start": 22.705875,
+      "duration": 0.25,
+      "text": "看"
+    },
+    {
+      "start": 22.955875,
+      "duration": 0.632333,
+      "text": "环境"
+    },
+    {
+      "start": 24.25,
+      "duration": 0.705875,
+      "text": "商业"
+    },
+    {
+      "start": 25.16175,
+      "duration": 0.426458,
+      "text": "工业"
+    },
+    {
+      "start": 25.58825,
+      "duration": 0.205875,
+      "text": "等"
+    },
+    {
+      "start": 25.823541,
+      "duration": 0.426458,
+      "text": "温度"
+    },
+    {
+      "start": 26.264708,
+      "duration": 0.41175,
+      "text": "等级"
+    },
+    {
+      "start": 26.676458,
+      "duration": 0.191166,
+      "text": "是"
+    },
+    {
+      "start": 26.882333,
+      "duration": 0.367666,
+      "text": "工作"
+    },
+    {
+      "start": 27.264708,
+      "duration": 0.602958,
+      "text": "条件"
+    },
+    {
+      "start": 28.294125,
+      "duration": 0.352958,
+      "text": "具体"
+    },
+    {
+      "start": 28.66175,
+      "duration": 0.220583,
+      "text": "上"
+    },
+    {
+      "start": 28.882333,
+      "duration": 0.617666,
+      "text": "下限"
+    },
+    {
+      "start": 29.602958,
+      "duration": 0.235291,
+      "text": "须"
+    },
+    {
+      "start": 29.83825,
+      "duration": 0.279416,
+      "text": "查"
+    },
+    {
+      "start": 30.147041,
+      "duration": 0.33825,
+      "text": "对应"
+    },
+    {
+      "start": 30.5,
+      "duration": 0.617666,
+      "text": "型号"
+    },
+    {
+      "start": 31.397041,
+      "duration": 0.323541,
+      "text": "不能"
+    },
+    {
+      "start": 31.735291,
+      "duration": 0.176458,
+      "text": "把"
+    },
+    {
+      "start": 31.941166,
+      "duration": 0.441166,
+      "text": "课件"
+    },
+    {
+      "start": 32.397041,
+      "duration": 0.602958,
+      "text": "示例"
+    },
+    {
+      "start": 33.117666,
+      "duration": 0.455875,
+      "text": "当成"
+    },
+    {
+      "start": 33.602958,
+      "duration": 0.41175,
+      "text": "所有"
+    },
+    {
+      "start": 34.029416,
+      "duration": 0.602916,
+      "text": "单片机"
+    },
+    {
+      "start": 34.632333,
+      "duration": 0.102958,
+      "text": "的"
+    },
+    {
+      "start": 34.764708,
+      "duration": 0.455875,
+      "text": "统一"
+    },
+    {
+      "start": 35.235291,
+      "duration": 0.58825,
+      "text": "规格"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

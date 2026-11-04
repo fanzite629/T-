@@ -1,0 +1,391 @@
+{
+  "id": "CH01-S06",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "e73e1093211ae4b49b759d983bee656f2fa28e2ff4c49f05dabc8f98ff5d4bcd",
+  "text": "三总线分别回答：找谁、传什么、怎样传。地址总线指定位置，数据总线搬运内容，控制总线给出读写等信号。\n例如读取十六进制地址三零：先给地址，再发读信号，该单元的五 A沿数据线返回处理器。三零是位置，五 A是内容，就像房间号与房内物品。即使某组引脚先传地址、后传数据，这三种逻辑作用仍要分清。",
+  "duration": 38.016,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.338208,
+      "text": "三"
+    },
+    {
+      "start": 0.447041,
+      "duration": 0.485291,
+      "text": "总线"
+    },
+    {
+      "start": 0.96175,
+      "duration": 0.33825,
+      "text": "分别"
+    },
+    {
+      "start": 1.314708,
+      "duration": 0.558833,
+      "text": "回答"
+    },
+    {
+      "start": 2.226458,
+      "duration": 0.279416,
+      "text": "找"
+    },
+    {
+      "start": 2.505875,
+      "duration": 0.397041,
+      "text": "谁"
+    },
+    {
+      "start": 3.108833,
+      "duration": 0.735291,
+      "text": "传什么"
+    },
+    {
+      "start": 4.13825,
+      "duration": 0.426458,
+      "text": "怎样"
+    },
+    {
+      "start": 4.564708,
+      "duration": 0.41175,
+      "text": "传"
+    },
+    {
+      "start": 5.647041,
+      "duration": 0.41175,
+      "text": "地址"
+    },
+    {
+      "start": 6.073541,
+      "duration": 0.558833,
+      "text": "总线"
+    },
+    {
+      "start": 6.66175,
+      "duration": 0.33825,
+      "text": "指定"
+    },
+    {
+      "start": 7.014708,
+      "duration": 0.602958,
+      "text": "位置"
+    },
+    {
+      "start": 8.014708,
+      "duration": 0.397041,
+      "text": "数据"
+    },
+    {
+      "start": 8.426458,
+      "duration": 0.529416,
+      "text": "总线"
+    },
+    {
+      "start": 8.985291,
+      "duration": 0.382333,
+      "text": "搬运"
+    },
+    {
+      "start": 9.382333,
+      "duration": 0.544125,
+      "text": "内容"
+    },
+    {
+      "start": 10.220583,
+      "duration": 0.367666,
+      "text": "控制"
+    },
+    {
+      "start": 10.602958,
+      "duration": 0.617666,
+      "text": "总线"
+    },
+    {
+      "start": 11.25,
+      "duration": 0.455875,
+      "text": "给出"
+    },
+    {
+      "start": 11.735291,
+      "duration": 0.455875,
+      "text": "读写"
+    },
+    {
+      "start": 12.191166,
+      "duration": 0.191166,
+      "text": "等"
+    },
+    {
+      "start": 12.397041,
+      "duration": 0.58825,
+      "text": "信号"
+    },
+    {
+      "start": 13.66175,
+      "duration": 0.602958,
+      "text": "例如"
+    },
+    {
+      "start": 14.382333,
+      "duration": 0.5,
+      "text": "读取"
+    },
+    {
+      "start": 14.91175,
+      "duration": 0.91175,
+      "text": "十六进制"
+    },
+    {
+      "start": 15.83825,
+      "duration": 0.382333,
+      "text": "地址"
+    },
+    {
+      "start": 16.235291,
+      "duration": 0.647041,
+      "text": "三零"
+    },
+    {
+      "start": 17.16175,
+      "duration": 0.264708,
+      "text": "先"
+    },
+    {
+      "start": 17.426458,
+      "duration": 0.16175,
+      "text": "给"
+    },
+    {
+      "start": 17.602958,
+      "duration": 0.573541,
+      "text": "地址"
+    },
+    {
+      "start": 18.485291,
+      "duration": 0.235291,
+      "text": "再"
+    },
+    {
+      "start": 18.720583,
+      "duration": 0.352958,
+      "text": "发读"
+    },
+    {
+      "start": 19.08825,
+      "duration": 0.617666,
+      "text": "信号"
+    },
+    {
+      "start": 20.044125,
+      "duration": 0.205875,
+      "text": "该"
+    },
+    {
+      "start": 20.25,
+      "duration": 0.397041,
+      "text": "单元"
+    },
+    {
+      "start": 20.647041,
+      "duration": 0.117666,
+      "text": "的"
+    },
+    {
+      "start": 20.779416,
+      "duration": 0.235291,
+      "text": "五"
+    },
+    {
+      "start": 21.014708,
+      "duration": 0.205875,
+      "text": "A"
+    },
+    {
+      "start": 21.220583,
+      "duration": 0.235291,
+      "text": "沿"
+    },
+    {
+      "start": 21.470583,
+      "duration": 0.75,
+      "text": "数据线"
+    },
+    {
+      "start": 22.25,
+      "duration": 0.441166,
+      "text": "返回"
+    },
+    {
+      "start": 22.705875,
+      "duration": 0.779416,
+      "text": "处理器"
+    },
+    {
+      "start": 24.16175,
+      "duration": 0.514708,
+      "text": "三零"
+    },
+    {
+      "start": 24.705875,
+      "duration": 0.132333,
+      "text": "是"
+    },
+    {
+      "start": 24.852958,
+      "duration": 0.632333,
+      "text": "位置"
+    },
+    {
+      "start": 25.794125,
+      "duration": 0.25,
+      "text": "五"
+    },
+    {
+      "start": 26.044125,
+      "duration": 0.205875,
+      "text": "A"
+    },
+    {
+      "start": 26.25,
+      "duration": 0.176458,
+      "text": "是"
+    },
+    {
+      "start": 26.441166,
+      "duration": 0.529416,
+      "text": "内容"
+    },
+    {
+      "start": 27.235291,
+      "duration": 0.176458,
+      "text": "就"
+    },
+    {
+      "start": 27.41175,
+      "duration": 0.205875,
+      "text": "像"
+    },
+    {
+      "start": 27.647041,
+      "duration": 0.823541,
+      "text": "房间号"
+    },
+    {
+      "start": 28.58825,
+      "duration": 0.147041,
+      "text": "与"
+    },
+    {
+      "start": 28.75,
+      "duration": 0.25,
+      "text": "房"
+    },
+    {
+      "start": 29.0,
+      "duration": 0.191166,
+      "text": "内"
+    },
+    {
+      "start": 29.205875,
+      "duration": 0.529416,
+      "text": "物品"
+    },
+    {
+      "start": 30.41175,
+      "duration": 0.426458,
+      "text": "即使"
+    },
+    {
+      "start": 30.867666,
+      "duration": 0.235291,
+      "text": "某"
+    },
+    {
+      "start": 31.102958,
+      "duration": 0.33825,
+      "text": "组"
+    },
+    {
+      "start": 31.470583,
+      "duration": 0.25,
+      "text": "引"
+    },
+    {
+      "start": 31.720583,
+      "duration": 0.235291,
+      "text": "脚"
+    },
+    {
+      "start": 31.985291,
+      "duration": 0.235291,
+      "text": "先"
+    },
+    {
+      "start": 32.220583,
+      "duration": 0.220583,
+      "text": "传"
+    },
+    {
+      "start": 32.455875,
+      "duration": 0.544125,
+      "text": "地址"
+    },
+    {
+      "start": 33.264708,
+      "duration": 0.191166,
+      "text": "后"
+    },
+    {
+      "start": 33.455875,
+      "duration": 0.235291,
+      "text": "传"
+    },
+    {
+      "start": 33.705875,
+      "duration": 0.544125,
+      "text": "数据"
+    },
+    {
+      "start": 34.647041,
+      "duration": 0.191166,
+      "text": "这"
+    },
+    {
+      "start": 34.83825,
+      "duration": 0.264708,
+      "text": "三"
+    },
+    {
+      "start": 35.102958,
+      "duration": 0.176458,
+      "text": "种"
+    },
+    {
+      "start": 35.308833,
+      "duration": 0.308833,
+      "text": "逻辑"
+    },
+    {
+      "start": 35.632333,
+      "duration": 0.544125,
+      "text": "作用"
+    },
+    {
+      "start": 36.294125,
+      "duration": 0.220583,
+      "text": "仍"
+    },
+    {
+      "start": 36.514708,
+      "duration": 0.220583,
+      "text": "要"
+    },
+    {
+      "start": 36.75,
+      "duration": 0.573541,
+      "text": "分清"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

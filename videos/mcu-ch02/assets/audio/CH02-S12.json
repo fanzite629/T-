@@ -1,0 +1,421 @@
+{
+  "id": "CH02-S12",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "ac721159cd11bf9d3e8c2dfbf3c38255c87e0b4db7947ef734b2208eeba68f79",
+  "text": "特殊功能寄存器，简称 S F R，是程序控制硬件、读取状态的接口。经典八零五一有二十一个，课件所列 S五二有三十二个。\n地址范围八零到 F F共有一百二十八个位置，但存在空洞，并非都有寄存器。表按运算、端口、定时、中断和串行分组展示。例如写 P一地址九零会影响端口，写 T M O D会改变定时器方式；星号表示支持位寻址。先认识功能，再用表查地址。",
+  "duration": 43.776,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.470583,
+      "text": "特殊"
+    },
+    {
+      "start": 0.594125,
+      "duration": 0.382333,
+      "text": "功能"
+    },
+    {
+      "start": 0.991166,
+      "duration": 0.794125,
+      "text": "寄存器"
+    },
+    {
+      "start": 2.094125,
+      "duration": 0.66175,
+      "text": "简称"
+    },
+    {
+      "start": 2.785291,
+      "duration": 0.323541,
+      "text": "S"
+    },
+    {
+      "start": 3.123541,
+      "duration": 0.294125,
+      "text": "F"
+    },
+    {
+      "start": 3.417666,
+      "duration": 0.294125,
+      "text": "R"
+    },
+    {
+      "start": 4.020583,
+      "duration": 0.235291,
+      "text": "是"
+    },
+    {
+      "start": 4.270583,
+      "duration": 0.794125,
+      "text": "程序控制"
+    },
+    {
+      "start": 5.079416,
+      "duration": 0.573541,
+      "text": "硬件"
+    },
+    {
+      "start": 5.873541,
+      "duration": 0.441166,
+      "text": "读取"
+    },
+    {
+      "start": 6.329416,
+      "duration": 0.41175,
+      "text": "状态"
+    },
+    {
+      "start": 6.741166,
+      "duration": 0.08825,
+      "text": "的"
+    },
+    {
+      "start": 6.844125,
+      "duration": 0.58825,
+      "text": "接口"
+    },
+    {
+      "start": 8.117666,
+      "duration": 0.514708,
+      "text": "经典"
+    },
+    {
+      "start": 8.66175,
+      "duration": 0.83825,
+      "text": "八零五一"
+    },
+    {
+      "start": 9.5,
+      "duration": 0.205875,
+      "text": "有"
+    },
+    {
+      "start": 9.735291,
+      "duration": 0.573541,
+      "text": "二十一"
+    },
+    {
+      "start": 10.308833,
+      "duration": 0.264708,
+      "text": "个"
+    },
+    {
+      "start": 10.91175,
+      "duration": 0.441166,
+      "text": "课件"
+    },
+    {
+      "start": 11.367666,
+      "duration": 0.235291,
+      "text": "所"
+    },
+    {
+      "start": 11.602958,
+      "duration": 0.308791,
+      "text": "列"
+    },
+    {
+      "start": 11.91175,
+      "duration": 0.294125,
+      "text": "S"
+    },
+    {
+      "start": 12.220583,
+      "duration": 0.235291,
+      "text": "五"
+    },
+    {
+      "start": 12.455875,
+      "duration": 0.308833,
+      "text": "二"
+    },
+    {
+      "start": 12.794125,
+      "duration": 0.235291,
+      "text": "有"
+    },
+    {
+      "start": 13.044125,
+      "duration": 0.632333,
+      "text": "三十二"
+    },
+    {
+      "start": 13.676458,
+      "duration": 0.294125,
+      "text": "个"
+    },
+    {
+      "start": 14.632333,
+      "duration": 0.397041,
+      "text": "地址"
+    },
+    {
+      "start": 15.044125,
+      "duration": 0.382333,
+      "text": "范围"
+    },
+    {
+      "start": 15.426458,
+      "duration": 0.617666,
+      "text": "八零"
+    },
+    {
+      "start": 16.176458,
+      "duration": 0.294125,
+      "text": "到"
+    },
+    {
+      "start": 16.470583,
+      "duration": 0.294125,
+      "text": "F"
+    },
+    {
+      "start": 16.779416,
+      "duration": 0.352958,
+      "text": "F"
+    },
+    {
+      "start": 17.147041,
+      "duration": 0.441166,
+      "text": "共有"
+    },
+    {
+      "start": 17.617666,
+      "duration": 0.485291,
+      "text": "一百二"
+    },
+    {
+      "start": 18.117666,
+      "duration": 0.544125,
+      "text": "十八个"
+    },
+    {
+      "start": 18.676458,
+      "duration": 0.573541,
+      "text": "位置"
+    },
+    {
+      "start": 19.676458,
+      "duration": 0.205875,
+      "text": "但"
+    },
+    {
+      "start": 19.897041,
+      "duration": 0.382333,
+      "text": "存在"
+    },
+    {
+      "start": 20.294125,
+      "duration": 0.544125,
+      "text": "空洞"
+    },
+    {
+      "start": 21.08825,
+      "duration": 0.529416,
+      "text": "并非"
+    },
+    {
+      "start": 21.632333,
+      "duration": 0.176458,
+      "text": "都"
+    },
+    {
+      "start": 21.808833,
+      "duration": 0.16175,
+      "text": "有"
+    },
+    {
+      "start": 21.985291,
+      "duration": 0.794125,
+      "text": "寄存器"
+    },
+    {
+      "start": 23.455875,
+      "duration": 0.441166,
+      "text": "表按"
+    },
+    {
+      "start": 23.926458,
+      "duration": 0.602958,
+      "text": "运算"
+    },
+    {
+      "start": 24.75,
+      "duration": 0.66175,
+      "text": "端口"
+    },
+    {
+      "start": 25.632333,
+      "duration": 0.647041,
+      "text": "定时"
+    },
+    {
+      "start": 26.5,
+      "duration": 0.602958,
+      "text": "中断"
+    },
+    {
+      "start": 27.220583,
+      "duration": 0.16175,
+      "text": "和"
+    },
+    {
+      "start": 27.397041,
+      "duration": 0.5,
+      "text": "串行"
+    },
+    {
+      "start": 27.926458,
+      "duration": 0.382333,
+      "text": "分组"
+    },
+    {
+      "start": 28.323541,
+      "duration": 0.617666,
+      "text": "展示"
+    },
+    {
+      "start": 29.617666,
+      "duration": 0.41175,
+      "text": "例如"
+    },
+    {
+      "start": 30.058833,
+      "duration": 0.25,
+      "text": "写"
+    },
+    {
+      "start": 30.308833,
+      "duration": 0.220583,
+      "text": "P"
+    },
+    {
+      "start": 30.544125,
+      "duration": 0.176458,
+      "text": "一"
+    },
+    {
+      "start": 30.720583,
+      "duration": 0.573541,
+      "text": "地址"
+    },
+    {
+      "start": 31.41175,
+      "duration": 0.647041,
+      "text": "九零会"
+    },
+    {
+      "start": 32.073541,
+      "duration": 0.397041,
+      "text": "影响"
+    },
+    {
+      "start": 32.485291,
+      "duration": 0.58825,
+      "text": "端口"
+    },
+    {
+      "start": 33.455875,
+      "duration": 0.367666,
+      "text": "写"
+    },
+    {
+      "start": 33.941166,
+      "duration": 0.294125,
+      "text": "T"
+    },
+    {
+      "start": 34.235291,
+      "duration": 0.264708,
+      "text": "M"
+    },
+    {
+      "start": 34.514708,
+      "duration": 0.205875,
+      "text": "O"
+    },
+    {
+      "start": 34.720583,
+      "duration": 0.279416,
+      "text": "D"
+    },
+    {
+      "start": 35.0,
+      "duration": 0.220583,
+      "text": "会"
+    },
+    {
+      "start": 35.235291,
+      "duration": 0.470583,
+      "text": "改变"
+    },
+    {
+      "start": 35.735291,
+      "duration": 0.529416,
+      "text": "定时器"
+    },
+    {
+      "start": 36.279416,
+      "duration": 0.602958,
+      "text": "方式"
+    },
+    {
+      "start": 37.323541,
+      "duration": 0.426458,
+      "text": "星号"
+    },
+    {
+      "start": 37.764708,
+      "duration": 0.514708,
+      "text": "表示"
+    },
+    {
+      "start": 38.308833,
+      "duration": 0.397041,
+      "text": "支持"
+    },
+    {
+      "start": 38.705875,
+      "duration": 0.176458,
+      "text": "位"
+    },
+    {
+      "start": 38.897041,
+      "duration": 0.617666,
+      "text": "寻址"
+    },
+    {
+      "start": 40.191166,
+      "duration": 0.323541,
+      "text": "先"
+    },
+    {
+      "start": 40.514708,
+      "duration": 0.33825,
+      "text": "认识"
+    },
+    {
+      "start": 40.867666,
+      "duration": 0.558833,
+      "text": "功能"
+    },
+    {
+      "start": 41.676458,
+      "duration": 0.602958,
+      "text": "再用表"
+    },
+    {
+      "start": 42.279416,
+      "duration": 0.220583,
+      "text": "查"
+    },
+    {
+      "start": 42.514708,
+      "duration": 0.58825,
+      "text": "地址"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

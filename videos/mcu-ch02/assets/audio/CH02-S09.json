@@ -1,0 +1,406 @@
+{
+  "id": "CH02-S09",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "794c8f6152d704b94261f5167ec0d0a726efe8c4dbcb8ca9cd0ff7ab20c9daaa",
+  "text": "E A决定程序从哪里取。八零五一中，E A为一时，零零零零到零 F F F用片内四 K，后面转片外；为零时，程序全部从片外取。八零三一没有片内程序，因此要接片外程序存储器。\nS五二片内八 K的边界改为一 F F F，下一地址二零零零进入片外。注意我们始终在讨论程序空间，E A不负责选择数据存储器。",
+  "duration": 37.776,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.25,
+      "text": "E"
+    },
+    {
+      "start": 0.358833,
+      "duration": 0.294125,
+      "text": "A"
+    },
+    {
+      "start": 0.667666,
+      "duration": 0.397041,
+      "text": "决定"
+    },
+    {
+      "start": 1.079416,
+      "duration": 0.602958,
+      "text": "程序"
+    },
+    {
+      "start": 1.71175,
+      "duration": 0.205875,
+      "text": "从"
+    },
+    {
+      "start": 1.932333,
+      "duration": 0.41175,
+      "text": "哪里"
+    },
+    {
+      "start": 2.344125,
+      "duration": 0.367666,
+      "text": "取"
+    },
+    {
+      "start": 3.382333,
+      "duration": 0.808833,
+      "text": "八零五一"
+    },
+    {
+      "start": 4.191166,
+      "duration": 0.323541,
+      "text": "中"
+    },
+    {
+      "start": 4.823541,
+      "duration": 0.25,
+      "text": "E"
+    },
+    {
+      "start": 5.073541,
+      "duration": 0.220583,
+      "text": "A"
+    },
+    {
+      "start": 5.294125,
+      "duration": 0.220583,
+      "text": "为"
+    },
+    {
+      "start": 5.529416,
+      "duration": 0.617666,
+      "text": "一时"
+    },
+    {
+      "start": 6.485291,
+      "duration": 0.882333,
+      "text": "零零零零"
+    },
+    {
+      "start": 7.382333,
+      "duration": 0.264708,
+      "text": "到"
+    },
+    {
+      "start": 7.66175,
+      "duration": 0.323541,
+      "text": "零"
+    },
+    {
+      "start": 7.985291,
+      "duration": 0.294125,
+      "text": "F"
+    },
+    {
+      "start": 8.294125,
+      "duration": 0.308833,
+      "text": "F"
+    },
+    {
+      "start": 8.617666,
+      "duration": 0.441166,
+      "text": "F"
+    },
+    {
+      "start": 9.191166,
+      "duration": 0.235291,
+      "text": "用"
+    },
+    {
+      "start": 9.441166,
+      "duration": 0.220583,
+      "text": "片"
+    },
+    {
+      "start": 9.66175,
+      "duration": 0.147041,
+      "text": "内"
+    },
+    {
+      "start": 9.823541,
+      "duration": 0.264708,
+      "text": "四"
+    },
+    {
+      "start": 10.08825,
+      "duration": 0.352958,
+      "text": "K"
+    },
+    {
+      "start": 10.83825,
+      "duration": 0.352958,
+      "text": "后面"
+    },
+    {
+      "start": 11.205875,
+      "duration": 0.455875,
+      "text": "转片"
+    },
+    {
+      "start": 11.66175,
+      "duration": 0.294125,
+      "text": "外"
+    },
+    {
+      "start": 12.323541,
+      "duration": 0.176458,
+      "text": "为"
+    },
+    {
+      "start": 12.514708,
+      "duration": 0.676458,
+      "text": "零时"
+    },
+    {
+      "start": 13.455875,
+      "duration": 0.529416,
+      "text": "程序"
+    },
+    {
+      "start": 14.014708,
+      "duration": 0.441166,
+      "text": "全部"
+    },
+    {
+      "start": 14.470583,
+      "duration": 0.205875,
+      "text": "从"
+    },
+    {
+      "start": 14.705875,
+      "duration": 0.205875,
+      "text": "片"
+    },
+    {
+      "start": 14.91175,
+      "duration": 0.58825,
+      "text": "外取"
+    },
+    {
+      "start": 16.16175,
+      "duration": 1.029416,
+      "text": "八零三一"
+    },
+    {
+      "start": 17.308833,
+      "duration": 0.294125,
+      "text": "没有"
+    },
+    {
+      "start": 17.617666,
+      "duration": 0.235291,
+      "text": "片"
+    },
+    {
+      "start": 17.852958,
+      "duration": 0.16175,
+      "text": "内"
+    },
+    {
+      "start": 18.029416,
+      "duration": 0.617666,
+      "text": "程序"
+    },
+    {
+      "start": 19.058833,
+      "duration": 0.58825,
+      "text": "因此"
+    },
+    {
+      "start": 19.66175,
+      "duration": 0.205875,
+      "text": "要"
+    },
+    {
+      "start": 19.867666,
+      "duration": 0.426458,
+      "text": "接片"
+    },
+    {
+      "start": 20.294125,
+      "duration": 0.220583,
+      "text": "外"
+    },
+    {
+      "start": 20.529416,
+      "duration": 0.455875,
+      "text": "程序"
+    },
+    {
+      "start": 21.0,
+      "duration": 0.882333,
+      "text": "存储器"
+    },
+    {
+      "start": 22.558833,
+      "duration": 0.352916,
+      "text": "S"
+    },
+    {
+      "start": 22.91175,
+      "duration": 0.176458,
+      "text": "五"
+    },
+    {
+      "start": 23.08825,
+      "duration": 0.205875,
+      "text": "二"
+    },
+    {
+      "start": 23.294125,
+      "duration": 0.308833,
+      "text": "片"
+    },
+    {
+      "start": 23.602958,
+      "duration": 0.308833,
+      "text": "内"
+    },
+    {
+      "start": 24.029416,
+      "duration": 0.205875,
+      "text": "八"
+    },
+    {
+      "start": 24.235291,
+      "duration": 0.191166,
+      "text": "K"
+    },
+    {
+      "start": 24.426458,
+      "duration": 0.08825,
+      "text": "的"
+    },
+    {
+      "start": 24.529416,
+      "duration": 0.58825,
+      "text": "边界"
+    },
+    {
+      "start": 25.235291,
+      "duration": 0.485291,
+      "text": "改为"
+    },
+    {
+      "start": 25.75,
+      "duration": 0.264708,
+      "text": "一"
+    },
+    {
+      "start": 26.014708,
+      "duration": 0.308833,
+      "text": "F"
+    },
+    {
+      "start": 26.33825,
+      "duration": 0.294125,
+      "text": "F"
+    },
+    {
+      "start": 26.647041,
+      "duration": 0.441166,
+      "text": "F"
+    },
+    {
+      "start": 27.5,
+      "duration": 0.264708,
+      "text": "下"
+    },
+    {
+      "start": 27.779416,
+      "duration": 0.132333,
+      "text": "一"
+    },
+    {
+      "start": 27.91175,
+      "duration": 0.441166,
+      "text": "地址"
+    },
+    {
+      "start": 28.382333,
+      "duration": 0.91175,
+      "text": "二零零零"
+    },
+    {
+      "start": 29.323541,
+      "duration": 0.33825,
+      "text": "进入"
+    },
+    {
+      "start": 29.676458,
+      "duration": 0.602958,
+      "text": "片外"
+    },
+    {
+      "start": 30.955875,
+      "duration": 0.367666,
+      "text": "注意"
+    },
+    {
+      "start": 31.33825,
+      "duration": 0.25,
+      "text": "我们"
+    },
+    {
+      "start": 31.617666,
+      "duration": 0.470583,
+      "text": "始终"
+    },
+    {
+      "start": 32.102958,
+      "duration": 0.176458,
+      "text": "在"
+    },
+    {
+      "start": 32.294125,
+      "duration": 0.470583,
+      "text": "讨论"
+    },
+    {
+      "start": 32.794125,
+      "duration": 0.367666,
+      "text": "程序"
+    },
+    {
+      "start": 33.176458,
+      "duration": 0.617666,
+      "text": "空间"
+    },
+    {
+      "start": 34.117666,
+      "duration": 0.279375,
+      "text": "E"
+    },
+    {
+      "start": 34.397041,
+      "duration": 0.264708,
+      "text": "A"
+    },
+    {
+      "start": 34.676458,
+      "duration": 0.220583,
+      "text": "不"
+    },
+    {
+      "start": 34.897041,
+      "duration": 0.41175,
+      "text": "负责"
+    },
+    {
+      "start": 35.323541,
+      "duration": 0.455875,
+      "text": "选择"
+    },
+    {
+      "start": 35.808833,
+      "duration": 0.382333,
+      "text": "数据"
+    },
+    {
+      "start": 36.205875,
+      "duration": 0.882333,
+      "text": "存储器"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

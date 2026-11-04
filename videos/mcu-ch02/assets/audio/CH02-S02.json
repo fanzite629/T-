@@ -1,0 +1,421 @@
+{
+  "id": "CH02-S02",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "a00fe1ca9e07c6588bca6fc0bf3c71e869d14f91ef52c72caf33e0909e457508",
+  "text": "八零三一没有片内程序存储器，八零五一有四 K字节，两者运行存储器都是一百二十八字节。A T八九 S五二有八 K闪存、二百五十六字节运行存储，定时器从两个增至三个。\n程序地址空间共六十四 K。表中的六十 K或五十六 K，是使用片内程序区时剩下的片外区间；选择全部片外时，可寻址六十四 K。十二兆赫是本课计算示例，型号能力要分别查表。",
+  "duration": 41.52,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 1.0,
+      "text": "八零三一"
+    },
+    {
+      "start": 1.226458,
+      "duration": 0.279416,
+      "text": "没有"
+    },
+    {
+      "start": 1.520583,
+      "duration": 0.426458,
+      "text": "片内"
+    },
+    {
+      "start": 1.96175,
+      "duration": 0.367666,
+      "text": "程序"
+    },
+    {
+      "start": 2.344125,
+      "duration": 0.794125,
+      "text": "存储器"
+    },
+    {
+      "start": 3.55,
+      "duration": 0.897041,
+      "text": "八零五一"
+    },
+    {
+      "start": 4.476458,
+      "duration": 0.205875,
+      "text": "有"
+    },
+    {
+      "start": 4.697041,
+      "duration": 0.279416,
+      "text": "四"
+    },
+    {
+      "start": 4.976458,
+      "duration": 0.220583,
+      "text": "K"
+    },
+    {
+      "start": 5.21175,
+      "duration": 0.544125,
+      "text": "字节"
+    },
+    {
+      "start": 6.014708,
+      "duration": 0.279416,
+      "text": "两"
+    },
+    {
+      "start": 6.294125,
+      "duration": 0.176458,
+      "text": "者"
+    },
+    {
+      "start": 6.485291,
+      "duration": 0.455875,
+      "text": "运行"
+    },
+    {
+      "start": 6.955875,
+      "duration": 0.852958,
+      "text": "存储器"
+    },
+    {
+      "start": 7.941166,
+      "duration": 0.191166,
+      "text": "都"
+    },
+    {
+      "start": 8.132333,
+      "duration": 0.16175,
+      "text": "是"
+    },
+    {
+      "start": 8.323541,
+      "duration": 0.882333,
+      "text": "一百二十八"
+    },
+    {
+      "start": 9.220583,
+      "duration": 0.602958,
+      "text": "字节"
+    },
+    {
+      "start": 10.5,
+      "duration": 0.220583,
+      "text": "A"
+    },
+    {
+      "start": 10.720583,
+      "duration": 0.235291,
+      "text": "T"
+    },
+    {
+      "start": 10.970583,
+      "duration": 0.573541,
+      "text": "八九"
+    },
+    {
+      "start": 11.544125,
+      "duration": 0.294125,
+      "text": "S"
+    },
+    {
+      "start": 11.852958,
+      "duration": 0.264708,
+      "text": "五"
+    },
+    {
+      "start": 12.117666,
+      "duration": 0.308833,
+      "text": "二"
+    },
+    {
+      "start": 12.544125,
+      "duration": 0.235291,
+      "text": "有"
+    },
+    {
+      "start": 12.794125,
+      "duration": 0.220583,
+      "text": "八"
+    },
+    {
+      "start": 13.014708,
+      "duration": 0.205875,
+      "text": "K"
+    },
+    {
+      "start": 13.235291,
+      "duration": 0.720583,
+      "text": "闪存"
+    },
+    {
+      "start": 14.205875,
+      "duration": 0.985291,
+      "text": "二百五十六"
+    },
+    {
+      "start": 15.205875,
+      "duration": 0.41175,
+      "text": "字节"
+    },
+    {
+      "start": 15.647041,
+      "duration": 0.352958,
+      "text": "运行"
+    },
+    {
+      "start": 16.014708,
+      "duration": 0.617666,
+      "text": "存储"
+    },
+    {
+      "start": 17.044125,
+      "duration": 0.794125,
+      "text": "定时器"
+    },
+    {
+      "start": 17.867666,
+      "duration": 0.25,
+      "text": "从"
+    },
+    {
+      "start": 18.132333,
+      "duration": 0.220583,
+      "text": "两"
+    },
+    {
+      "start": 18.352958,
+      "duration": 0.073541,
+      "text": "个"
+    },
+    {
+      "start": 18.455875,
+      "duration": 0.33825,
+      "text": "增至"
+    },
+    {
+      "start": 18.808833,
+      "duration": 0.352916,
+      "text": "三"
+    },
+    {
+      "start": 19.16175,
+      "duration": 0.264708,
+      "text": "个"
+    },
+    {
+      "start": 20.08825,
+      "duration": 0.5,
+      "text": "程序"
+    },
+    {
+      "start": 20.602958,
+      "duration": 0.367666,
+      "text": "地址"
+    },
+    {
+      "start": 20.985291,
+      "duration": 0.632333,
+      "text": "空间"
+    },
+    {
+      "start": 21.720583,
+      "duration": 0.25,
+      "text": "共"
+    },
+    {
+      "start": 21.985291,
+      "duration": 0.617666,
+      "text": "六十四"
+    },
+    {
+      "start": 22.602958,
+      "duration": 0.367666,
+      "text": "K"
+    },
+    {
+      "start": 23.632333,
+      "duration": 0.264708,
+      "text": "表"
+    },
+    {
+      "start": 23.897041,
+      "duration": 0.191166,
+      "text": "中"
+    },
+    {
+      "start": 24.08825,
+      "duration": 0.102958,
+      "text": "的"
+    },
+    {
+      "start": 24.220583,
+      "duration": 0.382333,
+      "text": "六十"
+    },
+    {
+      "start": 24.602958,
+      "duration": 0.382333,
+      "text": "K"
+    },
+    {
+      "start": 25.102958,
+      "duration": 0.235291,
+      "text": "或"
+    },
+    {
+      "start": 25.352958,
+      "duration": 0.617625,
+      "text": "五十六"
+    },
+    {
+      "start": 25.970583,
+      "duration": 0.308833,
+      "text": "K"
+    },
+    {
+      "start": 26.632333,
+      "duration": 0.176458,
+      "text": "是"
+    },
+    {
+      "start": 26.823541,
+      "duration": 0.485291,
+      "text": "使用"
+    },
+    {
+      "start": 27.33825,
+      "duration": 0.25,
+      "text": "片"
+    },
+    {
+      "start": 27.58825,
+      "duration": 0.176458,
+      "text": "内"
+    },
+    {
+      "start": 27.779416,
+      "duration": 0.720583,
+      "text": "程序区"
+    },
+    {
+      "start": 28.5,
+      "duration": 0.426458,
+      "text": "时"
+    },
+    {
+      "start": 29.029416,
+      "duration": 0.485291,
+      "text": "剩下"
+    },
+    {
+      "start": 29.514708,
+      "duration": 0.102958,
+      "text": "的"
+    },
+    {
+      "start": 29.647041,
+      "duration": 0.676458,
+      "text": "片外区"
+    },
+    {
+      "start": 30.323541,
+      "duration": 0.33825,
+      "text": "间"
+    },
+    {
+      "start": 31.058833,
+      "duration": 0.441166,
+      "text": "选择"
+    },
+    {
+      "start": 31.529416,
+      "duration": 0.691166,
+      "text": "全部片"
+    },
+    {
+      "start": 32.220583,
+      "duration": 0.25,
+      "text": "外"
+    },
+    {
+      "start": 32.470583,
+      "duration": 0.397041,
+      "text": "时"
+    },
+    {
+      "start": 33.147041,
+      "duration": 0.220583,
+      "text": "可"
+    },
+    {
+      "start": 33.367666,
+      "duration": 0.5,
+      "text": "寻址"
+    },
+    {
+      "start": 33.897041,
+      "duration": 0.617666,
+      "text": "六十四"
+    },
+    {
+      "start": 34.514708,
+      "duration": 0.382333,
+      "text": "K"
+    },
+    {
+      "start": 35.558833,
+      "duration": 0.426458,
+      "text": "十二"
+    },
+    {
+      "start": 36.0,
+      "duration": 0.58825,
+      "text": "兆赫"
+    },
+    {
+      "start": 36.691166,
+      "duration": 0.191166,
+      "text": "是"
+    },
+    {
+      "start": 36.897041,
+      "duration": 0.455875,
+      "text": "本课"
+    },
+    {
+      "start": 37.382333,
+      "duration": 0.352958,
+      "text": "计算"
+    },
+    {
+      "start": 37.75,
+      "duration": 0.529416,
+      "text": "示例"
+    },
+    {
+      "start": 38.617666,
+      "duration": 0.41175,
+      "text": "型号"
+    },
+    {
+      "start": 39.044125,
+      "duration": 0.5,
+      "text": "能力"
+    },
+    {
+      "start": 39.573541,
+      "duration": 0.205875,
+      "text": "要"
+    },
+    {
+      "start": 39.794125,
+      "duration": 0.41175,
+      "text": "分别"
+    },
+    {
+      "start": 40.220583,
+      "duration": 0.617666,
+      "text": "查表"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

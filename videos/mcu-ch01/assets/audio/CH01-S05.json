@@ -1,0 +1,381 @@
+{
+  "id": "CH01-S05",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "4e97bd6c268c2db6b3160fddf3c22d4b412f981cc73a047a284e6255174f380b",
+  "text": "运算器、控制器等处理核心集成成微处理器，也就是 C P U。加上存储器与输入输出接口，构成微型计算机基本硬件；再配外围设备、电源和软件，成为可用系统。看课件实物图，把内存、键盘、显示器对应到各自功能。\n四零零四在一九七一年十一月正式商业发布。我们借这段历史理解集成化：一颗处理器需要周围条件配合，才成为能工作的计算机。",
+  "duration": 41.112,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.897041,
+      "text": "运算器"
+    },
+    {
+      "start": 1.21175,
+      "duration": 0.66175,
+      "text": "控制器"
+    },
+    {
+      "start": 1.873541,
+      "duration": 0.191166,
+      "text": "等"
+    },
+    {
+      "start": 2.094125,
+      "duration": 0.323541,
+      "text": "处理"
+    },
+    {
+      "start": 2.432333,
+      "duration": 0.632333,
+      "text": "核心"
+    },
+    {
+      "start": 3.182333,
+      "duration": 0.470583,
+      "text": "集成"
+    },
+    {
+      "start": 3.652958,
+      "duration": 0.382333,
+      "text": "成微"
+    },
+    {
+      "start": 4.05,
+      "duration": 0.779416,
+      "text": "处理器"
+    },
+    {
+      "start": 5.167666,
+      "duration": 0.176458,
+      "text": "也"
+    },
+    {
+      "start": 5.344125,
+      "duration": 0.205875,
+      "text": "就"
+    },
+    {
+      "start": 5.55,
+      "duration": 0.367666,
+      "text": "是"
+    },
+    {
+      "start": 6.020583,
+      "duration": 0.308833,
+      "text": "C"
+    },
+    {
+      "start": 6.329416,
+      "duration": 0.279416,
+      "text": "P"
+    },
+    {
+      "start": 6.608833,
+      "duration": 0.33825,
+      "text": "U"
+    },
+    {
+      "start": 7.617666,
+      "duration": 0.441166,
+      "text": "加上"
+    },
+    {
+      "start": 8.08825,
+      "duration": 0.852958,
+      "text": "存储器"
+    },
+    {
+      "start": 8.970583,
+      "duration": 0.16175,
+      "text": "与"
+    },
+    {
+      "start": 9.147041,
+      "duration": 0.397041,
+      "text": "输入"
+    },
+    {
+      "start": 9.558833,
+      "duration": 0.352958,
+      "text": "输出"
+    },
+    {
+      "start": 9.926458,
+      "duration": 0.602958,
+      "text": "接口"
+    },
+    {
+      "start": 10.867666,
+      "duration": 0.455875,
+      "text": "构成"
+    },
+    {
+      "start": 11.352958,
+      "duration": 0.455875,
+      "text": "微型"
+    },
+    {
+      "start": 11.823541,
+      "duration": 0.676458,
+      "text": "计算机"
+    },
+    {
+      "start": 12.529416,
+      "duration": 0.367666,
+      "text": "基本"
+    },
+    {
+      "start": 12.91175,
+      "duration": 0.514708,
+      "text": "硬件"
+    },
+    {
+      "start": 13.882333,
+      "duration": 0.220583,
+      "text": "再"
+    },
+    {
+      "start": 14.102958,
+      "duration": 0.220583,
+      "text": "配"
+    },
+    {
+      "start": 14.352958,
+      "duration": 0.352958,
+      "text": "外围"
+    },
+    {
+      "start": 14.720583,
+      "duration": 0.58825,
+      "text": "设备"
+    },
+    {
+      "start": 15.529416,
+      "duration": 0.5,
+      "text": "电源"
+    },
+    {
+      "start": 16.058833,
+      "duration": 0.176458,
+      "text": "和"
+    },
+    {
+      "start": 16.25,
+      "duration": 0.617666,
+      "text": "软件"
+    },
+    {
+      "start": 17.147041,
+      "duration": 0.397041,
+      "text": "成为"
+    },
+    {
+      "start": 17.573541,
+      "duration": 0.455875,
+      "text": "可用"
+    },
+    {
+      "start": 18.044125,
+      "duration": 0.573541,
+      "text": "系统"
+    },
+    {
+      "start": 19.294125,
+      "duration": 0.264708,
+      "text": "看"
+    },
+    {
+      "start": 19.558833,
+      "duration": 0.41175,
+      "text": "课件"
+    },
+    {
+      "start": 19.985291,
+      "duration": 0.382333,
+      "text": "实物"
+    },
+    {
+      "start": 20.367666,
+      "duration": 0.41175,
+      "text": "图"
+    },
+    {
+      "start": 21.08825,
+      "duration": 0.176458,
+      "text": "把"
+    },
+    {
+      "start": 21.279416,
+      "duration": 0.676458,
+      "text": "内存"
+    },
+    {
+      "start": 22.147041,
+      "duration": 0.705875,
+      "text": "键盘"
+    },
+    {
+      "start": 23.102958,
+      "duration": 0.808833,
+      "text": "显示器"
+    },
+    {
+      "start": 24.044125,
+      "duration": 0.338208,
+      "text": "对应"
+    },
+    {
+      "start": 24.382333,
+      "duration": 0.191166,
+      "text": "到"
+    },
+    {
+      "start": 24.602958,
+      "duration": 0.382333,
+      "text": "各自"
+    },
+    {
+      "start": 25.0,
+      "duration": 0.5,
+      "text": "功能"
+    },
+    {
+      "start": 26.176458,
+      "duration": 1.044125,
+      "text": "四零零四"
+    },
+    {
+      "start": 27.33825,
+      "duration": 0.264708,
+      "text": "在"
+    },
+    {
+      "start": 27.617666,
+      "duration": 0.985291,
+      "text": "一九七一年"
+    },
+    {
+      "start": 28.632333,
+      "duration": 0.705875,
+      "text": "十一月"
+    },
+    {
+      "start": 29.455875,
+      "duration": 0.41175,
+      "text": "正式"
+    },
+    {
+      "start": 29.882333,
+      "duration": 0.397041,
+      "text": "商业"
+    },
+    {
+      "start": 30.294125,
+      "duration": 0.5,
+      "text": "发布"
+    },
+    {
+      "start": 31.470583,
+      "duration": 0.294125,
+      "text": "我们"
+    },
+    {
+      "start": 31.779416,
+      "duration": 0.191166,
+      "text": "借"
+    },
+    {
+      "start": 31.985291,
+      "duration": 0.147041,
+      "text": "这"
+    },
+    {
+      "start": 32.132333,
+      "duration": 0.205875,
+      "text": "段"
+    },
+    {
+      "start": 32.352958,
+      "duration": 0.617666,
+      "text": "历史"
+    },
+    {
+      "start": 33.073541,
+      "duration": 0.41175,
+      "text": "理解"
+    },
+    {
+      "start": 33.5,
+      "duration": 0.779416,
+      "text": "集成化"
+    },
+    {
+      "start": 34.720583,
+      "duration": 0.176458,
+      "text": "一"
+    },
+    {
+      "start": 34.897041,
+      "duration": 0.191166,
+      "text": "颗"
+    },
+    {
+      "start": 35.102958,
+      "duration": 0.83825,
+      "text": "处理器"
+    },
+    {
+      "start": 36.058833,
+      "duration": 0.352958,
+      "text": "需要"
+    },
+    {
+      "start": 36.426458,
+      "duration": 0.397041,
+      "text": "周围"
+    },
+    {
+      "start": 36.83825,
+      "duration": 0.470583,
+      "text": "条件"
+    },
+    {
+      "start": 37.323541,
+      "duration": 0.691166,
+      "text": "配合"
+    },
+    {
+      "start": 38.294125,
+      "duration": 0.205875,
+      "text": "才"
+    },
+    {
+      "start": 38.514708,
+      "duration": 0.352958,
+      "text": "成为"
+    },
+    {
+      "start": 38.897041,
+      "duration": 0.176458,
+      "text": "能"
+    },
+    {
+      "start": 39.08825,
+      "duration": 0.426458,
+      "text": "工作"
+    },
+    {
+      "start": 39.514708,
+      "duration": 0.117666,
+      "text": "的"
+    },
+    {
+      "start": 39.647041,
+      "duration": 0.794125,
+      "text": "计算机"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

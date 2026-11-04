@@ -1,0 +1,326 @@
+{
+  "id": "CH01-S13",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "ab9be27a80edb51a768bea92afeeda448837338f0eb58d6d8d15256758b42fe3",
+  "text": "数制的关键是位权。十进制一九八五，是一乘一千、九乘一百、八乘十再加五。基数换成二，每位只用零或一，整数位权依次是一、二、四、八。\n因此二进制一零零一等于八加一，也就是九。小数点右边依次是二分之一、四分之一、八分之一，所以零点一零一等于零点六二五。相邻位权相差基数倍，位置决定贡献大小。",
+  "duration": 38.424,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.514708,
+      "text": "数制"
+    },
+    {
+      "start": 0.623541,
+      "duration": 0.117666,
+      "text": "的"
+    },
+    {
+      "start": 0.755875,
+      "duration": 0.470583,
+      "text": "关键"
+    },
+    {
+      "start": 1.226458,
+      "duration": 0.16175,
+      "text": "是"
+    },
+    {
+      "start": 1.402958,
+      "duration": 0.676458,
+      "text": "位权"
+    },
+    {
+      "start": 2.764708,
+      "duration": 0.735291,
+      "text": "十进制"
+    },
+    {
+      "start": 3.529416,
+      "duration": 0.970583,
+      "text": "一九八五"
+    },
+    {
+      "start": 4.83825,
+      "duration": 0.16175,
+      "text": "是"
+    },
+    {
+      "start": 5.029416,
+      "duration": 0.132333,
+      "text": "一"
+    },
+    {
+      "start": 5.16175,
+      "duration": 0.205875,
+      "text": "乘"
+    },
+    {
+      "start": 5.382333,
+      "duration": 0.58825,
+      "text": "一千"
+    },
+    {
+      "start": 6.205875,
+      "duration": 0.25,
+      "text": "九"
+    },
+    {
+      "start": 6.455875,
+      "duration": 0.191166,
+      "text": "乘"
+    },
+    {
+      "start": 6.66175,
+      "duration": 0.5,
+      "text": "一百"
+    },
+    {
+      "start": 7.41175,
+      "duration": 0.66175,
+      "text": "八乘十"
+    },
+    {
+      "start": 8.102958,
+      "duration": 0.16175,
+      "text": "再"
+    },
+    {
+      "start": 8.279416,
+      "duration": 0.279416,
+      "text": "加"
+    },
+    {
+      "start": 8.558833,
+      "duration": 0.352958,
+      "text": "五"
+    },
+    {
+      "start": 9.573541,
+      "duration": 0.426458,
+      "text": "基数"
+    },
+    {
+      "start": 10.029416,
+      "duration": 0.41175,
+      "text": "换成"
+    },
+    {
+      "start": 10.441166,
+      "duration": 0.25,
+      "text": "二"
+    },
+    {
+      "start": 11.073541,
+      "duration": 0.191166,
+      "text": "每"
+    },
+    {
+      "start": 11.264708,
+      "duration": 0.220583,
+      "text": "位"
+    },
+    {
+      "start": 11.5,
+      "duration": 0.16175,
+      "text": "只"
+    },
+    {
+      "start": 11.66175,
+      "duration": 0.205875,
+      "text": "用"
+    },
+    {
+      "start": 11.897041,
+      "duration": 0.764708,
+      "text": "零或一"
+    },
+    {
+      "start": 13.014708,
+      "duration": 0.426458,
+      "text": "整数"
+    },
+    {
+      "start": 13.455875,
+      "duration": 0.544125,
+      "text": "位权"
+    },
+    {
+      "start": 14.029416,
+      "duration": 0.382333,
+      "text": "依次"
+    },
+    {
+      "start": 14.426458,
+      "duration": 0.25,
+      "text": "是"
+    },
+    {
+      "start": 14.676458,
+      "duration": 0.323541,
+      "text": "一"
+    },
+    {
+      "start": 15.264708,
+      "duration": 0.308833,
+      "text": "二"
+    },
+    {
+      "start": 15.91175,
+      "duration": 0.382333,
+      "text": "四"
+    },
+    {
+      "start": 16.573541,
+      "duration": 0.308833,
+      "text": "八"
+    },
+    {
+      "start": 17.544125,
+      "duration": 0.617666,
+      "text": "因此"
+    },
+    {
+      "start": 18.294125,
+      "duration": 0.735291,
+      "text": "二进制"
+    },
+    {
+      "start": 19.058833,
+      "duration": 0.897041,
+      "text": "一零零一"
+    },
+    {
+      "start": 20.08825,
+      "duration": 0.33825,
+      "text": "等于"
+    },
+    {
+      "start": 20.455875,
+      "duration": 0.75,
+      "text": "八加一"
+    },
+    {
+      "start": 21.470583,
+      "duration": 0.176458,
+      "text": "也"
+    },
+    {
+      "start": 21.647041,
+      "duration": 0.16175,
+      "text": "就"
+    },
+    {
+      "start": 21.808833,
+      "duration": 0.176458,
+      "text": "是"
+    },
+    {
+      "start": 21.985291,
+      "duration": 0.397041,
+      "text": "九"
+    },
+    {
+      "start": 23.044125,
+      "duration": 0.647041,
+      "text": "小数点"
+    },
+    {
+      "start": 23.705875,
+      "duration": 0.602958,
+      "text": "右边"
+    },
+    {
+      "start": 24.41175,
+      "duration": 0.382333,
+      "text": "依次"
+    },
+    {
+      "start": 24.794125,
+      "duration": 0.279416,
+      "text": "是"
+    },
+    {
+      "start": 25.102958,
+      "duration": 0.867666,
+      "text": "二分之一"
+    },
+    {
+      "start": 26.323541,
+      "duration": 0.882333,
+      "text": "四分之一"
+    },
+    {
+      "start": 27.441166,
+      "duration": 0.83825,
+      "text": "八分之一"
+    },
+    {
+      "start": 28.720583,
+      "duration": 0.558833,
+      "text": "所以"
+    },
+    {
+      "start": 29.397041,
+      "duration": 1.147041,
+      "text": "零点一零一"
+    },
+    {
+      "start": 30.66175,
+      "duration": 0.441166,
+      "text": "等于"
+    },
+    {
+      "start": 31.132333,
+      "duration": 1.191166,
+      "text": "零点六二五"
+    },
+    {
+      "start": 33.0,
+      "duration": 0.544125,
+      "text": "相邻"
+    },
+    {
+      "start": 33.558833,
+      "duration": 0.573541,
+      "text": "位权"
+    },
+    {
+      "start": 34.16175,
+      "duration": 0.426458,
+      "text": "相差"
+    },
+    {
+      "start": 34.602958,
+      "duration": 0.470583,
+      "text": "基数"
+    },
+    {
+      "start": 35.073541,
+      "duration": 0.264708,
+      "text": "倍"
+    },
+    {
+      "start": 35.735291,
+      "duration": 0.382333,
+      "text": "位置"
+    },
+    {
+      "start": 36.132333,
+      "duration": 0.470583,
+      "text": "决定"
+    },
+    {
+      "start": 36.632333,
+      "duration": 0.441166,
+      "text": "贡献"
+    },
+    {
+      "start": 37.08825,
+      "duration": 0.66175,
+      "text": "大小"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

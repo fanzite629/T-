@@ -1,0 +1,461 @@
+{
+  "id": "CH02-S17",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "6cf7dd1671843584f727dd73d0c28843845d3aabbdc1c58d45f1a4d9fbfb9b14",
+  "text": "内部最低三十二字节分成四组，每组八个寄存器。状态字的 R S一、R S零从零零到一一，分别选择组零到组三。切组只改变名字对应的地址，不搬动原数据。\n地址等于组号乘八，再加寄存器编号。组选为一零时，组二的 R三在十六加三，也就是一三 H；切回组零，R三在零三。四组范围在图上列全，并留意组一与默认堆栈重叠。",
+  "duration": 40.104,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.529416,
+      "text": "内部"
+    },
+    {
+      "start": 0.667666,
+      "duration": 0.441166,
+      "text": "最低"
+    },
+    {
+      "start": 1.13825,
+      "duration": 0.58825,
+      "text": "三十二"
+    },
+    {
+      "start": 1.741166,
+      "duration": 0.58825,
+      "text": "字节"
+    },
+    {
+      "start": 2.432333,
+      "duration": 0.441166,
+      "text": "分成"
+    },
+    {
+      "start": 2.88825,
+      "duration": 0.264708,
+      "text": "四"
+    },
+    {
+      "start": 3.152958,
+      "duration": 0.33825,
+      "text": "组"
+    },
+    {
+      "start": 3.829416,
+      "duration": 0.220583,
+      "text": "每"
+    },
+    {
+      "start": 4.05,
+      "duration": 0.25,
+      "text": "组"
+    },
+    {
+      "start": 4.329416,
+      "duration": 0.323541,
+      "text": "八个"
+    },
+    {
+      "start": 4.667666,
+      "duration": 0.764708,
+      "text": "寄存器"
+    },
+    {
+      "start": 6.117666,
+      "duration": 0.470583,
+      "text": "状态"
+    },
+    {
+      "start": 6.58825,
+      "duration": 0.191166,
+      "text": "字"
+    },
+    {
+      "start": 6.779416,
+      "duration": 0.25,
+      "text": "的"
+    },
+    {
+      "start": 7.058833,
+      "duration": 0.264708,
+      "text": "R"
+    },
+    {
+      "start": 7.323541,
+      "duration": 0.338208,
+      "text": "S"
+    },
+    {
+      "start": 7.66175,
+      "duration": 0.367666,
+      "text": "一"
+    },
+    {
+      "start": 8.294125,
+      "duration": 0.308833,
+      "text": "R"
+    },
+    {
+      "start": 8.602958,
+      "duration": 0.352958,
+      "text": "S"
+    },
+    {
+      "start": 8.970583,
+      "duration": 0.382333,
+      "text": "零"
+    },
+    {
+      "start": 9.352958,
+      "duration": 0.279416,
+      "text": "从"
+    },
+    {
+      "start": 9.647041,
+      "duration": 0.382333,
+      "text": "零零"
+    },
+    {
+      "start": 10.058833,
+      "duration": 0.176458,
+      "text": "到"
+    },
+    {
+      "start": 10.235291,
+      "duration": 0.573541,
+      "text": "一一"
+    },
+    {
+      "start": 11.16175,
+      "duration": 0.367666,
+      "text": "分别"
+    },
+    {
+      "start": 11.544125,
+      "duration": 0.441166,
+      "text": "选择"
+    },
+    {
+      "start": 11.985291,
+      "duration": 0.33825,
+      "text": "组"
+    },
+    {
+      "start": 12.441166,
+      "duration": 0.602958,
+      "text": "零到组"
+    },
+    {
+      "start": 13.044125,
+      "duration": 0.382333,
+      "text": "三"
+    },
+    {
+      "start": 14.08825,
+      "duration": 0.5735,
+      "text": "切组"
+    },
+    {
+      "start": 14.66175,
+      "duration": 0.25,
+      "text": "只"
+    },
+    {
+      "start": 14.926458,
+      "duration": 0.470583,
+      "text": "改变"
+    },
+    {
+      "start": 15.426458,
+      "duration": 0.367666,
+      "text": "名字"
+    },
+    {
+      "start": 15.808833,
+      "duration": 0.382333,
+      "text": "对应"
+    },
+    {
+      "start": 16.191166,
+      "duration": 0.102958,
+      "text": "的"
+    },
+    {
+      "start": 16.308833,
+      "duration": 0.573541,
+      "text": "地址"
+    },
+    {
+      "start": 17.147041,
+      "duration": 0.176458,
+      "text": "不"
+    },
+    {
+      "start": 17.323541,
+      "duration": 0.426458,
+      "text": "搬动"
+    },
+    {
+      "start": 17.779416,
+      "duration": 0.235291,
+      "text": "原"
+    },
+    {
+      "start": 18.014708,
+      "duration": 0.617666,
+      "text": "数据"
+    },
+    {
+      "start": 19.294125,
+      "duration": 0.5,
+      "text": "地址"
+    },
+    {
+      "start": 19.808833,
+      "duration": 0.352958,
+      "text": "等于"
+    },
+    {
+      "start": 20.191166,
+      "duration": 0.41175,
+      "text": "组号"
+    },
+    {
+      "start": 20.617666,
+      "duration": 0.279375,
+      "text": "乘"
+    },
+    {
+      "start": 20.897041,
+      "duration": 0.264708,
+      "text": "八"
+    },
+    {
+      "start": 21.514708,
+      "duration": 0.205875,
+      "text": "再"
+    },
+    {
+      "start": 21.720583,
+      "duration": 0.235291,
+      "text": "加"
+    },
+    {
+      "start": 21.985291,
+      "duration": 0.573541,
+      "text": "寄存器"
+    },
+    {
+      "start": 22.573541,
+      "duration": 0.573541,
+      "text": "编号"
+    },
+    {
+      "start": 23.823541,
+      "duration": 0.455875,
+      "text": "组选"
+    },
+    {
+      "start": 24.279416,
+      "duration": 0.191166,
+      "text": "为"
+    },
+    {
+      "start": 24.5,
+      "duration": 0.191166,
+      "text": "一"
+    },
+    {
+      "start": 24.691166,
+      "duration": 0.617666,
+      "text": "零时"
+    },
+    {
+      "start": 25.632333,
+      "duration": 0.235291,
+      "text": "组"
+    },
+    {
+      "start": 25.867666,
+      "duration": 0.25,
+      "text": "二"
+    },
+    {
+      "start": 26.117666,
+      "duration": 0.264708,
+      "text": "的"
+    },
+    {
+      "start": 26.5,
+      "duration": 0.25,
+      "text": "R"
+    },
+    {
+      "start": 26.764708,
+      "duration": 0.367625,
+      "text": "三"
+    },
+    {
+      "start": 27.132333,
+      "duration": 0.176458,
+      "text": "在"
+    },
+    {
+      "start": 27.323541,
+      "duration": 0.382333,
+      "text": "十六"
+    },
+    {
+      "start": 27.720583,
+      "duration": 0.220583,
+      "text": "加"
+    },
+    {
+      "start": 27.941166,
+      "duration": 0.397041,
+      "text": "三"
+    },
+    {
+      "start": 28.602958,
+      "duration": 0.176458,
+      "text": "也"
+    },
+    {
+      "start": 28.779416,
+      "duration": 0.147041,
+      "text": "就"
+    },
+    {
+      "start": 28.926458,
+      "duration": 0.147041,
+      "text": "是"
+    },
+    {
+      "start": 29.08825,
+      "duration": 0.470583,
+      "text": "一三"
+    },
+    {
+      "start": 29.558833,
+      "duration": 0.485291,
+      "text": "H"
+    },
+    {
+      "start": 30.441166,
+      "duration": 0.235291,
+      "text": "切"
+    },
+    {
+      "start": 30.676458,
+      "duration": 0.41175,
+      "text": "回组"
+    },
+    {
+      "start": 31.08825,
+      "duration": 0.382333,
+      "text": "零"
+    },
+    {
+      "start": 31.691166,
+      "duration": 0.279416,
+      "text": "R"
+    },
+    {
+      "start": 31.970583,
+      "duration": 0.323541,
+      "text": "三"
+    },
+    {
+      "start": 32.308833,
+      "duration": 0.191166,
+      "text": "在"
+    },
+    {
+      "start": 32.5,
+      "duration": 0.58825,
+      "text": "零三"
+    },
+    {
+      "start": 33.75,
+      "duration": 0.308833,
+      "text": "四"
+    },
+    {
+      "start": 34.058833,
+      "duration": 0.205875,
+      "text": "组"
+    },
+    {
+      "start": 34.279416,
+      "duration": 0.5,
+      "text": "范围"
+    },
+    {
+      "start": 34.808833,
+      "duration": 0.176458,
+      "text": "在"
+    },
+    {
+      "start": 35.0,
+      "duration": 0.191166,
+      "text": "图"
+    },
+    {
+      "start": 35.191166,
+      "duration": 0.220583,
+      "text": "上"
+    },
+    {
+      "start": 35.41175,
+      "duration": 0.176458,
+      "text": "列"
+    },
+    {
+      "start": 35.602958,
+      "duration": 0.441166,
+      "text": "全"
+    },
+    {
+      "start": 36.382333,
+      "duration": 0.205875,
+      "text": "并"
+    },
+    {
+      "start": 36.602958,
+      "duration": 0.588208,
+      "text": "留意组"
+    },
+    {
+      "start": 37.191166,
+      "duration": 0.352958,
+      "text": "一"
+    },
+    {
+      "start": 37.573541,
+      "duration": 0.16175,
+      "text": "与"
+    },
+    {
+      "start": 37.75,
+      "duration": 0.558833,
+      "text": "默认"
+    },
+    {
+      "start": 38.323541,
+      "duration": 0.220583,
+      "text": "堆"
+    },
+    {
+      "start": 38.544125,
+      "duration": 0.220583,
+      "text": "栈"
+    },
+    {
+      "start": 38.779416,
+      "duration": 0.647041,
+      "text": "重叠"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

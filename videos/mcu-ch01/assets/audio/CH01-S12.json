@@ -1,0 +1,386 @@
+{
+  "id": "CH01-S12",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "f4ca1a943d48fb0ceea15955425d67651f303d5a78c404da4458d11619fc516f",
+  "text": "测控系统把现实量变成可处理的信息。以温控为例，温度经传感器变成电信号；模拟电压需要模数转换后进入数字处理，按键则提供离散开关状态。\n处理器比较测量值与目标，经过输出接口和驱动控制风扇，风扇改变温度，传感器再测量，形成闭环。需要模拟输出时可用数模转换。并非所有传感器都要外接转换器，经典八零五一也没有默认内置模数转换器。",
+  "duration": 42.288,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.455875,
+      "text": "测控"
+    },
+    {
+      "start": 0.579416,
+      "duration": 0.558833,
+      "text": "系统"
+    },
+    {
+      "start": 1.167666,
+      "duration": 0.16175,
+      "text": "把"
+    },
+    {
+      "start": 1.344125,
+      "duration": 0.779416,
+      "text": "现实量"
+    },
+    {
+      "start": 2.241166,
+      "duration": 0.41175,
+      "text": "变成"
+    },
+    {
+      "start": 2.682333,
+      "duration": 0.191166,
+      "text": "可"
+    },
+    {
+      "start": 2.873541,
+      "duration": 0.41175,
+      "text": "处理"
+    },
+    {
+      "start": 3.285291,
+      "duration": 0.08825,
+      "text": "的"
+    },
+    {
+      "start": 3.38825,
+      "duration": 0.66175,
+      "text": "信息"
+    },
+    {
+      "start": 4.735291,
+      "duration": 0.16175,
+      "text": "以"
+    },
+    {
+      "start": 4.926458,
+      "duration": 0.426458,
+      "text": "温控"
+    },
+    {
+      "start": 5.367666,
+      "duration": 0.514708,
+      "text": "为例"
+    },
+    {
+      "start": 6.25,
+      "duration": 0.397041,
+      "text": "温度"
+    },
+    {
+      "start": 6.66175,
+      "duration": 0.220583,
+      "text": "经"
+    },
+    {
+      "start": 6.882333,
+      "duration": 0.867666,
+      "text": "传感器"
+    },
+    {
+      "start": 7.867666,
+      "duration": 0.426458,
+      "text": "变成"
+    },
+    {
+      "start": 8.323541,
+      "duration": 0.75,
+      "text": "电信号"
+    },
+    {
+      "start": 9.529416,
+      "duration": 0.308833,
+      "text": "模拟"
+    },
+    {
+      "start": 9.852958,
+      "duration": 0.573541,
+      "text": "电压"
+    },
+    {
+      "start": 10.544125,
+      "duration": 0.33825,
+      "text": "需要"
+    },
+    {
+      "start": 10.91175,
+      "duration": 0.367666,
+      "text": "模数"
+    },
+    {
+      "start": 11.294125,
+      "duration": 0.485291,
+      "text": "转换"
+    },
+    {
+      "start": 11.779416,
+      "duration": 0.33825,
+      "text": "后"
+    },
+    {
+      "start": 12.235291,
+      "duration": 0.367666,
+      "text": "进入"
+    },
+    {
+      "start": 12.632333,
+      "duration": 0.367666,
+      "text": "数字"
+    },
+    {
+      "start": 13.014708,
+      "duration": 0.558833,
+      "text": "处理"
+    },
+    {
+      "start": 13.852958,
+      "duration": 0.632333,
+      "text": "按键"
+    },
+    {
+      "start": 14.5,
+      "duration": 0.16175,
+      "text": "则"
+    },
+    {
+      "start": 14.676458,
+      "duration": 0.455875,
+      "text": "提供"
+    },
+    {
+      "start": 15.16175,
+      "duration": 0.441166,
+      "text": "离散"
+    },
+    {
+      "start": 15.617666,
+      "duration": 0.41175,
+      "text": "开关"
+    },
+    {
+      "start": 16.044125,
+      "duration": 0.573541,
+      "text": "状态"
+    },
+    {
+      "start": 17.294125,
+      "duration": 0.779416,
+      "text": "处理器"
+    },
+    {
+      "start": 18.102958,
+      "duration": 0.352958,
+      "text": "比较"
+    },
+    {
+      "start": 18.470583,
+      "duration": 0.514708,
+      "text": "测量"
+    },
+    {
+      "start": 18.985291,
+      "duration": 0.382333,
+      "text": "值"
+    },
+    {
+      "start": 19.470583,
+      "duration": 0.147041,
+      "text": "与"
+    },
+    {
+      "start": 19.632333,
+      "duration": 0.573541,
+      "text": "目标"
+    },
+    {
+      "start": 20.573541,
+      "duration": 0.367666,
+      "text": "经过"
+    },
+    {
+      "start": 20.970583,
+      "duration": 0.397041,
+      "text": "输出"
+    },
+    {
+      "start": 21.382333,
+      "duration": 0.602958,
+      "text": "接口"
+    },
+    {
+      "start": 22.014708,
+      "duration": 0.205875,
+      "text": "和"
+    },
+    {
+      "start": 22.235291,
+      "duration": 0.426458,
+      "text": "驱动"
+    },
+    {
+      "start": 22.691166,
+      "duration": 0.323541,
+      "text": "控制"
+    },
+    {
+      "start": 23.029416,
+      "duration": 0.558833,
+      "text": "风扇"
+    },
+    {
+      "start": 23.985291,
+      "duration": 0.485291,
+      "text": "风扇"
+    },
+    {
+      "start": 24.5,
+      "duration": 0.382333,
+      "text": "改变"
+    },
+    {
+      "start": 24.897041,
+      "duration": 0.544125,
+      "text": "温度"
+    },
+    {
+      "start": 25.705875,
+      "duration": 0.764708,
+      "text": "传感器"
+    },
+    {
+      "start": 26.5,
+      "duration": 0.16175,
+      "text": "再"
+    },
+    {
+      "start": 26.676458,
+      "duration": 0.647041,
+      "text": "测量"
+    },
+    {
+      "start": 27.58825,
+      "duration": 0.573541,
+      "text": "形成"
+    },
+    {
+      "start": 28.176458,
+      "duration": 0.617666,
+      "text": "闭环"
+    },
+    {
+      "start": 29.470583,
+      "duration": 0.455875,
+      "text": "需要"
+    },
+    {
+      "start": 29.955875,
+      "duration": 0.33825,
+      "text": "模拟"
+    },
+    {
+      "start": 30.308833,
+      "duration": 0.441166,
+      "text": "输出"
+    },
+    {
+      "start": 30.75,
+      "duration": 0.426458,
+      "text": "时"
+    },
+    {
+      "start": 31.294125,
+      "duration": 0.397041,
+      "text": "可用"
+    },
+    {
+      "start": 31.720583,
+      "duration": 0.397041,
+      "text": "数模"
+    },
+    {
+      "start": 32.132333,
+      "duration": 0.602958,
+      "text": "转换"
+    },
+    {
+      "start": 33.41175,
+      "duration": 0.485291,
+      "text": "并非"
+    },
+    {
+      "start": 33.926458,
+      "duration": 0.367666,
+      "text": "所有"
+    },
+    {
+      "start": 34.308833,
+      "duration": 0.882333,
+      "text": "传感器"
+    },
+    {
+      "start": 35.308833,
+      "duration": 0.147041,
+      "text": "都"
+    },
+    {
+      "start": 35.455875,
+      "duration": 0.191166,
+      "text": "要"
+    },
+    {
+      "start": 35.66175,
+      "duration": 0.41175,
+      "text": "外接"
+    },
+    {
+      "start": 36.073541,
+      "duration": 0.852958,
+      "text": "转换器"
+    },
+    {
+      "start": 37.352958,
+      "duration": 0.5,
+      "text": "经典"
+    },
+    {
+      "start": 37.867666,
+      "duration": 0.985291,
+      "text": "八零五一"
+    },
+    {
+      "start": 38.970583,
+      "duration": 0.16175,
+      "text": "也"
+    },
+    {
+      "start": 39.147041,
+      "duration": 0.294125,
+      "text": "没有"
+    },
+    {
+      "start": 39.455875,
+      "duration": 0.441166,
+      "text": "默认"
+    },
+    {
+      "start": 39.926458,
+      "duration": 0.323541,
+      "text": "内置"
+    },
+    {
+      "start": 40.264708,
+      "duration": 0.426458,
+      "text": "模数"
+    },
+    {
+      "start": 40.705875,
+      "duration": 0.882333,
+      "text": "转换器"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}

@@ -1,0 +1,476 @@
+{
+  "id": "CH02-S15",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "rate": "-15%",
+  "sha256": "3222519fbfeb6779a95de12abcab9ffd19b8a4d97d421ba0bf3d4f9b79525f41",
+  "text": "状态字八位从高到低是进位、辅助进位、用户标志、两个组选位、溢出、课件未展开的一位，以及奇偶标志。看画面逐位对应。\nC Y反映进位或借位，A C反映低四位边界，O V反映有符号结果超范围；两个组选位选择工作寄存器组。P检查累加器中一的个数：奇数个为一，偶数个为零。比如零三有两个一，P为零，不能把它误解成数值本身的奇偶。",
+  "duration": 40.968,
+  "words": [
+    {
+      "start": 0.108833,
+      "duration": 0.470583,
+      "text": "状态"
+    },
+    {
+      "start": 0.579416,
+      "duration": 0.147041,
+      "text": "字"
+    },
+    {
+      "start": 0.741166,
+      "duration": 0.25,
+      "text": "八"
+    },
+    {
+      "start": 0.991166,
+      "duration": 0.352958,
+      "text": "位"
+    },
+    {
+      "start": 1.46175,
+      "duration": 0.279416,
+      "text": "从"
+    },
+    {
+      "start": 1.755875,
+      "duration": 0.205875,
+      "text": "高"
+    },
+    {
+      "start": 1.96175,
+      "duration": 0.191166,
+      "text": "到"
+    },
+    {
+      "start": 2.167666,
+      "duration": 0.220583,
+      "text": "低"
+    },
+    {
+      "start": 2.38825,
+      "duration": 0.205875,
+      "text": "是"
+    },
+    {
+      "start": 2.608833,
+      "duration": 0.544125,
+      "text": "进位"
+    },
+    {
+      "start": 3.447041,
+      "duration": 0.426458,
+      "text": "辅助"
+    },
+    {
+      "start": 3.88825,
+      "duration": 0.58825,
+      "text": "进位"
+    },
+    {
+      "start": 4.785291,
+      "duration": 0.397041,
+      "text": "用户"
+    },
+    {
+      "start": 5.197041,
+      "duration": 0.632333,
+      "text": "标志"
+    },
+    {
+      "start": 6.123541,
+      "duration": 0.205875,
+      "text": "两"
+    },
+    {
+      "start": 6.329416,
+      "duration": 0.08825,
+      "text": "个"
+    },
+    {
+      "start": 6.432333,
+      "duration": 0.205875,
+      "text": "组"
+    },
+    {
+      "start": 6.652958,
+      "duration": 0.602958,
+      "text": "选位"
+    },
+    {
+      "start": 7.535291,
+      "duration": 0.558833,
+      "text": "溢出"
+    },
+    {
+      "start": 8.358833,
+      "duration": 0.5,
+      "text": "课件"
+    },
+    {
+      "start": 8.88825,
+      "duration": 0.205875,
+      "text": "未"
+    },
+    {
+      "start": 9.094125,
+      "duration": 0.441166,
+      "text": "展开"
+    },
+    {
+      "start": 9.535291,
+      "duration": 0.08825,
+      "text": "的"
+    },
+    {
+      "start": 9.63825,
+      "duration": 0.176458,
+      "text": "一"
+    },
+    {
+      "start": 9.814708,
+      "duration": 0.279416,
+      "text": "位"
+    },
+    {
+      "start": 10.367666,
+      "duration": 0.441166,
+      "text": "以及"
+    },
+    {
+      "start": 10.83825,
+      "duration": 0.367666,
+      "text": "奇偶"
+    },
+    {
+      "start": 11.220583,
+      "duration": 0.602958,
+      "text": "标志"
+    },
+    {
+      "start": 12.5,
+      "duration": 0.25,
+      "text": "看"
+    },
+    {
+      "start": 12.764708,
+      "duration": 0.5,
+      "text": "画面"
+    },
+    {
+      "start": 13.294125,
+      "duration": 0.426458,
+      "text": "逐位"
+    },
+    {
+      "start": 13.735291,
+      "duration": 0.529416,
+      "text": "对应"
+    },
+    {
+      "start": 14.941166,
+      "duration": 0.323541,
+      "text": "C"
+    },
+    {
+      "start": 15.264708,
+      "duration": 0.25,
+      "text": "Y"
+    },
+    {
+      "start": 15.529416,
+      "duration": 0.41175,
+      "text": "反映"
+    },
+    {
+      "start": 15.955875,
+      "duration": 0.441166,
+      "text": "进位"
+    },
+    {
+      "start": 16.426458,
+      "duration": 0.16175,
+      "text": "或"
+    },
+    {
+      "start": 16.602958,
+      "duration": 0.58825,
+      "text": "借位"
+    },
+    {
+      "start": 17.544125,
+      "duration": 0.205875,
+      "text": "A"
+    },
+    {
+      "start": 17.75,
+      "duration": 0.308833,
+      "text": "C"
+    },
+    {
+      "start": 18.073541,
+      "duration": 0.455875,
+      "text": "反映"
+    },
+    {
+      "start": 18.558833,
+      "duration": 0.176458,
+      "text": "低"
+    },
+    {
+      "start": 18.735291,
+      "duration": 0.220583,
+      "text": "四"
+    },
+    {
+      "start": 18.955875,
+      "duration": 0.191166,
+      "text": "位"
+    },
+    {
+      "start": 19.16175,
+      "duration": 0.58825,
+      "text": "边界"
+    },
+    {
+      "start": 20.132333,
+      "duration": 0.235291,
+      "text": "O"
+    },
+    {
+      "start": 20.367666,
+      "duration": 0.16175,
+      "text": "V"
+    },
+    {
+      "start": 20.544125,
+      "duration": 0.382333,
+      "text": "反映"
+    },
+    {
+      "start": 20.926458,
+      "duration": 0.323541,
+      "text": "有"
+    },
+    {
+      "start": 21.352958,
+      "duration": 0.426458,
+      "text": "符号"
+    },
+    {
+      "start": 21.794125,
+      "duration": 0.41175,
+      "text": "结果"
+    },
+    {
+      "start": 22.205875,
+      "duration": 0.25,
+      "text": "超"
+    },
+    {
+      "start": 22.470583,
+      "duration": 0.544125,
+      "text": "范围"
+    },
+    {
+      "start": 23.264708,
+      "duration": 0.25,
+      "text": "两"
+    },
+    {
+      "start": 23.514708,
+      "duration": 0.08825,
+      "text": "个"
+    },
+    {
+      "start": 23.617666,
+      "duration": 0.191166,
+      "text": "组"
+    },
+    {
+      "start": 23.808833,
+      "duration": 0.617666,
+      "text": "选位"
+    },
+    {
+      "start": 24.529416,
+      "duration": 0.426458,
+      "text": "选择"
+    },
+    {
+      "start": 24.970583,
+      "duration": 0.558833,
+      "text": "工作"
+    },
+    {
+      "start": 25.647041,
+      "duration": 1.117666,
+      "text": "寄存器组"
+    },
+    {
+      "start": 27.441166,
+      "duration": 0.279416,
+      "text": "P"
+    },
+    {
+      "start": 27.720583,
+      "duration": 0.514708,
+      "text": "检查"
+    },
+    {
+      "start": 28.25,
+      "duration": 0.691166,
+      "text": "累加器"
+    },
+    {
+      "start": 28.941166,
+      "duration": 0.235291,
+      "text": "中"
+    },
+    {
+      "start": 29.205875,
+      "duration": 0.205875,
+      "text": "一"
+    },
+    {
+      "start": 29.41175,
+      "duration": 0.117666,
+      "text": "的"
+    },
+    {
+      "start": 29.544125,
+      "duration": 0.558833,
+      "text": "个数"
+    },
+    {
+      "start": 30.5,
+      "duration": 0.426458,
+      "text": "奇数"
+    },
+    {
+      "start": 30.926458,
+      "duration": 0.132333,
+      "text": "个"
+    },
+    {
+      "start": 31.073541,
+      "duration": 0.264708,
+      "text": "为"
+    },
+    {
+      "start": 31.33825,
+      "duration": 0.308833,
+      "text": "一"
+    },
+    {
+      "start": 31.926458,
+      "duration": 0.455875,
+      "text": "偶数"
+    },
+    {
+      "start": 32.382333,
+      "duration": 0.117666,
+      "text": "个"
+    },
+    {
+      "start": 32.514708,
+      "duration": 0.264708,
+      "text": "为"
+    },
+    {
+      "start": 32.779416,
+      "duration": 0.41175,
+      "text": "零"
+    },
+    {
+      "start": 33.852958,
+      "duration": 0.617666,
+      "text": "比如"
+    },
+    {
+      "start": 34.573541,
+      "duration": 0.455875,
+      "text": "零三"
+    },
+    {
+      "start": 35.058833,
+      "duration": 0.147041,
+      "text": "有"
+    },
+    {
+      "start": 35.205875,
+      "duration": 0.235291,
+      "text": "两"
+    },
+    {
+      "start": 35.441166,
+      "duration": 0.08825,
+      "text": "个"
+    },
+    {
+      "start": 35.544125,
+      "duration": 0.33825,
+      "text": "一"
+    },
+    {
+      "start": 36.176458,
+      "duration": 0.264708,
+      "text": "P"
+    },
+    {
+      "start": 36.455875,
+      "duration": 0.264708,
+      "text": "为"
+    },
+    {
+      "start": 36.720583,
+      "duration": 0.367666,
+      "text": "零"
+    },
+    {
+      "start": 37.441166,
+      "duration": 0.294125,
+      "text": "不能"
+    },
+    {
+      "start": 37.75,
+      "duration": 0.16175,
+      "text": "把"
+    },
+    {
+      "start": 37.91175,
+      "duration": 0.16175,
+      "text": "它"
+    },
+    {
+      "start": 38.08825,
+      "duration": 0.397041,
+      "text": "误解"
+    },
+    {
+      "start": 38.485291,
+      "duration": 0.235291,
+      "text": "成"
+    },
+    {
+      "start": 38.75,
+      "duration": 0.397041,
+      "text": "数值"
+    },
+    {
+      "start": 39.16175,
+      "duration": 0.455875,
+      "text": "本身"
+    },
+    {
+      "start": 39.617666,
+      "duration": 0.117666,
+      "text": "的"
+    },
+    {
+      "start": 39.75,
+      "duration": 0.529416,
+      "text": "奇偶"
+    }
+  ],
+  "provider": "Microsoft Edge online TTS via edge-tts 7.3.1"
+}
