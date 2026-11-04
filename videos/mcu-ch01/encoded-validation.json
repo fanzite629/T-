@@ -1,0 +1,9 @@
+{
+  "chapter": 1,
+  "decoded_entire_video_without_errors": true,
+  "review_frames": 28,
+  "review_frame_dimensions": [
+    1920,
+    1080
+  ]
+}

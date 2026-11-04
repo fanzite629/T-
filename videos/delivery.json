@@ -1,0 +1,39 @@
+{
+  "created_date": "2026-11-04",
+  "repository": "https://github.com/fanzite629/T-",
+  "branch": "claude/ecstatic-edison-u9txgj",
+  "presentation": "课堂图解逐段切换、普通话配音、同步字幕",
+  "renderer": "HyperFrames 0.9.11 snapshots + FFmpeg H.264/AAC compatibility assembly",
+  "chapters": [
+    {
+      "chapter": 1,
+      "file": "ch01-introduction.mp4",
+      "duration_seconds": 1440.0,
+      "width": 1920,
+      "height": 1080,
+      "fps": "24/1",
+      "video_codec": "h264",
+      "pixel_format": "yuv420p",
+      "audio_codec": "aac",
+      "audio_channels": 1,
+      "navigation_chapters": 28,
+      "bytes": 29413824,
+      "sha256": "224f0b9ea755d26ecf9398ab7ed47ebda93b52e783939f898c4fcb3380271e52"
+    },
+    {
+      "chapter": 2,
+      "file": "ch02-mcu-architecture.mp4",
+      "duration_seconds": 1440.0,
+      "width": 1920,
+      "height": 1080,
+      "fps": "24/1",
+      "video_codec": "h264",
+      "pixel_format": "yuv420p",
+      "audio_codec": "aac",
+      "audio_channels": 1,
+      "navigation_chapters": 28,
+      "bytes": 30278534,
+      "sha256": "3c7b9b57a299c37aaa7d90a5b0a2a4f9d9c3d9ca37eff44fbf0254c773536519"
+    }
+  ]
+}

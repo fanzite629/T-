@@ -1,6 +1,6 @@
 # 单片机课程：第一章、第二章讲解视频
 
-Codex 根据原课件和已校订的逐字稿制作。每章 24 分钟，1920×1080、24 fps，包含普通话配音、内嵌字幕、独立 SRT、表格与计算过程。
+Codex 根据原课件和已校订的逐字稿制作。每章 24 分钟，1920×1080、24 fps，包含普通话配音、内嵌字幕、独立 SRT、表格与计算过程。交付成片采用课堂图解逐段切换，保留稳定阅读时间。
 
 | 工程 | 原课件 | 分段 | 画面状态 | 时间 |
 |---|---:|---:|---:|---:|
@@ -11,7 +11,7 @@ Codex 根据原课件和已校订的逐字稿制作。每章 24 分钟，1920×1
 
 ## 观看与复习材料
 
-- 成片入口见仓库根目录及本目录的 `delivery.json`（完成导出后写入）。
+- [完整 MP4 与下载入口](../exports/mcu/README.md)，文件参数及校验值见本目录 `delivery.json`。
 - [第一章字幕](mcu-ch01/subtitles.srt)、[第二章字幕](mcu-ch02/subtitles.srt)。成片已带字幕，通常无需另行加载。
 - [第一章分镜](mcu-ch01/STORYBOARD.md)、[第二章分镜](mcu-ch02/STORYBOARD.md)。
 - [逐字稿、完整习题答案、参考表和逐页覆盖](../docs/mcu-video-scripts/README.md)。
@@ -47,11 +47,28 @@ python videos/build_videos.py
 
 `build_videos.py` 会重新生成画面、字幕和时间轴。字幕来自实际语音返回的词时间，保留正文标点；公式、地址和寄存器的规范写法显示在主画面中。无背景音乐，避免影响技术术语听辨。
 
+## 本次成片采用的兼容导出方式
+
+本机长视频的 HyperFrames 并行导出在全部画面完成后的文件整理阶段触发超时。因此交付 MP4 使用 `compat_export.py`：由 HyperFrames 截取每个分镜的稳定图解，按原时间轴切换，用原配音和同步字幕直接合成。此方式不包含工程中的逐行淡入和连续进度条动画；知识点、图解状态、声音和总时长保持一致。
+
+在仓库根目录运行（以第一章为例；第二章将 `1/ch01` 改成 `2/ch02`）：
+
+```powershell
+python videos/compat_export.py prepare 1 .render-work/ch01
+$times=Get-Content -Raw .render-work/ch01/times.txt
+npx --yes hyperframes@0.9.11 snapshot .render-work/ch01/project --at $times --keep --no-end --output .render-work/ch01/frames
+python videos/compat_export.py encode 1 .render-work/ch01 --output videos/mcu-ch01/renders/chapter01-raw.mp4
+python videos/finalize_video.py 1 videos/mcu-ch01/renders/chapter01-raw.mp4 exports/mcu/ch01-introduction.mp4
+python videos/verify_export.py 1 exports/mcu/ch01-introduction.mp4 .render-work/ch01/review
+```
+
+标题和图解使用 Noto Sans SC；本次兼容导出的字幕在 Windows 上用本机微软雅黑栅格化，字体文件不随仓库分发。独立 SRT 与内嵌字幕对应。
+
 ## 资源与复核
 
 - 原始课件在 `docs/`；技术校订见 [technical-notes.md](../docs/mcu-video-scripts/technical-notes.md)。
 - 图解、表格和动画由 Codex 制作；原课件截图标明页码，不把重绘图冒充原图。
 - Noto Sans SC 字体许可证随 `assets/fonts/OFL.txt` 保存。完整字体用于重新生成子集，播放使用 WOFF2 子集。
 - GSAP 3.15.0 保留原文件头版权及许可证入口；HyperFrames CLI 固定为 0.9.11。
-- 自动检查覆盖布局、运行时、对比度、音频和时间轴；画面另作人工抽查。详细结果将在 `qa-report.md` 中记录。
+- 自动检查覆盖布局、运行时、对比度、音频和时间轴；画面另作抽帧目视检查。详细结果记录在 `qa-report.md`。
 

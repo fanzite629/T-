@@ -1,0 +1,28 @@
+[
+  {
+    "chapter": 1,
+    "ok": true,
+    "lint_errors": 0,
+    "runtime_errors": 0,
+    "layout_errors": 0,
+    "motion_errors": 0,
+    "contrast_errors": 0,
+    "audio_errors": 0,
+    "lint_warnings": 36,
+    "craft_warnings": 9,
+    "full_visual_state_count": 91
+  },
+  {
+    "chapter": 2,
+    "ok": true,
+    "lint_errors": 0,
+    "runtime_errors": 0,
+    "layout_errors": 0,
+    "motion_errors": 0,
+    "contrast_errors": 0,
+    "audio_errors": 0,
+    "lint_warnings": 34,
+    "craft_warnings": 9,
+    "full_visual_state_count": 88
+  }
+]

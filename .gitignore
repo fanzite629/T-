@@ -1,4 +1,5 @@
 exports/check/
+.render-work/
 node_modules/
 videos/**/.hyperframes/
 videos/**/renders/

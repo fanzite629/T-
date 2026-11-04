@@ -34,12 +34,14 @@ def main():
     assert abs(duration - timeline['duration']) < 0.15 and duration <= 1500, duration
     assert (video['width'], video['height']) == (1920, 1080)
     assert video['r_frame_rate'] == '24/1'
+    assert video['codec_name'] == 'h264' and video['pix_fmt'] == 'yuv420p'
+    assert audio['codec_name'] == 'aac'
     assert len(info['chapters']) == len(timeline['scenes']) == 28
     assert float(audio['duration']) >= duration - 0.15
     result = {
         'chapter': args.chapter, 'file': args.output.name, 'duration_seconds': duration,
         'width': video['width'], 'height': video['height'], 'fps': video['r_frame_rate'],
-        'video_codec': video['codec_name'], 'audio_codec': audio['codec_name'],
+        'video_codec': video['codec_name'], 'pixel_format': video['pix_fmt'], 'audio_codec': audio['codec_name'],
         'audio_channels': audio['channels'], 'navigation_chapters': len(info['chapters']),
         'bytes': args.output.stat().st_size, 'sha256': hashlib.file_digest(args.output.open('rb'), 'sha256').hexdigest(),
     }

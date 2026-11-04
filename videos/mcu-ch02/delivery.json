@@ -1,0 +1,15 @@
+{
+  "chapter": 2,
+  "file": "ch02-mcu-architecture.mp4",
+  "duration_seconds": 1440.0,
+  "width": 1920,
+  "height": 1080,
+  "fps": "24/1",
+  "video_codec": "h264",
+  "pixel_format": "yuv420p",
+  "audio_codec": "aac",
+  "audio_channels": 1,
+  "navigation_chapters": 28,
+  "bytes": 30278534,
+  "sha256": "3c7b9b57a299c37aaa7d90a5b0a2a4f9d9c3d9ca37eff44fbf0254c773536519"
+}

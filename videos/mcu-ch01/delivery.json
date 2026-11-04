@@ -1,0 +1,15 @@
+{
+  "chapter": 1,
+  "file": "ch01-introduction.mp4",
+  "duration_seconds": 1440.0,
+  "width": 1920,
+  "height": 1080,
+  "fps": "24/1",
+  "video_codec": "h264",
+  "pixel_format": "yuv420p",
+  "audio_codec": "aac",
+  "audio_channels": 1,
+  "navigation_chapters": 28,
+  "bytes": 29413824,
+  "sha256": "224f0b9ea755d26ecf9398ab7ed47ebda93b52e783939f898c4fcb3380271e52"
+}
