@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect width="1920" height="1080" fill="#F7F9FC"/>
+<text x="80" y="115" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="60" font-weight="700" fill="#172B4D">地址相同，访问对象也可能不同</text>
+<text x="84" y="170" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="30" font-weight="400" fill="#52637C">AT89S52示例 · 必须同时说明地址空间、寻址方式和地址</text>
+<line x1="80" y1="210" x2="1840" y2="210" stroke="#CBD5E1" stroke-width="3"/>
+<text x="82" y="1045" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="400" fill="#52637C">CH02-S27 · 源PDF p28/33及型号差异说明 · 高RAM仅存在于支持的器件</text>
+<rect x="100" y="275" width="780" height="370" rx="16" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="3"/>
+<text x="150" y="343" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="43" font-weight="700" fill="#172B4D">特殊功能寄存器 SFR</text>
+<text x="150" y="434" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="39" font-weight="400" fill="#1D4ED8">直接地址90H → P1端口</text>
+<rect x="150" y="500" width="680" height="90" rx="16" fill="#EAF0FC" stroke="#1D4ED8" stroke-width="3"/>
+<text x="180" y="565" font-family="Consolas,monospace" font-size="48" font-weight="400" fill="#1D4ED8">MOV A,90H</text>
+<rect x="1030" y="275" width="780" height="370" rx="16" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="3"/>
+<text x="1080" y="343" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="43" font-weight="700" fill="#172B4D">高内部RAM</text>
+<text x="1080" y="434" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="39" font-weight="400" fill="#13735B">间接地址90H → RAM单元</text>
+<rect x="1080" y="485" width="680" height="130" rx="16" fill="#E8F4EF" stroke="#13735B" stroke-width="3"/>
+<text x="1110" y="540" font-family="Consolas,monospace" font-size="40" font-weight="400" fill="#13735B">MOV R0,#90H</text>
+<text x="1110" y="592" font-family="Consolas,monospace" font-size="40" font-weight="400" fill="#13735B">MOV A,@R0</text>
+<rect x="100" y="715" width="1710" height="240" rx="16" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="3"/>
+<text x="150" y="794" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="47" font-weight="700" fill="#172B4D">同号不等于同一物理单元</text>
+<text x="150" y="868" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="38" font-weight="400" fill="#172B4D">经典8051没有这块高128字节RAM；MOVX访问的是XDATA空间。</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect width="1920" height="1080" fill="#F7F9FC"/>
+<text x="80" y="115" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="60" font-weight="700" fill="#172B4D">同一组8位，先说明编码规则</text>
+<text x="84" y="170" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="30" font-weight="400" fill="#52637C">例：负四的原码、反码与补码；全程保持8位。</text>
+<line x1="80" y1="210" x2="1840" y2="210" stroke="#CBD5E1" stroke-width="3"/>
+<text x="82" y="1045" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="400" fill="#52637C">CH01-S22 · 源PDF p55 · 固定字长后再进行取反、加一</text>
+<rect x="120" y="280" width="1670" height="135" rx="16" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="3"/>
+<text x="165" y="360" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="43" font-weight="700" fill="#172B4D">原码</text>
+<text x="500" y="372" font-family="Consolas,monospace" font-size="70" font-weight="400" fill="#172B4D">1000 0100</text>
+<text x="1470" y="370" font-family="Consolas,monospace" font-size="58" font-weight="400" fill="#172B4D">84H</text>
+<rect x="120" y="455" width="1670" height="135" rx="16" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="3"/>
+<text x="165" y="535" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="43" font-weight="700" fill="#1D4ED8">反码</text>
+<text x="500" y="547" font-family="Consolas,monospace" font-size="70" font-weight="400" fill="#1D4ED8">1111 1011</text>
+<text x="1470" y="545" font-family="Consolas,monospace" font-size="58" font-weight="400" fill="#1D4ED8">FBH</text>
+<rect x="120" y="630" width="1670" height="135" rx="16" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="3"/>
+<text x="165" y="710" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="43" font-weight="700" fill="#13735B">补码</text>
+<text x="500" y="722" font-family="Consolas,monospace" font-size="70" font-weight="400" fill="#13735B">1111 1100</text>
+<text x="1470" y="720" font-family="Consolas,monospace" font-size="58" font-weight="400" fill="#13735B">FCH</text>
+<rect x="120" y="850" width="1670" height="100" rx="16" fill="#EAF0FC" stroke="#1D4ED8" stroke-width="3"/>
+<text x="180" y="915" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="40" font-weight="700" fill="#172B4D">FCH：按无符号解释为252，按8位补码解释为−4。</text>
+</svg>

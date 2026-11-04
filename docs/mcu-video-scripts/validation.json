@@ -1,0 +1,26 @@
+{
+  "scope": "script and design, not rendered video",
+  "rate_assumption": 235,
+  "chapters": [
+    {
+      "chapter": 1,
+      "pdf_pages": 63,
+      "scenes": 28,
+      "narration_characters": 10017,
+      "estimated_seconds": 2988,
+      "estimated_duration": "49:48",
+      "source_sha256": "ee2ca925b6cd0c5550461edff09017446bdba6ef666e5af517aea2b80bdcb476",
+      "covered_pages": 63
+    },
+    {
+      "chapter": 2,
+      "pdf_pages": 34,
+      "scenes": 28,
+      "narration_characters": 10839,
+      "estimated_seconds": 3272,
+      "estimated_duration": "54:32",
+      "source_sha256": "8b9aa6a32c9c8cc638470cfa8c048c160c1575020f199b43e8b39e63ff3e716e",
+      "covered_pages": 34
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect width="1920" height="1080" fill="#F7F9FC"/>
+<text x="80" y="115" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="60" font-weight="700" fill="#172B4D">三总线：一次“读”发生了什么？</text>
+<text x="84" y="170" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="30" font-weight="400" fill="#52637C">地址、数据与控制各司其职；本图为教学示例。</text>
+<line x1="80" y1="210" x2="1840" y2="210" stroke="#CBD5E1" stroke-width="3"/>
+<text x="82" y="1045" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="400" fill="#52637C">CH01-S06 · 源PDF p17 · 静态版式样张，动画按步骤逐项点亮</text>
+<rect x="100" y="315" width="390" height="470" rx="16" fill="#EAF0FC" stroke="#1D4ED8" stroke-width="3"/>
+<text x="205" y="492" font-family="Consolas,monospace" font-size="72" font-weight="700" fill="#1D4ED8">CPU</text>
+<text x="170" y="573" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="38" font-weight="400" fill="#172B4D">要读取30H</text>
+<text x="165" y="653" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="38" font-weight="400" fill="#172B4D">收到数据5AH</text>
+<rect x="1290" y="315" width="500" height="470" rx="16" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="3"/>
+<text x="1410" y="396" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="46" font-weight="700" fill="#172B4D">存储器</text>
+<rect x="1340" y="455" width="390" height="65" rx="4" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="3"/>
+<text x="1360" y="498" font-family="Consolas,monospace" font-size="37" font-weight="400" fill="#172B4D">2FH</text>
+<text x="1580" y="498" font-family="Consolas,monospace" font-size="37" font-weight="400" fill="#172B4D">18H</text>
+<rect x="1340" y="540" width="390" height="65" rx="4" fill="#EAF0FC" stroke="#1D4ED8" stroke-width="3"/>
+<text x="1360" y="583" font-family="Consolas,monospace" font-size="37" font-weight="400" fill="#172B4D">30H</text>
+<text x="1580" y="583" font-family="Consolas,monospace" font-size="37" font-weight="400" fill="#1D4ED8">5AH</text>
+<rect x="1340" y="625" width="390" height="65" rx="4" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="3"/>
+<text x="1360" y="668" font-family="Consolas,monospace" font-size="37" font-weight="400" fill="#172B4D">31H</text>
+<text x="1580" y="668" font-family="Consolas,monospace" font-size="37" font-weight="400" fill="#172B4D">A2H</text>
+<text x="630" y="337" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="37" font-weight="400" fill="#1D4ED8">① AB：找谁？地址30H</text>
+<line x1="490" y1="405" x2="1285" y2="405" stroke="#1D4ED8" stroke-width="5"/>
+<polygon points="1285,405 1266.9910579529464,413.6993106822246 1266.9910579529464,396.3006893177754" fill="#1D4ED8"/>
+<text x="630" y="492" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="37" font-weight="400" fill="#B45309">② CB：怎样传？读取</text>
+<line x1="490" y1="560" x2="1285" y2="560" stroke="#B45309" stroke-width="5"/>
+<polygon points="1285,560 1266.9910579529464,568.6993106822246 1266.9910579529464,551.3006893177754" fill="#B45309"/>
+<text x="630" y="657" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="37" font-weight="400" fill="#13735B">③ DB：传什么？数据5AH</text>
+<line x1="1285" y1="725" x2="490" y2="725" stroke="#13735B" stroke-width="5"/>
+<polygon points="490,725 508.00894204705355,716.3006893177754 508.00894204705355,733.6993106822246" fill="#13735B"/>
+<rect x="100" y="850" width="1690" height="95" rx="16" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="3"/>
+<text x="150" y="911" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="41" font-weight="700" fill="#172B4D">地址是位置，数据是内容；两者可以用相同的进制书写。</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect width="1920" height="1080" fill="#F7F9FC"/>
+<text x="80" y="115" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="60" font-weight="700" fill="#172B4D">有进位，不一定有有符号溢出</text>
+<text x="84" y="170" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="30" font-weight="400" fill="#52637C">经典8051 · 普通8位ADD · 比较同一位串的两种数值解释</text>
+<line x1="80" y1="210" x2="1840" y2="210" stroke="#CBD5E1" stroke-width="3"/>
+<text x="82" y="1045" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="400" fill="#52637C">CH02-S16 · 源PDF p20定义，算例为教学补充 · CY与OV各自判断</text>
+<rect x="100" y="270" width="820" height="670" rx="16" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="3"/>
+<text x="145" y="333" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="38" font-weight="700" fill="#172B4D">算例一</text>
+<text x="185" y="455" font-family="Consolas,monospace" font-size="65" font-weight="400" fill="#1D4ED8">FFH + 01H</text>
+<text x="185" y="565" font-family="Consolas,monospace" font-size="65" font-weight="400" fill="#172B4D">A = 00H</text>
+<rect x="155" y="640" width="300" height="95" rx="16" fill="#EAF0FC" stroke="#1D4ED8" stroke-width="3"/>
+<text x="188" y="704" font-family="Consolas,monospace" font-size="48" font-weight="400" fill="#1D4ED8">CY = 1</text>
+<rect x="505" y="640" width="300" height="95" rx="16" fill="#E8F4EF" stroke="#13735B" stroke-width="3"/>
+<text x="538" y="704" font-family="Consolas,monospace" font-size="48" font-weight="400" fill="#13735B">OV = 0</text>
+<text x="145" y="844" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="34" font-weight="700" fill="#172B4D">补码：−1＋1＝0，结果可表示</text>
+<rect x="1000" y="270" width="820" height="670" rx="16" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="3"/>
+<text x="1045" y="333" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="38" font-weight="700" fill="#172B4D">算例二</text>
+<text x="1085" y="455" font-family="Consolas,monospace" font-size="65" font-weight="400" fill="#1D4ED8">7FH + 01H</text>
+<text x="1085" y="565" font-family="Consolas,monospace" font-size="65" font-weight="400" fill="#172B4D">A = 80H</text>
+<rect x="1055" y="640" width="300" height="95" rx="16" fill="#EAF0FC" stroke="#1D4ED8" stroke-width="3"/>
+<text x="1088" y="704" font-family="Consolas,monospace" font-size="48" font-weight="400" fill="#1D4ED8">CY = 0</text>
+<rect x="1405" y="640" width="300" height="95" rx="16" fill="#E8F4EF" stroke="#13735B" stroke-width="3"/>
+<text x="1438" y="704" font-family="Consolas,monospace" font-size="48" font-weight="400" fill="#13735B">OV = 1</text>
+<text x="1045" y="844" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="34" font-weight="700" fill="#172B4D">补码：127＋1＝128，超出范围</text>
+</svg>
