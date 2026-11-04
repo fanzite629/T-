@@ -1,0 +1,5 @@
+exports/check/
+exports/*.wav
+node_modules/
+.tts-cache/
+__pycache__/

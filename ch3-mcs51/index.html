@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MCS-51 指令系统 · 讲解视频</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="src/styles.css">
+<script>
+  // ?ep=1..6 selects the episode; each episode has its own timeline, scenes and narration track
+  window.EP = Math.max(1, Math.min(6, parseInt(new URLSearchParams(location.search).get('ep') || '1', 10)));
+</script>
+</head>
+<body>
+<div id="player">
+  <div id="epRow"></div>
+  <div id="stageWrap">
+    <svg id="stage" viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="MCS-51 指令系统讲解动画"></svg>
+    <button id="bigPlay" aria-label="播放">▶</button>
+  </div>
+  <div id="controls">
+    <input id="scrub" type="range" min="0" step="0.05" value="0" aria-label="时间轴">
+    <div id="btnRow">
+      <button id="btnPlay">▶ 播放</button>
+      <button id="btnBack" title="后退 5 秒（←）">« 5s</button>
+      <button id="btnFwd" title="前进 5 秒（→）">5s »</button>
+      <span id="time">00:00 / 00:00</span>
+      <span class="sep"></span>
+      <select id="rate" title="播放速度"><option value="0.75">0.75×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option></select>
+      <button id="btnMute" class="on" title="声音（M）">声音</button>
+      <button id="btnCap" class="on" title="字幕（C）">字幕</button>
+      <button id="btnNotes" class="on" title="注释（N）">注释</button>
+      <button id="btnFs" title="全屏（F）">⛶ 全屏</button>
+    </div>
+    <div id="hint">顶部进度条分段可点击跳转 · 空格 播放/暂停 · ←/→ 5 秒 · PgUp/PgDn 上/下一节 · C 字幕 · N 注释 · M 声音 · F 全屏</div>
+  </div>
+  <audio id="audio" preload="auto"></audio>
+</div>
+<script>
+  document.getElementById('audio').src = `exports/ep${EP}-narration.mp3`;
+  for (const f of [`src/tl/ep${EP}.js`, 'src/engine.js', 'src/chrome.js', `src/scenes/ep${EP}.js`, 'src/player.js'])
+    document.write(`<script src="${f}"><\/script>`);
+</script>
+</body>
+</html>
